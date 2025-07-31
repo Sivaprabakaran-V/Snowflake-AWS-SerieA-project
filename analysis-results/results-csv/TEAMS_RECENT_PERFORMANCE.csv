@@ -1,0 +1,3801 @@
+﻿SEASON,TEAM,MATCH_DATE,RESULT,LAST_1,LAST_2,LAST_3,LAST_4,LAST_5,FORM_SCORE
+2021,Atalanta,2021-04-11,Fiorentina,W,W,W,L,W,12
+2021,Atalanta,2021-05-23,Milan,W,W,W,D,W,10
+2021,Atalanta,2021-02-06,Torino,L,W,D,D,W,6
+2021,Atalanta,2021-02-21,Napoli,W,D,L,W,D,10
+2021,Atalanta,2021-02-28,Sampdoria,W,W,D,L,W,10
+2021,Atalanta,2021-03-03,Crotone,W,W,W,D,L,13
+2021,Atalanta,2021-03-08,Inter,W,W,W,W,D,12
+2021,Atalanta,2021-03-12,Spezia,L,W,W,W,W,12
+2021,Atalanta,2021-03-21,Hellas Verona,W,L,W,W,W,12
+2021,Atalanta,2020-09-26,Torino,,,,,,3
+2021,Atalanta,2020-12-13,Fiorentina,L,D,D,W,L,8
+2021,Atalanta,2021-04-18,Juventus,W,W,W,W,L,15
+2021,Atalanta,2021-04-22,Roma,W,W,W,W,W,13
+2021,Atalanta,2021-04-25,Bologna,D,W,W,W,W,13
+2021,Atalanta,2021-05-02,Sassuolo,W,D,W,W,W,11
+2021,Atalanta,2021-05-09,Parma,D,W,D,W,W,11
+2021,Atalanta,2021-05-12,Benevento,W,D,W,D,W,11
+2021,Atalanta,2021-05-15,Genoa,W,W,D,W,D,13
+2021,Atalanta,2021-04-03,Udinese,W,W,L,W,W,12
+2021,Atalanta,2021-02-14,Cagliari,D,L,W,D,D,8
+2021,Atalanta,2020-09-30,Lazio,W,,,,,6
+2021,Atalanta,2020-10-04,Cagliari,W,W,,,,9
+2021,Atalanta,2020-10-17,Napoli,W,W,W,,,9
+2021,Atalanta,2020-10-24,Sampdoria,L,W,W,W,,9
+2021,Atalanta,2020-10-31,Crotone,L,L,W,W,W,9
+2021,Atalanta,2020-11-08,Inter,W,L,L,W,W,7
+2021,Atalanta,2020-11-21,Spezia,D,W,L,L,W,5
+2021,Atalanta,2020-11-28,Hellas Verona,D,D,W,L,L,5
+2021,Atalanta,2021-01-31,Lazio,W,D,D,W,W,8
+2021,Atalanta,2020-12-16,Juventus,W,L,D,D,W,6
+2021,Atalanta,2020-12-20,Roma,D,W,L,D,D,8
+2021,Atalanta,2020-12-23,Bologna,W,D,W,L,D,8
+2021,Atalanta,2021-01-03,Sassuolo,D,W,D,W,L,11
+2021,Atalanta,2021-01-06,Parma,W,D,W,D,W,11
+2021,Atalanta,2021-01-09,Benevento,W,W,D,W,D,13
+2021,Atalanta,2021-01-17,Genoa,W,W,W,D,W,11
+2021,Atalanta,2021-01-20,Udinese,D,W,W,W,D,11
+2021,Atalanta,2021-01-23,Milan,D,D,W,W,W,11
+2021,Benevento,2021-04-03,Parma,W,L,D,L,L,5
+2021,Benevento,2021-01-30,Inter,D,L,L,W,L,4
+2021,Benevento,2021-05-16,Crotone,L,L,L,L,D,1
+2021,Benevento,2021-02-21,Roma,D,D,L,D,L,4
+2021,Benevento,2021-02-28,Napoli,D,D,D,L,D,3
+2021,Benevento,2021-03-03,Hellas Verona,L,D,D,D,L,3
+2021,Benevento,2021-03-06,Spezia,L,L,D,D,D,3
+2021,Benevento,2021-03-13,Fiorentina,D,L,L,D,D,2
+2021,Benevento,2021-03-21,Juventus,L,D,L,L,D,4
+2021,Benevento,2021-04-21,Genoa,L,L,D,W,L,5
+2021,Benevento,2021-01-22,Torino,L,L,W,L,W,4
+2021,Benevento,2021-04-12,Sassuolo,D,W,L,D,L,5
+2021,Benevento,2021-04-18,Lazio,L,D,W,L,D,4
+2021,Benevento,2021-02-12,Bologna,D,L,D,L,L,3
+2021,Benevento,2021-04-25,Udinese,D,L,L,D,W,2
+2021,Benevento,2021-05-01,Milan,L,D,L,L,D,1
+2021,Benevento,2021-05-09,Cagliari,L,L,D,L,L,1
+2021,Benevento,2021-05-12,Atalanta,L,L,L,D,L,1
+2021,Benevento,2020-09-26,Sampdoria,,,,,,3
+2021,Benevento,2020-11-28,Juventus,W,L,L,L,L,4
+2021,Benevento,2020-09-30,Inter,W,,,,,3
+2021,Benevento,2020-12-11,Sassuolo,D,D,W,L,L,5
+2021,Benevento,2021-05-23,Torino,D,L,L,L,L,2
+2021,Benevento,2020-12-20,Genoa,D,L,D,D,W,6
+2021,Benevento,2020-10-18,Roma,W,L,W,,,6
+2021,Benevento,2020-10-25,Napoli,L,W,L,W,,6
+2021,Benevento,2020-11-02,Hellas Verona,L,L,W,L,W,3
+2021,Benevento,2020-11-07,Spezia,L,L,L,W,L,3
+2021,Benevento,2020-11-22,Fiorentina,L,L,L,L,W,3
+2021,Benevento,2021-02-07,Sampdoria,L,D,L,L,W,2
+2021,Benevento,2020-12-06,Parma,D,W,L,L,L,5
+2021,Benevento,2020-10-04,Bologna,L,W,,,,6
+2021,Benevento,2020-12-15,Lazio,L,D,D,W,L,6
+2021,Benevento,2020-12-23,Udinese,W,D,L,D,D,8
+2021,Benevento,2021-01-03,Milan,W,W,D,L,D,7
+2021,Benevento,2021-01-06,Cagliari,L,W,W,D,L,10
+2021,Benevento,2021-01-09,Atalanta,W,L,W,W,D,9
+2021,Benevento,2021-01-17,Crotone,L,W,L,W,W,6
+2021,Bologna,2020-12-23,Atalanta,D,D,L,L,W,3
+2021,Bologna,2020-09-28,Parma,L,,,,,3
+2021,Bologna,2020-09-21,Milan,,,,,,0
+2021,Bologna,2020-10-04,Benevento,W,L,,,,3
+2021,Bologna,2021-02-07,Parma,L,L,W,L,D,6
+2021,Bologna,2021-01-30,Milan,L,W,L,D,D,4
+2021,Bologna,2021-01-24,Juventus,W,L,D,D,D,5
+2021,Bologna,2021-01-16,Hellas Verona,L,D,D,D,D,6
+2021,Bologna,2021-01-09,Genoa,D,D,D,D,D,4
+2021,Bologna,2021-01-06,Udinese,D,D,D,D,L,5
+2021,Bologna,2020-10-24,Lazio,L,L,W,L,,3
+2021,Bologna,2020-10-31,Cagliari,L,L,L,W,L,6
+2021,Bologna,2020-11-08,Napoli,W,L,L,L,W,3
+2021,Bologna,2021-01-03,Fiorentina,D,D,D,L,L,4
+2021,Bologna,2020-11-22,Sampdoria,L,W,L,L,L,6
+2021,Bologna,2020-11-29,Crotone,W,L,W,L,L,9
+2021,Bologna,2020-12-05,Inter,W,W,L,W,L,9
+2021,Bologna,2020-12-13,Roma,L,W,W,L,W,6
+2021,Bologna,2020-12-16,Spezia,L,L,W,W,L,7
+2021,Bologna,2021-04-11,Roma,L,W,W,L,L,6
+2021,Bologna,2021-04-25,Atalanta,D,W,L,L,W,4
+2021,Bologna,2021-05-02,Fiorentina,L,D,W,L,L,5
+2021,Bologna,2021-05-08,Udinese,D,L,D,W,L,6
+2021,Bologna,2021-05-12,Genoa,D,D,L,D,W,3
+2021,Bologna,2021-05-17,Hellas Verona,L,D,D,L,D,3
+2021,Bologna,2021-05-23,Juventus,D,L,D,D,L,3
+2021,Bologna,2020-10-18,Sassuolo,L,W,L,,,3
+2021,Bologna,2021-02-12,Benevento,W,L,L,W,L,7
+2021,Bologna,2021-04-18,Spezia,L,L,W,W,L,9
+2021,Bologna,2020-12-20,Torino,D,L,L,W,W,5
+2021,Bologna,2021-04-03,Inter,W,W,L,L,W,6
+2021,Bologna,2021-03-20,Crotone,W,L,L,W,D,9
+2021,Bologna,2021-03-14,Sampdoria,L,L,W,D,D,7
+2021,Bologna,2021-03-07,Napoli,L,W,D,D,W,5
+2021,Bologna,2021-02-27,Lazio,D,D,W,L,L,8
+2021,Bologna,2021-04-21,Torino,W,L,L,W,W,7
+2021,Bologna,2021-02-20,Sassuolo,D,W,L,L,W,5
+2021,Bologna,2021-03-03,Cagliari,W,D,D,W,L,8
+2021,Cagliari,2020-11-21,Juventus,W,L,W,W,L,9
+2021,Cagliari,2021-01-18,Milan,L,L,L,L,D,0
+2021,Cagliari,2021-01-10,Fiorentina,L,L,L,D,D,1
+2021,Cagliari,2021-01-06,Benevento,L,L,D,D,L,2
+2021,Cagliari,2021-01-03,Napoli,L,D,D,L,D,2
+2021,Cagliari,2020-12-23,Roma,D,D,L,D,D,3
+2021,Cagliari,2020-12-20,Udinese,D,L,D,D,L,4
+2021,Cagliari,2020-12-16,Parma,L,D,D,L,W,3
+2021,Cagliari,2020-12-06,Hellas Verona,D,L,W,L,W,5
+2021,Cagliari,2021-05-22,Genoa,D,D,W,D,W,6
+2021,Cagliari,2020-11-29,Spezia,L,W,L,W,W,7
+2021,Cagliari,2020-11-07,Sampdoria,L,W,W,L,L,9
+2021,Cagliari,2020-10-31,Bologna,W,W,L,L,D,6
+2021,Cagliari,2020-10-25,Crotone,W,L,L,D,,7
+2021,Cagliari,2020-10-18,Torino,L,L,D,,,4
+2021,Cagliari,2020-10-04,Atalanta,L,D,,,,1
+2021,Cagliari,2020-09-26,Lazio,D,,,,,1
+2021,Cagliari,2020-12-13,Inter,D,D,L,W,L,5
+2021,Cagliari,2020-09-20,Sassuolo,,,,,,1
+2021,Cagliari,2021-03-14,Juventus,D,W,W,L,L,7
+2021,Cagliari,2021-05-12,Fiorentina,W,D,W,W,W,11
+2021,Cagliari,2021-05-09,Benevento,D,W,W,W,L,13
+2021,Cagliari,2021-05-02,Napoli,W,W,W,L,L,10
+2021,Cagliari,2021-04-25,Roma,W,W,L,L,L,9
+2021,Cagliari,2021-04-21,Udinese,W,L,L,L,L,6
+2021,Cagliari,2021-04-17,Parma,L,L,L,L,D,3
+2021,Cagliari,2021-01-31,Sassuolo,L,L,L,L,L,1
+2021,Cagliari,2021-04-03,Hellas Verona,L,L,D,W,W,4
+2021,Cagliari,2021-03-20,Spezia,L,D,W,W,L,7
+2021,Cagliari,2021-05-16,Milan,D,W,D,W,W,9
+2021,Cagliari,2021-03-07,Sampdoria,W,W,L,L,L,7
+2021,Cagliari,2021-03-03,Bologna,W,L,L,L,D,6
+2021,Cagliari,2021-02-28,Crotone,L,L,L,D,L,4
+2021,Cagliari,2021-02-19,Torino,L,L,D,L,L,1
+2021,Cagliari,2021-02-14,Atalanta,L,D,L,L,L,1
+2021,Cagliari,2021-02-07,Lazio,D,L,L,L,L,1
+2021,Cagliari,2021-04-11,Inter,L,L,L,D,W,1
+2021,Cagliari,2021-01-24,Genoa,L,L,L,L,L,0
+2021,Crotone,2021-01-17,Benevento,L,L,L,W,L,6
+2021,Crotone,2021-01-10,Hellas Verona,L,L,W,L,D,3
+2021,Crotone,2021-01-06,Roma,L,W,L,D,W,4
+2021,Crotone,2021-01-03,Inter,W,L,D,W,L,7
+2021,Crotone,2020-12-22,Parma,L,D,W,L,L,7
+2021,Crotone,2020-12-19,Sampdoria,D,W,L,L,L,4
+2021,Crotone,2020-12-15,Udinese,W,L,L,L,D,4
+2021,Crotone,2020-12-12,Spezia,L,L,L,D,L,4
+2021,Crotone,2021-01-31,Genoa,L,W,L,L,L,3
+2021,Crotone,2020-11-29,Bologna,L,D,L,L,D,1
+2021,Crotone,2020-11-21,Lazio,D,L,L,D,L,2
+2021,Crotone,2020-11-08,Torino,L,L,D,L,L,2
+2021,Crotone,2020-10-31,Atalanta,L,D,L,L,L,1
+2021,Crotone,2020-10-25,Cagliari,D,L,L,L,,1
+2021,Crotone,2020-10-17,Juventus,L,L,L,,,1
+2021,Crotone,2020-10-03,Sassuolo,L,L,,,,0
+2021,Crotone,2020-09-27,Milan,L,,,,,0
+2021,Crotone,2021-04-03,Napoli,L,L,W,L,L,3
+2021,Crotone,2021-05-22,Fiorentina,D,W,L,L,W,5
+2021,Crotone,2021-05-16,Benevento,W,L,L,W,L,7
+2021,Crotone,2021-05-13,Hellas Verona,L,L,W,L,L,6
+2021,Crotone,2021-05-09,Roma,L,W,L,L,L,3
+2021,Crotone,2021-05-01,Inter,W,L,L,L,L,3
+2021,Crotone,2021-04-24,Parma,L,L,L,L,L,3
+2021,Crotone,2021-04-21,Sampdoria,L,L,L,L,L,0
+2021,Crotone,2021-04-17,Udinese,L,L,L,L,W,0
+2021,Crotone,2021-04-10,Spezia,L,L,L,W,L,3
+2021,Crotone,2020-09-20,Genoa,,,,,,0
+2021,Crotone,2021-03-20,Bologna,L,W,L,L,L,3
+2021,Crotone,2021-03-12,Lazio,W,L,L,L,L,3
+2021,Crotone,2021-01-23,Fiorentina,W,L,L,L,W,3
+2021,Crotone,2021-03-07,Torino,L,L,L,L,L,3
+2021,Crotone,2021-03-03,Atalanta,L,L,L,L,L,0
+2021,Crotone,2021-02-28,Cagliari,L,L,L,L,L,0
+2021,Crotone,2021-02-22,Juventus,L,L,L,L,W,0
+2021,Crotone,2021-02-14,Sassuolo,L,L,L,W,L,3
+2021,Crotone,2021-02-07,Milan,L,L,W,L,L,3
+2021,Crotone,2020-12-06,Napoli,L,L,D,L,L,1
+2021,Fiorentina,2021-04-17,Sassuolo,L,D,L,W,D,4
+2021,Fiorentina,2020-09-26,Inter,W,,,,,3
+2021,Fiorentina,2020-10-02,Sampdoria,L,W,,,,3
+2021,Fiorentina,2021-02-19,Spezia,L,L,D,W,L,7
+2021,Fiorentina,2021-02-28,Udinese,W,L,L,D,W,4
+2021,Fiorentina,2021-03-03,Roma,L,W,L,L,D,3
+2021,Fiorentina,2021-03-07,Parma,L,L,W,L,L,4
+2021,Fiorentina,2021-03-13,Benevento,D,L,L,W,L,7
+2021,Fiorentina,2021-03-21,Milan,W,D,L,L,W,4
+2021,Fiorentina,2021-04-11,Atalanta,D,L,W,D,L,5
+2021,Fiorentina,2020-09-19,Torino,,,,,,3
+2021,Fiorentina,2021-04-25,Juventus,W,L,L,D,L,5
+2021,Fiorentina,2021-04-20,Hellas Verona,L,L,D,L,W,4
+2021,Fiorentina,2021-04-03,Genoa,L,W,D,L,L,5
+2021,Fiorentina,2021-05-22,Crotone,L,D,W,D,D,6
+2021,Fiorentina,2021-05-16,Napoli,D,W,D,D,W,6
+2021,Fiorentina,2021-05-12,Cagliari,W,D,D,W,L,9
+2021,Fiorentina,2021-05-08,Lazio,D,D,W,L,L,8
+2021,Fiorentina,2021-05-02,Bologna,D,W,L,L,D,5
+2021,Fiorentina,2021-02-14,Sampdoria,L,D,W,L,W,4
+2021,Fiorentina,2020-10-18,Spezia,L,L,W,,,4
+2021,Fiorentina,2020-10-25,Udinese,D,L,L,W,,7
+2021,Fiorentina,2020-11-01,Roma,W,D,L,L,W,4
+2021,Fiorentina,2020-11-07,Parma,L,W,D,L,L,5
+2021,Fiorentina,2020-11-22,Benevento,D,L,W,D,L,5
+2021,Fiorentina,2020-11-29,Milan,L,D,L,W,D,4
+2021,Fiorentina,2021-01-29,Torino,W,L,W,L,D,7
+2021,Fiorentina,2020-12-13,Atalanta,D,L,L,D,L,2
+2021,Fiorentina,2020-12-16,Sassuolo,L,D,L,L,D,2
+2021,Fiorentina,2021-02-05,Inter,D,W,L,W,L,7
+2021,Fiorentina,2020-12-19,Hellas Verona,D,L,D,L,L,3
+2021,Fiorentina,2020-12-22,Juventus,D,D,L,D,L,6
+2021,Fiorentina,2021-01-03,Bologna,W,D,D,L,D,6
+2021,Fiorentina,2021-01-06,Lazio,D,W,D,D,L,6
+2021,Fiorentina,2021-01-10,Cagliari,L,D,W,D,D,8
+2021,Fiorentina,2021-01-17,Napoli,W,L,D,W,D,7
+2021,Fiorentina,2021-01-23,Crotone,L,W,L,D,W,7
+2021,Fiorentina,2020-12-07,Genoa,L,L,D,L,W,2
+2021,Genoa,2021-04-18,Milan,L,D,W,D,L,5
+2021,Genoa,2021-02-13,Torino,W,W,W,D,W,11
+2021,Genoa,2021-02-20,Hellas Verona,D,W,W,W,D,11
+2021,Genoa,2021-02-28,Inter,D,D,W,W,W,8
+2021,Genoa,2021-03-03,Sampdoria,L,D,D,W,W,6
+2021,Genoa,2021-03-07,Roma,D,L,D,D,W,3
+2021,Genoa,2021-03-13,Udinese,L,D,L,D,D,3
+2021,Genoa,2021-03-19,Parma,D,L,D,L,D,5
+2021,Genoa,2020-12-07,Fiorentina,L,L,L,L,D,1
+2021,Genoa,2021-04-03,Fiorentina,W,D,L,D,L,6
+2021,Genoa,2021-02-06,Napoli,W,W,D,W,L,13
+2021,Genoa,2021-04-21,Benevento,L,L,D,W,D,5
+2021,Genoa,2021-04-24,Spezia,D,L,L,D,W,5
+2021,Genoa,2021-05-02,Lazio,W,D,L,L,D,4
+2021,Genoa,2021-05-09,Sassuolo,L,W,D,L,L,4
+2021,Genoa,2021-05-12,Bologna,L,L,W,D,L,7
+2021,Genoa,2021-05-15,Atalanta,W,L,L,W,D,6
+2021,Genoa,2021-05-22,Cagliari,L,W,L,L,W,6
+2021,Genoa,2020-09-20,Crotone,,,,,,3
+2021,Genoa,2020-12-16,Milan,L,D,L,L,L,2
+2021,Genoa,2020-10-19,Hellas Verona,L,W,,,,4
+2021,Genoa,2020-10-24,Inter,D,L,W,,,4
+2021,Genoa,2020-11-01,Sampdoria,L,D,L,W,,5
+2021,Genoa,2020-11-04,Torino,D,L,D,L,W,2
+2021,Genoa,2020-11-08,Roma,L,D,L,D,L,2
+2021,Genoa,2020-11-22,Udinese,L,L,D,L,D,1
+2021,Genoa,2020-11-30,Parma,L,L,L,D,L,1
+2021,Genoa,2021-01-31,Crotone,W,D,W,L,D,10
+2021,Genoa,2020-12-13,Juventus,D,L,L,L,L,1
+2021,Genoa,2020-09-27,Napoli,W,,,,,3
+2021,Genoa,2020-12-20,Benevento,D,L,D,L,L,2
+2021,Genoa,2020-12-23,Spezia,L,D,L,D,L,5
+2021,Genoa,2021-01-03,Lazio,W,L,D,L,D,5
+2021,Genoa,2021-01-06,Sassuolo,D,W,L,D,L,5
+2021,Genoa,2021-01-09,Bologna,L,D,W,L,D,7
+2021,Genoa,2021-01-17,Atalanta,W,L,D,W,L,8
+2021,Genoa,2021-01-24,Cagliari,D,W,L,D,W,8
+2021,Genoa,2021-04-11,Juventus,D,W,D,L,D,5
+2021,Hellas Verona,2020-11-08,Milan,W,D,D,L,W,6
+2021,Hellas Verona,2021-01-10,Crotone,D,W,L,D,L,8
+2021,Hellas Verona,2021-05-17,Bologna,L,D,D,L,L,3
+2021,Hellas Verona,2021-01-06,Torino,W,L,D,L,W,5
+2021,Hellas Verona,2020-12-23,Inter,D,L,W,D,W,5
+2021,Hellas Verona,2020-12-19,Fiorentina,L,W,D,W,L,8
+2021,Hellas Verona,2020-12-16,Sampdoria,W,D,W,L,D,7
+2021,Hellas Verona,2020-12-12,Lazio,D,W,L,D,W,8
+2021,Hellas Verona,2021-01-31,Roma,W,L,W,D,W,7
+2021,Hellas Verona,2020-11-28,Atalanta,L,D,W,D,D,8
+2021,Hellas Verona,2021-01-03,Spezia,L,D,L,W,D,7
+2021,Hellas Verona,2021-05-23,Napoli,D,L,D,D,L,4
+2021,Hellas Verona,2021-04-03,Cagliari,L,L,L,W,D,6
+2021,Hellas Verona,2020-09-27,Udinese,W,,,,,6
+2021,Hellas Verona,2020-10-04,Parma,W,W,,,,6
+2021,Hellas Verona,2020-10-25,Juventus,D,L,W,W,,8
+2021,Hellas Verona,2020-11-22,Sassuolo,D,W,D,D,L,6
+2021,Hellas Verona,2020-11-02,Benevento,D,D,L,W,W,8
+2021,Hellas Verona,2020-10-19,Genoa,L,W,W,,,7
+2021,Hellas Verona,2021-01-24,Napoli,L,W,D,W,L,10
+2021,Hellas Verona,2021-05-13,Crotone,D,D,L,L,L,2
+2021,Hellas Verona,2021-05-09,Torino,D,L,L,L,L,2
+2021,Hellas Verona,2021-05-01,Spezia,L,L,L,L,W,1
+2021,Hellas Verona,2021-04-25,Inter,L,L,L,W,L,3
+2021,Hellas Verona,2021-04-20,Fiorentina,L,L,W,L,L,3
+2021,Hellas Verona,2021-04-17,Sampdoria,L,W,L,L,L,3
+2021,Hellas Verona,2021-04-11,Lazio,W,L,L,L,W,3
+2021,Hellas Verona,2021-03-21,Atalanta,L,L,W,D,D,4
+2021,Hellas Verona,2021-03-13,Sassuolo,L,W,D,D,W,5
+2021,Hellas Verona,2021-03-07,Milan,W,D,D,W,L,8
+2021,Hellas Verona,2021-03-03,Benevento,D,D,W,L,L,8
+2021,Hellas Verona,2021-02-27,Juventus,D,W,L,L,W,5
+2021,Hellas Verona,2021-02-20,Genoa,W,L,L,W,L,7
+2021,Hellas Verona,2021-02-15,Parma,L,L,W,L,W,6
+2021,Hellas Verona,2021-02-07,Udinese,L,W,L,W,D,6
+2021,Hellas Verona,2021-01-16,Bologna,W,D,W,L,D,7
+2021,Hellas Verona,2020-12-06,Cagliari,W,L,D,W,D,8
+2021,Hellas Verona,2020-09-19,Roma,,,,,,3
+2021,Internazionale,2020-12-05,Bologna,W,W,D,D,W,11
+2021,Internazionale,2021-01-17,Juventus,D,L,W,W,W,10
+2021,Internazionale,2021-01-23,Udinese,W,D,L,W,W,8
+2021,Internazionale,2021-01-30,Benevento,D,W,D,L,W,8
+2021,Internazionale,2021-01-10,Roma,L,W,W,W,W,10
+2021,Internazionale,2021-01-06,Sampdoria,W,W,W,W,W,12
+2021,Internazionale,2021-01-03,Crotone,W,W,W,W,W,15
+2021,Internazionale,2020-12-23,Hellas Verona,W,W,W,W,W,15
+2021,Internazionale,2020-12-20,Spezia,W,W,W,W,W,15
+2021,Internazionale,2020-12-13,Cagliari,W,W,W,D,D,13
+2021,Internazionale,2021-05-15,Juventus,W,W,W,W,D,12
+2021,Internazionale,2020-11-28,Sassuolo,W,D,D,W,L,11
+2021,Internazionale,2020-11-08,Atalanta,D,W,L,D,W,6
+2021,Internazionale,2020-10-31,Parma,W,L,D,W,W,8
+2021,Internazionale,2020-10-24,Genoa,L,D,W,W,,10
+2021,Internazionale,2020-10-17,Milan,D,W,W,,,7
+2021,Internazionale,2020-12-16,Napoli,W,W,W,W,D,15
+2021,Internazionale,2021-05-23,Udinese,L,W,W,W,W,12
+2021,Internazionale,2021-05-12,Roma,W,W,W,D,D,13
+2021,Internazionale,2021-03-14,Torino,W,W,W,W,W,15
+2021,Internazionale,2021-05-08,Sampdoria,W,W,D,D,W,11
+2021,Internazionale,2021-05-01,Crotone,W,D,D,W,W,11
+2021,Internazionale,2021-04-25,Hellas Verona,D,D,W,W,W,11
+2021,Internazionale,2021-04-21,Spezia,D,W,W,W,W,11
+2021,Internazionale,2021-02-05,Fiorentina,W,D,W,D,L,11
+2021,Internazionale,2021-04-11,Cagliari,W,W,W,W,W,15
+2021,Internazionale,2021-04-07,Sassuolo,W,W,W,W,W,15
+2021,Internazionale,2020-10-04,Lazio,W,W,,,,7
+2021,Internazionale,2020-09-26,Fiorentina,,,,,,3
+2021,Internazionale,2021-04-03,Bologna,W,W,W,W,W,15
+2021,Internazionale,2021-03-08,Atalanta,W,W,W,W,W,15
+2021,Internazionale,2021-03-04,Parma,W,W,W,W,W,15
+2021,Internazionale,2021-02-28,Genoa,W,W,W,W,D,15
+2021,Internazionale,2021-02-21,Milan,W,W,W,D,W,13
+2021,Internazionale,2021-02-14,Lazio,W,W,D,W,D,13
+2021,Internazionale,2021-04-18,Napoli,W,W,W,W,W,13
+2021,Internazionale,2020-09-30,Benevento,W,,,,,6
+2021,Internazionale,2020-11-22,Torino,D,D,W,L,D,8
+2021,Juventus,2021-03-14,Cagliari,W,W,D,W,L,13
+2021,Juventus,2021-02-06,Roma,W,W,L,W,W,12
+2021,Juventus,2020-12-05,Torino,D,W,D,W,D,11
+2021,Juventus,2021-04-03,Torino,L,W,W,W,D,10
+2021,Juventus,2021-02-13,Napoli,W,W,W,L,W,9
+2021,Juventus,2021-02-22,Crotone,L,W,W,W,L,12
+2021,Juventus,2021-02-27,Hellas Verona,W,L,W,W,W,10
+2021,Juventus,2021-03-02,Spezia,D,W,L,W,W,10
+2021,Juventus,2021-01-30,Sampdoria,W,L,W,W,W,12
+2021,Juventus,2021-03-06,Lazio,W,D,W,L,W,10
+2021,Juventus,2020-12-16,Atalanta,W,W,D,W,D,11
+2021,Juventus,2021-03-21,Benevento,W,W,W,D,W,10
+2021,Juventus,2020-09-20,Sampdoria,,,,,,3
+2021,Juventus,2021-04-11,Genoa,W,D,L,W,W,10
+2021,Juventus,2021-04-18,Atalanta,W,W,D,L,W,7
+2021,Juventus,2021-04-21,Parma,L,W,W,D,L,10
+2021,Juventus,2021-01-24,Bologna,L,W,W,W,L,12
+2021,Juventus,2021-01-17,Inter,W,W,W,L,W,9
+2021,Juventus,2021-04-25,Fiorentina,W,L,W,W,D,10
+2021,Juventus,2020-10-25,Hellas Verona,D,D,W,,,6
+2021,Juventus,2020-11-08,Lazio,W,D,D,D,W,7
+2021,Juventus,2021-05-02,Udinese,D,W,L,W,W,10
+2021,Juventus,2021-05-09,Milan,W,D,W,L,W,7
+2021,Juventus,2021-05-12,Sassuolo,L,W,D,W,L,10
+2021,Juventus,2021-05-15,Inter,W,L,W,D,W,10
+2021,Juventus,2021-04-07,Napoli,D,L,W,W,W,10
+2021,Juventus,2020-09-27,Roma,W,,,,,4
+2021,Juventus,2020-10-17,Crotone,D,W,,,,5
+2021,Juventus,2021-01-10,Sassuolo,W,W,L,W,D,12
+2021,Juventus,2021-05-23,Bologna,W,W,L,W,D,12
+2021,Juventus,2020-11-01,Spezia,D,D,D,W,,9
+2021,Juventus,2020-12-13,Genoa,W,D,W,D,W,11
+2021,Juventus,2020-11-21,Cagliari,D,W,D,D,D,9
+2021,Juventus,2020-11-28,Benevento,W,D,W,D,D,9
+2021,Juventus,2021-01-06,Milan,W,L,W,D,W,10
+2021,Juventus,2021-01-03,Udinese,L,W,D,W,W,10
+2021,Juventus,2020-12-22,Fiorentina,W,D,W,W,D,10
+2021,Juventus,2020-12-19,Parma,D,W,W,D,W,11
+2021,Lazio,2020-12-12,Hellas Verona,W,L,W,D,W,7
+2021,Lazio,2021-05-15,Roma,W,L,W,W,L,9
+2021,Lazio,2021-05-18,Torino,L,W,L,W,W,7
+2021,Lazio,2020-09-26,Cagliari,,,,,,3
+2021,Lazio,2021-05-23,Sassuolo,D,L,W,L,W,4
+2021,Lazio,2020-09-30,Atalanta,W,,,,,3
+2021,Lazio,2021-01-06,Fiorentina,D,L,W,D,L,8
+2021,Lazio,2021-01-03,Genoa,L,W,D,L,W,5
+2021,Lazio,2020-12-23,Milan,W,D,L,W,L,7
+2021,Lazio,2020-12-15,Benevento,L,W,L,W,D,7
+2021,Lazio,2021-05-12,Parma,L,W,W,L,W,9
+2021,Lazio,2020-12-05,Spezia,L,W,D,W,W,10
+2021,Lazio,2020-11-29,Udinese,W,D,W,W,L,10
+2021,Lazio,2020-11-21,Crotone,D,W,W,L,D,10
+2021,Lazio,2020-11-08,Juventus,W,W,L,D,L,8
+2021,Lazio,2020-11-01,Torino,W,L,D,L,W,7
+2021,Lazio,2020-10-24,Bologna,L,D,L,W,,7
+2021,Lazio,2020-10-17,Sampdoria,D,L,W,,,4
+2021,Lazio,2020-12-20,Napoli,D,L,W,L,W,7
+2021,Lazio,2021-03-12,Crotone,L,L,W,L,W,6
+2021,Lazio,2021-04-26,Milan,L,W,W,W,W,12
+2021,Lazio,2020-10-04,Inter,L,W,,,,4
+2021,Lazio,2021-02-20,Sampdoria,L,W,W,W,W,12
+2021,Lazio,2021-02-07,Cagliari,W,W,W,W,W,15
+2021,Lazio,2021-01-24,Sassuolo,W,W,W,D,L,13
+2021,Lazio,2021-01-31,Atalanta,W,W,W,W,D,15
+2021,Lazio,2021-01-10,Parma,W,D,L,W,D,10
+2021,Lazio,2021-03-06,Juventus,L,W,L,W,W,6
+2021,Lazio,2021-01-15,Roma,W,W,D,L,W,10
+2021,Lazio,2021-02-27,Bologna,W,L,W,W,W,9
+2021,Lazio,2021-03-21,Udinese,W,L,L,W,L,9
+2021,Lazio,2021-04-03,Spezia,W,W,L,L,W,9
+2021,Lazio,2021-04-11,Hellas Verona,W,W,W,L,L,12
+2021,Lazio,2021-04-18,Benevento,W,W,W,W,L,15
+2021,Lazio,2021-04-22,Napoli,W,W,W,W,W,12
+2021,Lazio,2021-02-14,Inter,W,W,W,W,W,12
+2021,Lazio,2021-05-02,Genoa,W,L,W,W,W,12
+2021,Lazio,2021-05-08,Fiorentina,W,W,L,W,W,9
+2021,Milan,2020-12-16,Genoa,D,W,W,W,D,11
+2021,Milan,2020-09-21,Bologna,,,,,,3
+2021,Milan,2020-12-20,Sassuolo,D,D,W,W,W,11
+2021,Milan,2020-10-26,Roma,W,W,W,W,,13
+2021,Milan,2020-11-01,Udinese,D,W,W,W,W,13
+2021,Milan,2020-11-08,Hellas Verona,W,D,W,W,W,11
+2021,Milan,2020-11-22,Napoli,D,W,D,W,W,11
+2021,Milan,2020-11-29,Fiorentina,W,D,W,D,W,11
+2021,Milan,2020-12-06,Sampdoria,W,W,D,W,D,13
+2021,Milan,2020-10-04,Spezia,W,W,,,,9
+2021,Milan,2021-04-18,Genoa,W,D,W,L,W,10
+2021,Milan,2020-10-17,Inter,W,W,W,,,12
+2021,Milan,2020-12-23,Lazio,W,D,D,W,W,11
+2021,Milan,2021-01-03,Benevento,W,W,D,D,W,11
+2021,Milan,2021-01-06,Juventus,W,W,W,D,D,10
+2021,Milan,2021-01-09,Torino,L,W,W,W,D,12
+2021,Milan,2021-01-18,Cagliari,W,L,W,W,W,12
+2021,Milan,2021-01-23,Atalanta,W,W,L,W,W,9
+2021,Milan,2021-01-30,Bologna,L,W,W,L,W,9
+2021,Milan,2021-02-21,Inter,L,W,W,L,W,6
+2021,Milan,2021-02-13,Spezia,W,W,L,W,W,9
+2021,Milan,2021-02-07,Crotone,W,L,W,W,L,12
+2021,Milan,2021-05-23,Atalanta,D,W,W,W,L,13
+2021,Milan,2021-05-16,Cagliari,W,W,W,L,L,10
+2021,Milan,2021-05-12,Torino,W,W,L,L,W,9
+2021,Milan,2021-05-09,Juventus,W,L,L,W,W,9
+2021,Milan,2021-05-01,Benevento,L,L,W,W,D,9
+2021,Milan,2021-04-26,Lazio,L,W,W,D,W,7
+2021,Milan,2021-04-21,Sassuolo,W,W,D,W,L,10
+2021,Milan,2020-09-27,Crotone,W,,,,,6
+2021,Milan,2021-04-10,Parma,D,W,L,W,D,10
+2021,Milan,2021-04-03,Sampdoria,W,L,W,D,W,8
+2021,Milan,2021-03-21,Fiorentina,L,W,D,W,L,10
+2021,Milan,2021-03-14,Napoli,W,D,W,L,L,7
+2021,Milan,2021-03-07,Hellas Verona,D,W,L,L,W,7
+2021,Milan,2021-03-03,Udinese,W,L,L,W,W,7
+2021,Milan,2021-02-28,Roma,L,L,W,W,L,9
+2021,Milan,2020-12-13,Parma,W,W,W,D,W,11
+2021,Napoli,2021-02-06,Genoa,W,L,W,W,L,9
+2021,Napoli,2021-02-13,Juventus,L,W,L,W,W,9
+2021,Napoli,2020-12-16,Inter,W,W,W,L,W,9
+2021,Napoli,2020-10-17,Atalanta,W,W,,,,9
+2021,Napoli,2020-10-25,Benevento,W,W,W,,,12
+2021,Napoli,2020-11-01,Sassuolo,W,W,W,W,,12
+2021,Napoli,2020-11-08,Bologna,L,W,W,W,W,12
+2021,Napoli,2020-11-22,Milan,W,L,W,W,W,9
+2021,Napoli,2020-11-29,Roma,L,W,L,W,W,9
+2021,Napoli,2020-12-06,Crotone,W,L,W,L,W,9
+2021,Napoli,2021-02-21,Atalanta,W,L,W,L,W,6
+2021,Napoli,2020-12-20,Lazio,L,W,W,W,L,9
+2021,Napoli,2020-12-23,Torino,L,L,W,W,W,7
+2021,Napoli,2021-01-03,Cagliari,D,L,L,W,W,7
+2021,Napoli,2021-01-06,Spezia,W,D,L,L,W,4
+2021,Napoli,2021-01-10,Udinese,L,W,D,L,L,7
+2021,Napoli,2021-01-17,Fiorentina,W,L,W,D,L,10
+2021,Napoli,2021-01-24,Hellas Verona,W,W,L,W,D,9
+2021,Napoli,2021-01-31,Parma,L,W,W,L,W,9
+2021,Napoli,2021-04-18,Inter,W,L,W,W,W,10
+2021,Napoli,2020-09-27,Genoa,W,,,,,6
+2021,Napoli,2021-04-07,Juventus,W,W,W,W,D,12
+2021,Napoli,2021-05-23,Hellas Verona,W,W,W,D,W,11
+2021,Napoli,2021-05-16,Fiorentina,W,W,D,W,W,13
+2021,Napoli,2021-05-11,Udinese,W,D,W,W,D,13
+2021,Napoli,2021-05-08,Spezia,D,W,W,D,W,11
+2021,Napoli,2021-05-02,Cagliari,W,W,D,W,L,11
+2021,Napoli,2021-04-26,Torino,W,D,W,L,W,10
+2021,Napoli,2021-04-22,Lazio,D,W,L,W,W,10
+2021,Napoli,2021-04-11,Sampdoria,L,W,W,W,W,12
+2021,Napoli,2020-12-13,Sampdoria,W,W,L,W,L,12
+2021,Napoli,2020-09-20,Parma,,,,,,3
+2021,Napoli,2021-04-03,Crotone,W,W,W,D,W,13
+2021,Napoli,2021-03-21,Roma,W,W,D,W,L,13
+2021,Napoli,2021-03-14,Milan,W,D,W,L,W,10
+2021,Napoli,2021-03-07,Bologna,D,W,L,W,L,10
+2021,Napoli,2021-03-03,Sassuolo,W,L,W,L,W,7
+2021,Napoli,2021-02-28,Benevento,L,W,L,W,L,9
+2021,Parma,2021-05-03,Torino,L,L,L,L,D,0
+2021,Parma,2020-12-22,Crotone,L,D,D,D,W,3
+2021,Parma,2021-04-10,Milan,D,L,W,D,L,5
+2021,Parma,2021-01-03,Torino,L,L,D,D,D,2
+2021,Parma,2021-01-06,Atalanta,L,L,L,D,D,1
+2021,Parma,2021-01-10,Lazio,L,L,L,L,D,0
+2021,Parma,2021-01-24,Sampdoria,D,L,L,L,L,1
+2021,Parma,2021-01-17,Sassuolo,L,L,L,L,L,1
+2021,Parma,2021-02-21,Udinese,L,L,L,L,D,1
+2021,Parma,2021-04-24,Crotone,L,L,L,D,L,1
+2021,Parma,2020-12-19,Juventus,D,D,D,W,L,6
+2021,Parma,2021-05-09,Atalanta,L,L,L,L,L,0
+2021,Parma,2021-05-12,Lazio,L,L,L,L,L,0
+2021,Parma,2021-05-16,Sassuolo,L,L,L,L,L,0
+2021,Parma,2021-05-22,Sampdoria,L,L,L,L,L,0
+2021,Parma,2020-11-07,Fiorentina,D,D,L,W,L,6
+2021,Parma,2021-02-15,Hellas Verona,L,L,L,D,L,1
+2021,Parma,2021-02-07,Bologna,L,L,D,L,L,1
+2021,Parma,2021-01-31,Napoli,L,D,L,L,L,1
+2021,Parma,2020-09-20,Napoli,,,,,,0
+2021,Parma,2021-03-07,Fiorentina,L,D,D,L,L,3
+2021,Parma,2021-04-03,Benevento,L,W,D,L,D,5
+2021,Parma,2021-03-14,Roma,D,L,D,D,L,6
+2021,Parma,2021-03-19,Genoa,W,D,L,D,D,5
+2021,Parma,2020-10-18,Udinese,W,L,L,,,3
+2021,Parma,2021-02-27,Spezia,D,L,L,L,L,2
+2021,Parma,2021-04-21,Juventus,L,L,D,L,W,1
+2021,Parma,2020-10-31,Inter,D,L,W,L,L,5
+2021,Parma,2020-09-28,Bologna,L,,,,,0
+2021,Parma,2021-03-04,Inter,D,D,L,L,L,2
+2021,Parma,2021-04-17,Cagliari,L,D,L,W,D,4
+2021,Parma,2020-10-25,Spezia,L,W,L,L,,4
+2021,Parma,2020-10-04,Hellas Verona,L,L,,,,3
+2021,Parma,2020-11-22,Roma,D,D,D,L,W,3
+2021,Parma,2020-11-30,Genoa,L,D,D,D,L,6
+2021,Parma,2020-12-06,Benevento,W,L,D,D,D,6
+2021,Parma,2020-12-13,Milan,D,W,L,D,D,6
+2021,Parma,2020-12-16,Cagliari,D,D,W,L,D,6
+2021,Roma,2021-04-11,Bologna,D,L,L,W,W,7
+2021,Roma,2020-09-19,Hellas Verona,,,,,,0
+2021,Roma,2021-02-06,Juventus,W,W,L,D,W,7
+2021,Roma,2021-02-14,Udinese,L,W,W,L,D,9
+2021,Roma,2021-02-21,Benevento,W,L,W,W,L,10
+2021,Roma,2021-02-28,Milan,D,W,L,W,W,7
+2021,Roma,2021-03-03,Fiorentina,L,D,W,L,W,7
+2021,Roma,2021-03-07,Genoa,W,L,D,W,L,10
+2021,Roma,2021-03-14,Parma,W,W,L,D,W,7
+2021,Roma,2021-04-03,Sassuolo,L,L,W,W,L,7
+2021,Roma,2021-03-21,Napoli,L,W,W,L,D,6
+2021,Roma,2021-04-18,Torino,W,D,L,L,W,4
+2021,Roma,2021-04-22,Atalanta,L,W,D,L,L,5
+2021,Roma,2021-04-25,Cagliari,D,L,W,D,L,5
+2021,Roma,2021-05-02,Sampdoria,L,D,L,W,D,4
+2021,Roma,2021-05-09,Crotone,L,L,D,L,W,4
+2021,Roma,2021-05-12,Inter,W,L,L,D,L,4
+2021,Roma,2021-05-15,Lazio,L,W,L,L,D,6
+2021,Roma,2021-05-23,Spezia,W,L,W,L,L,7
+2021,Roma,2020-12-17,Torino,W,D,L,W,W,10
+2021,Roma,2020-10-03,Udinese,D,L,,,,4
+2021,Roma,2020-10-18,Benevento,W,D,L,,,7
+2021,Roma,2020-10-26,Milan,W,W,D,L,,8
+2021,Roma,2020-11-01,Fiorentina,D,W,W,D,L,11
+2021,Roma,2020-11-08,Genoa,W,D,W,W,D,13
+2021,Roma,2020-11-22,Parma,W,W,D,W,W,13
+2021,Roma,2020-11-29,Napoli,W,W,W,D,W,10
+2021,Roma,2021-01-31,Hellas Verona,W,L,D,W,W,10
+2021,Roma,2020-12-13,Bologna,D,L,W,W,W,10
+2021,Roma,2020-09-27,Juventus,L,,,,,1
+2021,Roma,2020-12-20,Atalanta,W,W,D,L,W,7
+2021,Roma,2020-12-23,Cagliari,L,W,W,D,L,10
+2021,Roma,2021-01-03,Sampdoria,W,L,W,W,D,12
+2021,Roma,2021-01-06,Crotone,W,W,L,W,W,12
+2021,Roma,2021-01-10,Inter,W,W,W,L,W,10
+2021,Roma,2021-01-15,Lazio,D,W,W,W,L,10
+2021,Roma,2020-12-06,Sassuolo,L,W,W,W,D,10
+2021,Roma,2021-01-23,Spezia,L,D,W,W,W,10
+2021,Sampdoria,2021-03-21,Torino,L,D,D,L,L,5
+2021,Sampdoria,2020-09-20,Juventus,,,,,,0
+2021,Sampdoria,2020-09-26,Benevento,L,,,,,0
+2021,Sampdoria,2021-01-30,Juventus,W,W,L,W,L,9
+2021,Sampdoria,2021-02-07,Benevento,L,W,W,L,W,7
+2021,Sampdoria,2021-02-14,Fiorentina,D,L,W,W,L,10
+2021,Sampdoria,2021-02-20,Lazio,W,D,L,W,W,7
+2021,Sampdoria,2021-02-28,Atalanta,L,W,D,L,W,4
+2021,Sampdoria,2021-03-03,Genoa,L,L,W,D,L,5
+2021,Sampdoria,2021-03-14,Bologna,D,D,L,L,W,2
+2021,Sampdoria,2021-05-22,Parma,W,D,L,W,L,10
+2021,Sampdoria,2021-04-11,Napoli,D,W,L,D,D,5
+2021,Sampdoria,2021-04-17,Hellas Verona,L,D,W,L,D,7
+2021,Sampdoria,2021-04-21,Crotone,W,L,D,W,L,10
+2021,Sampdoria,2021-04-24,Sassuolo,W,W,L,D,W,7
+2021,Sampdoria,2021-05-02,Roma,L,W,W,L,D,9
+2021,Sampdoria,2021-05-08,Inter,W,L,W,W,L,9
+2021,Sampdoria,2021-03-07,Cagliari,D,L,L,W,D,5
+2021,Sampdoria,2021-04-03,Milan,W,L,D,D,L,6
+2021,Sampdoria,2020-12-13,Napoli,L,D,L,L,D,1
+2021,Sampdoria,2020-12-16,Hellas Verona,L,L,D,L,L,4
+2021,Sampdoria,2020-10-02,Fiorentina,L,L,,,,3
+2021,Sampdoria,2020-10-17,Lazio,W,L,L,,,6
+2021,Sampdoria,2020-10-24,Atalanta,W,W,L,L,,9
+2021,Sampdoria,2020-11-01,Genoa,W,W,W,L,L,10
+2021,Sampdoria,2021-01-11,Spezia,W,L,L,W,W,6
+2021,Sampdoria,2020-11-22,Bologna,L,D,W,W,W,7
+2021,Sampdoria,2020-11-30,Torino,L,L,D,W,W,5
+2021,Sampdoria,2020-12-06,Milan,D,L,L,D,W,2
+2021,Sampdoria,2021-01-24,Parma,W,L,W,L,L,9
+2021,Sampdoria,2021-01-16,Udinese,L,W,L,L,W,6
+2021,Sampdoria,2020-12-19,Crotone,W,L,L,D,L,7
+2021,Sampdoria,2020-12-23,Sassuolo,W,W,L,L,D,6
+2021,Sampdoria,2021-01-03,Roma,L,W,W,L,L,6
+2021,Sampdoria,2021-01-06,Inter,L,L,W,W,L,9
+2021,Sampdoria,2020-11-07,Cagliari,D,W,W,W,L,10
+2021,Sampdoria,2021-05-12,Spezia,L,W,L,W,W,7
+2021,Sampdoria,2021-05-16,Udinese,D,L,W,L,W,7
+2021,Sassuolo,2020-11-28,Inter,W,D,W,D,W,8
+2021,Sassuolo,2021-01-24,Lazio,D,L,W,L,W,4
+2021,Sassuolo,2021-01-17,Parma,L,W,L,W,L,7
+2021,Sassuolo,2021-01-10,Juventus,W,L,W,L,D,6
+2021,Sassuolo,2021-01-06,Genoa,L,W,L,D,W,7
+2021,Sassuolo,2021-01-03,Atalanta,W,L,D,W,D,7
+2021,Sassuolo,2020-12-23,Sampdoria,L,D,W,D,L,8
+2021,Sassuolo,2020-12-20,Milan,D,W,D,L,W,5
+2021,Sassuolo,2020-12-16,Fiorentina,W,D,L,W,D,8
+2021,Sassuolo,2020-12-06,Roma,L,W,D,W,D,8
+2021,Sassuolo,2020-12-11,Benevento,D,L,W,D,W,8
+2021,Sassuolo,2020-11-22,Hellas Verona,D,W,D,W,W,11
+2021,Sassuolo,2020-11-06,Udinese,W,D,W,W,W,11
+2021,Sassuolo,2020-11-01,Napoli,D,W,W,W,D,13
+2021,Sassuolo,2020-10-23,Torino,W,W,W,D,,11
+2021,Sassuolo,2020-10-18,Bologna,W,W,D,,,10
+2021,Sassuolo,2020-10-03,Crotone,W,D,,,,7
+2021,Sassuolo,2020-09-27,Spezia,D,,,,,4
+2021,Sassuolo,2021-05-23,Lazio,W,L,W,D,W,10
+2021,Sassuolo,2021-03-17,Torino,W,L,D,D,W,5
+2021,Sassuolo,2021-01-31,Cagliari,L,D,L,W,L,5
+2021,Sassuolo,2021-04-17,Fiorentina,W,L,D,L,W,7
+2021,Sassuolo,2021-04-21,Milan,W,W,L,D,L,10
+2021,Sassuolo,2021-04-24,Sampdoria,W,W,W,L,D,12
+2021,Sassuolo,2021-05-02,Atalanta,W,W,W,W,L,13
+2021,Sassuolo,2021-05-09,Genoa,D,W,W,W,W,13
+2021,Sassuolo,2021-05-12,Juventus,W,D,W,W,W,10
+2021,Sassuolo,2021-05-16,Parma,L,W,D,W,W,10
+2021,Sassuolo,2021-04-03,Roma,L,W,L,D,D,5
+2021,Sassuolo,2021-04-07,Inter,D,L,W,L,D,4
+2021,Sassuolo,2020-09-20,Cagliari,,,,,,1
+2021,Sassuolo,2021-03-13,Hellas Verona,L,D,D,W,L,8
+2021,Sassuolo,2021-03-06,Udinese,D,D,W,L,D,5
+2021,Sassuolo,2021-04-12,Benevento,L,D,L,W,L,7
+2021,Sassuolo,2021-02-06,Spezia,D,L,D,L,W,2
+2021,Sassuolo,2021-02-14,Crotone,L,D,L,D,L,5
+2021,Sassuolo,2021-02-20,Bologna,W,L,D,L,D,5
+2021,Sassuolo,2021-03-03,Napoli,D,W,L,D,L,6
+2021,Spezia,2021-02-06,Sassuolo,L,L,D,W,W,7
+2021,Spezia,2020-12-05,Lazio,D,D,W,L,D,5
+2021,Spezia,2021-01-16,Torino,W,W,L,L,L,7
+2021,Spezia,2021-01-11,Sampdoria,W,L,L,L,D,6
+2021,Spezia,2021-01-06,Napoli,L,L,L,D,L,4
+2021,Spezia,2021-01-03,Hellas Verona,L,L,D,L,L,1
+2021,Spezia,2020-12-23,Genoa,L,D,L,L,D,1
+2021,Spezia,2020-12-20,Inter,D,L,L,D,D,2
+2021,Spezia,2020-12-16,Bologna,L,L,D,D,W,3
+2021,Spezia,2021-01-23,Roma,D,W,W,L,L,7
+2021,Spezia,2020-12-12,Crotone,L,D,D,W,L,5
+2021,Spezia,2020-11-29,Cagliari,D,W,L,D,D,6
+2021,Spezia,2020-11-21,Atalanta,W,L,D,D,L,6
+2021,Spezia,2020-11-07,Benevento,L,D,D,L,W,5
+2021,Spezia,2020-11-01,Juventus,D,D,L,W,L,5
+2021,Spezia,2020-10-25,Parma,D,L,W,L,,5
+2021,Spezia,2020-10-18,Fiorentina,L,W,L,,,4
+2021,Spezia,2020-10-04,Milan,W,L,,,,3
+2021,Spezia,2020-09-27,Sassuolo,,,,,,0
+2021,Spezia,2020-09-30,Udinese,L,,,,,3
+2021,Spezia,2021-04-18,Bologna,W,L,W,L,D,6
+2021,Spezia,2021-04-10,Crotone,L,W,L,D,L,7
+2021,Spezia,2021-05-23,Roma,W,D,L,D,L,6
+2021,Spezia,2021-05-15,Torino,D,L,D,L,D,5
+2021,Spezia,2021-05-12,Sampdoria,L,D,L,D,L,3
+2021,Spezia,2021-05-08,Napoli,D,L,D,L,W,2
+2021,Spezia,2021-05-01,Hellas Verona,L,D,L,W,L,5
+2021,Spezia,2021-04-24,Genoa,D,L,W,L,W,4
+2021,Spezia,2021-04-21,Inter,L,W,L,W,L,7
+2021,Spezia,2021-01-31,Udinese,L,D,W,W,L,7
+2021,Spezia,2021-04-03,Lazio,W,L,D,L,D,4
+2021,Spezia,2021-03-20,Cagliari,L,D,L,D,L,5
+2021,Spezia,2021-03-12,Atalanta,D,L,D,L,W,2
+2021,Spezia,2021-03-06,Benevento,L,D,L,W,W,5
+2021,Spezia,2021-03-02,Juventus,D,L,W,W,L,7
+2021,Spezia,2021-02-27,Parma,L,W,W,L,L,7
+2021,Spezia,2021-02-19,Fiorentina,W,W,L,L,D,6
+2021,Spezia,2021-02-13,Milan,W,L,L,D,W,7
+2021,Torino,2021-01-22,Benevento,D,L,D,W,D,6
+2021,Torino,2021-02-06,Atalanta,D,D,D,L,D,4
+2021,Torino,2020-11-22,Inter,D,W,L,D,L,5
+2021,Torino,2020-11-30,Sampdoria,L,D,W,L,D,5
+2021,Torino,2020-09-19,Fiorentina,,,,,,0
+2021,Torino,2020-12-05,Juventus,D,L,D,W,L,5
+2021,Torino,2020-12-12,Udinese,L,D,L,D,W,2
+2021,Torino,2021-02-13,Genoa,D,D,D,D,L,5
+2021,Torino,2021-01-06,Hellas Verona,W,D,D,L,L,6
+2021,Torino,2021-01-16,Spezia,L,D,W,D,D,6
+2021,Torino,2020-11-01,Lazio,D,L,L,L,,1
+2021,Torino,2021-01-29,Fiorentina,D,D,L,D,W,4
+2021,Torino,2020-12-17,Roma,L,L,D,L,D,1
+2021,Torino,2020-12-20,Bologna,L,L,L,D,L,2
+2021,Torino,2020-12-23,Napoli,D,L,L,L,D,2
+2021,Torino,2021-01-03,Parma,D,D,L,L,L,5
+2021,Torino,2020-11-04,Genoa,L,D,L,L,L,4
+2021,Torino,2021-03-07,Crotone,W,D,D,D,D,6
+2021,Torino,2021-01-09,Milan,D,W,D,D,L,6
+2021,Torino,2020-09-26,Atalanta,L,,,,,0
+2021,Torino,2021-03-17,Sassuolo,L,L,W,D,D,7
+2021,Torino,2021-03-21,Sampdoria,W,L,L,W,D,6
+2021,Torino,2021-04-03,Juventus,L,W,L,L,W,4
+2021,Torino,2021-04-10,Udinese,D,L,W,L,L,7
+2021,Torino,2021-02-19,Cagliari,D,D,D,D,D,7
+2021,Torino,2021-04-18,Roma,W,D,L,W,L,10
+2021,Torino,2021-04-21,Bologna,W,W,D,L,W,8
+2021,Torino,2021-04-26,Napoli,D,W,W,D,L,8
+2021,Torino,2021-05-03,Parma,L,D,W,W,D,10
+2021,Torino,2021-05-09,Hellas Verona,W,L,D,W,W,8
+2021,Torino,2020-11-08,Crotone,W,L,D,L,L,5
+2021,Torino,2021-05-12,Milan,D,W,L,D,W,5
+2021,Torino,2021-05-15,Spezia,L,D,W,L,D,4
+2021,Torino,2021-05-18,Lazio,L,L,D,W,L,5
+2021,Torino,2021-05-23,Benevento,D,L,L,D,W,3
+2021,Torino,2020-10-18,Cagliari,L,L,,,,0
+2021,Torino,2020-10-23,Sassuolo,L,L,L,,,1
+2021,Torino,2021-03-14,Inter,L,W,D,D,D,5
+2021,Udinese,2021-03-03,Milan,W,D,L,W,W,8
+2021,Udinese,2021-01-10,Napoli,D,L,L,D,D,2
+2021,Udinese,2021-01-16,Sampdoria,L,D,L,L,D,1
+2021,Udinese,2021-01-20,Atalanta,L,L,D,L,L,2
+2021,Udinese,2021-01-23,Inter,D,L,L,D,L,3
+2021,Udinese,2020-12-15,Crotone,W,W,W,D,L,11
+2021,Udinese,2020-10-03,Roma,L,L,,,,0
+2021,Udinese,2021-02-14,Roma,W,W,D,D,L,8
+2021,Udinese,2021-02-21,Parma,L,W,W,D,D,8
+2021,Udinese,2021-02-28,Fiorentina,D,L,W,W,D,10
+2021,Udinese,2021-01-06,Bologna,L,L,D,D,W,3
+2021,Udinese,2021-03-06,Sassuolo,D,W,D,L,W,8
+2021,Udinese,2021-03-13,Genoa,W,D,W,D,L,9
+2021,Udinese,2020-12-12,Torino,W,W,D,L,L,10
+2021,Udinese,2020-11-29,Lazio,W,D,L,L,W,7
+2021,Udinese,2020-11-22,Genoa,D,L,L,W,L,7
+2021,Udinese,2020-11-06,Sassuolo,L,L,W,L,L,4
+2021,Udinese,2020-11-01,Milan,L,W,L,L,L,3
+2021,Udinese,2020-10-25,Fiorentina,W,L,L,L,,3
+2021,Udinese,2021-05-16,Sampdoria,L,D,L,W,L,4
+2021,Udinese,2020-09-27,Hellas Verona,,,,,,0
+2021,Udinese,2020-10-18,Parma,L,L,L,,,3
+2021,Udinese,2021-04-10,Torino,L,L,D,W,D,4
+2021,Udinese,2021-04-17,Crotone,L,L,L,D,W,4
+2021,Udinese,2021-03-21,Lazio,D,W,D,W,D,8
+2021,Udinese,2021-04-21,Cagliari,W,L,L,L,D,3
+2021,Udinese,2021-04-25,Benevento,L,W,L,L,L,6
+2021,Udinese,2021-05-02,Juventus,W,L,W,L,L,6
+2021,Udinese,2021-05-11,Napoli,D,L,W,L,W,4
+2021,Udinese,2020-09-30,Spezia,L,,,,,0
+2021,Udinese,2021-05-23,Inter,L,L,D,L,W,1
+2021,Udinese,2021-02-07,Hellas Verona,W,D,D,L,L,8
+2021,Udinese,2021-04-03,Atalanta,L,D,W,D,W,5
+2021,Udinese,2021-05-08,Bologna,L,W,L,W,L,7
+2021,Udinese,2021-01-31,Spezia,D,D,L,L,D,5
+2021,Udinese,2020-12-20,Cagliari,D,W,W,W,D,11
+2021,Udinese,2020-12-23,Benevento,D,D,W,W,W,8
+2021,Udinese,2021-01-03,Juventus,L,D,D,W,W,5
+2022,Atalanta,2021-12-04,Napoli,W,W,W,W,D,15
+2022,Atalanta,2022-02-20,Fiorentina,D,L,D,D,W,3
+2022,Atalanta,2022-05-21,Empoli,L,W,D,D,W,5
+2022,Atalanta,2022-02-13,Juventus,L,D,D,W,D,6
+2022,Atalanta,2021-10-27,Sampdoria,D,W,L,D,W,8
+2022,Atalanta,2021-10-30,Lazio,W,D,W,L,D,8
+2022,Atalanta,2021-11-06,Cagliari,D,W,D,W,L,11
+2022,Atalanta,2021-11-20,Spezia,W,D,W,D,W,11
+2022,Atalanta,2021-11-27,Juventus,W,W,D,W,D,13
+2022,Atalanta,2021-11-30,Venezia,W,W,W,D,W,13
+2022,Atalanta,2021-10-03,Milan,D,W,W,L,D,7
+2022,Atalanta,2021-12-12,Hellas Verona,W,W,W,W,W,15
+2022,Atalanta,2021-12-18,Roma,W,W,W,W,W,12
+2022,Atalanta,2021-12-21,Genoa,L,W,W,W,W,10
+2022,Atalanta,2022-01-09,Udinese,D,L,W,W,W,10
+2022,Atalanta,2022-01-16,Inter,W,D,L,W,W,8
+2022,Atalanta,2022-01-22,Lazio,D,W,D,L,W,6
+2022,Atalanta,2022-02-06,Cagliari,D,D,W,D,L,6
+2022,Atalanta,2021-10-24,Udinese,W,L,D,W,W,8
+2022,Atalanta,2022-02-28,Sampdoria,L,D,L,D,D,5
+2022,Atalanta,2022-03-05,Roma,W,L,D,L,D,4
+2022,Atalanta,2022-03-13,Genoa,L,W,L,D,L,5
+2022,Atalanta,2022-03-20,Bologna,D,L,W,L,D,7
+2022,Atalanta,2022-04-03,Napoli,W,D,L,W,L,7
+2022,Atalanta,2022-04-10,Sassuolo,L,W,D,L,W,4
+2022,Atalanta,2022-04-18,Hellas Verona,L,L,W,D,L,4
+2022,Atalanta,2022-04-23,Venezia,L,L,L,W,D,6
+2022,Atalanta,2022-04-27,Torino,W,L,L,L,W,4
+2022,Atalanta,2022-05-02,Salernitana,D,W,L,L,L,5
+2022,Atalanta,2022-05-08,Spezia,D,D,W,L,L,8
+2022,Atalanta,2022-05-15,Milan,W,D,D,W,L,8
+2022,Atalanta,2021-08-21,Torino,,,,,,3
+2022,Atalanta,2021-08-28,Bologna,W,,,,,4
+2022,Atalanta,2021-09-11,Fiorentina,D,W,,,,4
+2022,Atalanta,2021-09-18,Salernitana,L,D,W,,,7
+2022,Atalanta,2021-09-21,Sassuolo,W,L,D,W,,10
+2022,Atalanta,2021-09-25,Inter,W,W,L,D,W,8
+2022,Atalanta,2021-10-17,Empoli,L,D,W,W,L,10
+2022,Bologna,2021-12-01,Roma,W,L,W,W,L,12
+2022,Bologna,2021-09-21,Genoa,L,W,D,W,,8
+2022,Bologna,2022-02-21,Spezia,L,D,L,L,L,4
+2022,Bologna,2022-02-26,Salernitana,W,L,D,L,L,5
+2022,Bologna,2021-10-23,Milan,D,W,L,D,L,5
+2022,Bologna,2021-10-28,Napoli,L,D,W,L,D,4
+2022,Bologna,2021-11-01,Cagliari,L,L,D,W,L,7
+2022,Bologna,2021-11-07,Sampdoria,W,L,L,D,W,7
+2022,Bologna,2021-11-21,Venezia,W,W,L,L,D,6
+2022,Bologna,2021-11-28,Spezia,L,W,W,L,L,9
+2022,Bologna,2021-08-22,Salernitana,,,,,,3
+2022,Bologna,2021-12-12,Torino,L,W,W,L,W,6
+2022,Bologna,2021-12-18,Juventus,L,L,W,W,L,6
+2022,Bologna,2021-12-22,Sassuolo,L,L,L,W,W,6
+2022,Bologna,2022-01-11,Cagliari,W,L,L,L,W,3
+2022,Bologna,2022-01-17,Napoli,L,W,L,L,L,3
+2022,Bologna,2022-01-21,Hellas Verona,L,L,W,L,L,3
+2022,Bologna,2022-02-12,Lazio,D,L,L,L,W,1
+2022,Bologna,2021-12-05,Fiorentina,W,W,L,W,W,9
+2022,Bologna,2022-04-27,Inter,D,D,W,D,L,9
+2022,Bologna,2022-05-21,Genoa,L,L,D,W,D,7
+2022,Bologna,2022-05-08,Venezia,D,W,D,D,W,6
+2022,Bologna,2022-03-06,Torino,D,W,L,D,L,6
+2022,Bologna,2022-03-13,Fiorentina,D,D,W,L,D,5
+2022,Bologna,2022-03-20,Atalanta,L,D,D,W,L,5
+2022,Bologna,2022-04-04,Milan,L,L,D,D,W,3
+2022,Bologna,2022-04-11,Sampdoria,D,L,L,D,D,5
+2022,Bologna,2022-04-16,Juventus,W,D,L,L,D,5
+2022,Bologna,2022-04-24,Udinese,D,W,D,L,L,6
+2022,Bologna,2021-09-26,Empoli,D,L,W,D,W,5
+2022,Bologna,2022-05-01,Roma,W,D,D,W,D,9
+2022,Bologna,2022-02-06,Empoli,L,L,L,W,L,4
+2022,Bologna,2022-05-15,Sassuolo,L,D,W,D,D,5
+2022,Bologna,2021-10-03,Lazio,L,D,L,W,D,7
+2022,Bologna,2021-10-17,Udinese,W,L,D,L,W,5
+2022,Bologna,2021-08-28,Atalanta,W,,,,,4
+2022,Bologna,2021-09-13,Hellas Verona,D,W,,,,7
+2022,Bologna,2021-09-18,Inter,W,D,W,,,7
+2022,Cagliari,2021-12-21,Juventus,L,L,D,D,D,2
+2022,Cagliari,2022-05-22,Venezia,L,D,L,L,W,2
+2022,Cagliari,2022-05-15,Inter,D,L,L,W,L,4
+2022,Cagliari,2022-05-08,Salernitana,L,L,W,L,L,4
+2022,Cagliari,2022-04-30,Hellas Verona,L,W,L,L,L,3
+2022,Cagliari,2022-04-24,Genoa,W,L,L,L,L,3
+2022,Cagliari,2022-04-16,Sassuolo,L,L,L,L,L,3
+2022,Cagliari,2022-04-03,Udinese,L,L,L,W,D,3
+2022,Cagliari,2022-03-19,Milan,L,L,W,D,D,4
+2022,Cagliari,2022-03-12,Spezia,L,W,D,D,W,5
+2022,Cagliari,2022-03-05,Lazio,W,D,D,W,D,8
+2022,Cagliari,2022-02-27,Torino,D,D,W,D,L,9
+2022,Cagliari,2022-02-21,Napoli,D,W,D,L,W,6
+2022,Cagliari,2022-02-13,Empoli,W,D,L,W,W,8
+2022,Cagliari,2022-02-06,Atalanta,D,L,W,W,L,10
+2022,Cagliari,2022-01-23,Fiorentina,L,W,W,L,L,7
+2022,Cagliari,2022-01-16,Roma,W,W,L,L,L,6
+2022,Cagliari,2022-01-11,Bologna,W,L,L,L,D,6
+2022,Cagliari,2022-01-06,Sampdoria,L,L,L,D,D,4
+2022,Cagliari,2021-10-24,Fiorentina,W,D,L,L,D,4
+2022,Cagliari,2021-11-06,Atalanta,L,L,L,W,D,3
+2022,Cagliari,2021-11-21,Sassuolo,L,L,L,L,W,1
+2022,Cagliari,2021-11-26,Salernitana,D,L,L,L,L,2
+2022,Cagliari,2021-11-30,Hellas Verona,D,D,L,L,L,3
+2022,Cagliari,2021-12-06,Torino,D,D,D,L,L,4
+2022,Cagliari,2021-12-12,Inter,D,D,D,D,L,4
+2022,Cagliari,2021-12-18,Udinese,L,D,D,D,D,3
+2022,Cagliari,2022-04-09,Juventus,L,L,L,L,W,0
+2022,Cagliari,2021-10-27,Roma,L,W,D,L,L,4
+2022,Cagliari,2021-11-01,Bologna,L,L,W,D,L,4
+2022,Cagliari,2021-10-17,Sampdoria,D,L,L,D,L,5
+2022,Cagliari,2021-10-01,Venezia,L,L,D,L,L,2
+2022,Cagliari,2021-09-19,Lazio,L,L,D,,,2
+2022,Cagliari,2021-09-26,Napoli,L,D,L,L,D,1
+2022,Cagliari,2021-09-22,Empoli,D,L,L,D,,2
+2022,Cagliari,2021-09-12,Genoa,L,D,,,,1
+2022,Cagliari,2021-08-29,Milan,D,,,,,1
+2022,Cagliari,2021-08-23,Spezia,,,,,,1
+2022,Empoli,2021-11-27,Fiorentina,L,D,W,L,W,7
+2022,Empoli,2021-09-11,Venezia,W,L,,,,3
+2022,Empoli,2021-09-19,Sampdoria,L,W,L,,,3
+2022,Empoli,2022-04-16,Udinese,D,L,D,L,D,2
+2022,Empoli,2022-04-09,Spezia,L,D,L,D,L,3
+2022,Empoli,2022-04-03,Fiorentina,D,L,D,L,L,2
+2022,Empoli,2021-09-22,Cagliari,L,L,W,L,,6
+2022,Empoli,2021-11-22,Hellas Verona,D,W,L,W,L,7
+2022,Empoli,2021-12-06,Udinese,D,W,L,D,W,8
+2022,Empoli,2021-12-02,Torino,W,L,D,W,L,8
+2022,Empoli,2021-08-28,Juventus,L,,,,,3
+2022,Empoli,2021-12-22,Milan,D,W,W,D,W,8
+2022,Empoli,2021-11-05,Genoa,W,L,W,L,L,7
+2022,Empoli,2021-10-31,Sassuolo,L,W,L,L,W,6
+2022,Empoli,2021-10-27,Inter,W,L,L,W,W,6
+2022,Empoli,2021-10-23,Salernitana,L,L,W,W,L,9
+2022,Empoli,2021-10-17,Atalanta,L,W,W,L,L,6
+2022,Empoli,2022-03-12,Milan,D,L,L,D,D,2
+2022,Empoli,2021-12-19,Spezia,W,W,D,W,L,11
+2022,Empoli,2022-03-06,Genoa,L,L,D,D,L,3
+2022,Empoli,2022-05-14,Salernitana,L,L,W,L,D,4
+2022,Empoli,2022-01-06,Lazio,L,D,W,W,D,8
+2022,Empoli,2022-01-09,Sassuolo,D,L,D,W,W,5
+2022,Empoli,2022-01-16,Venezia,L,D,L,D,W,3
+2022,Empoli,2022-01-23,Roma,D,L,D,L,D,2
+2022,Empoli,2022-02-06,Bologna,L,D,L,D,L,3
+2022,Empoli,2022-02-13,Cagliari,D,L,D,L,D,3
+2022,Empoli,2022-02-19,Sampdoria,D,D,L,D,L,3
+2022,Empoli,2022-02-26,Juventus,L,D,D,L,D,2
+2022,Empoli,2021-10-03,Roma,W,W,L,L,W,6
+2022,Empoli,2021-09-26,Bologna,W,L,L,W,L,9
+2022,Empoli,2022-03-20,Hellas Verona,L,D,L,L,D,2
+2022,Empoli,2022-05-21,Atalanta,D,L,L,W,L,7
+2022,Empoli,2021-12-12,Napoli,W,D,W,L,D,10
+2022,Empoli,2022-05-06,Inter,L,W,L,D,L,4
+2022,Empoli,2022-05-01,Torino,W,L,D,L,D,4
+2022,Empoli,2022-04-24,Napoli,L,D,L,D,L,5
+2022,Empoli,2021-08-21,Lazio,,,,,,0
+2022,Fiorentina,2021-12-19,Sassuolo,W,W,W,L,W,10
+2022,Fiorentina,2022-05-16,Sampdoria,W,L,L,L,W,3
+2022,Fiorentina,2022-05-09,Roma,L,L,L,W,W,6
+2022,Fiorentina,2021-08-22,Roma,,,,,,0
+2022,Fiorentina,2021-08-28,Torino,L,,,,,3
+2022,Fiorentina,2021-09-11,Atalanta,W,L,,,,6
+2022,Fiorentina,2021-09-18,Genoa,W,W,L,,,9
+2022,Fiorentina,2021-09-21,Inter,W,W,W,L,,9
+2022,Fiorentina,2021-09-26,Udinese,L,W,W,W,L,12
+2022,Fiorentina,2021-10-31,Spezia,L,W,L,L,W,6
+2022,Fiorentina,2021-11-20,Milan,L,W,L,W,L,9
+2022,Fiorentina,2021-12-05,Bologna,W,L,W,L,W,9
+2022,Fiorentina,2021-11-30,Sampdoria,L,W,L,W,L,9
+2022,Fiorentina,2021-10-03,Napoli,W,L,W,W,W,9
+2022,Fiorentina,2021-11-27,Empoli,W,L,W,L,W,6
+2022,Fiorentina,2021-11-06,Juventus,W,L,W,L,L,6
+2022,Fiorentina,2021-10-27,Lazio,W,L,L,W,L,6
+2022,Fiorentina,2021-10-24,Cagliari,L,L,W,L,W,6
+2022,Fiorentina,2021-10-18,Venezia,L,W,L,W,W,6
+2022,Fiorentina,2022-04-24,Salernitana,W,W,W,D,W,10
+2022,Fiorentina,2022-01-10,Torino,D,D,W,W,W,8
+2022,Fiorentina,2021-12-22,Hellas Verona,D,W,W,W,L,11
+2022,Fiorentina,2022-01-17,Genoa,L,D,D,W,W,8
+2022,Fiorentina,2022-02-05,Lazio,D,W,L,D,D,5
+2022,Fiorentina,2022-02-14,Spezia,L,D,W,L,D,7
+2022,Fiorentina,2022-02-20,Atalanta,W,L,D,W,L,10
+2022,Fiorentina,2022-02-26,Sassuolo,W,W,L,D,W,7
+2022,Fiorentina,2022-05-01,Milan,L,L,W,W,W,6
+2022,Fiorentina,2022-04-27,Udinese,L,W,W,W,D,9
+2022,Fiorentina,2022-01-23,Cagliari,W,L,D,D,W,6
+2022,Fiorentina,2022-04-16,Venezia,W,W,D,W,D,13
+2022,Fiorentina,2022-04-10,Napoli,W,D,W,D,L,11
+2022,Fiorentina,2022-04-03,Empoli,D,W,D,L,W,8
+2022,Fiorentina,2022-03-13,Bologna,D,L,W,W,L,10
+2022,Fiorentina,2022-03-19,Inter,W,D,L,W,W,8
+2022,Fiorentina,2021-12-11,Salernitana,W,W,L,W,L,12
+2022,Fiorentina,2022-03-06,Hellas Verona,L,W,W,L,D,7
+2022,Fiorentina,2022-05-21,Juventus,L,W,L,L,L,6
+2022,Genoa,2022-04-24,Cagliari,L,L,L,W,D,6
+2022,Genoa,2021-09-21,Bologna,L,W,L,L,,4
+2022,Genoa,2021-09-18,Fiorentina,W,L,L,,,3
+2022,Genoa,2021-09-12,Cagliari,L,L,,,,3
+2022,Genoa,2021-08-29,Napoli,L,,,,,0
+2022,Genoa,2021-08-21,Inter,,,,,,0
+2022,Genoa,2022-05-21,Bologna,L,W,L,W,L,6
+2022,Genoa,2022-05-15,Napoli,W,L,W,L,L,6
+2022,Genoa,2021-10-26,Spezia,L,D,L,D,D,3
+2022,Genoa,2022-04-30,Sampdoria,W,L,L,L,W,3
+2022,Genoa,2021-09-25,Hellas Verona,D,L,W,L,L,5
+2022,Genoa,2022-04-15,Milan,L,L,W,D,D,4
+2022,Genoa,2022-04-10,Lazio,L,W,D,D,D,5
+2022,Genoa,2022-04-04,Hellas Verona,W,D,D,D,D,6
+2022,Genoa,2022-03-18,Torino,D,D,D,D,D,7
+2022,Genoa,2022-03-13,Atalanta,D,D,D,D,D,5
+2022,Genoa,2022-03-06,Empoli,D,D,D,D,D,5
+2022,Genoa,2022-02-25,Inter,D,D,D,D,L,5
+2022,Genoa,2022-02-20,Venezia,D,D,D,L,L,4
+2022,Genoa,2021-11-28,Udinese,L,D,D,D,L,4
+2022,Genoa,2022-01-06,Sassuolo,D,L,L,L,L,2
+2022,Genoa,2022-01-09,Spezia,D,D,L,L,L,2
+2022,Genoa,2021-12-21,Atalanta,L,L,L,L,D,1
+2022,Genoa,2021-12-10,Sampdoria,L,L,D,L,D,1
+2022,Genoa,2022-01-17,Fiorentina,L,D,D,L,L,2
+2022,Genoa,2022-01-22,Udinese,L,L,D,D,L,3
+2022,Genoa,2022-02-05,Roma,D,L,L,D,D,3
+2022,Genoa,2021-12-17,Lazio,L,L,L,D,L,1
+2022,Genoa,2021-12-05,Juventus,L,D,L,D,D,2
+2022,Genoa,2021-12-01,Milan,D,L,D,D,D,3
+2022,Genoa,2021-11-21,Roma,D,D,D,L,D,3
+2022,Genoa,2021-11-05,Empoli,D,D,L,D,L,4
+2022,Genoa,2021-10-31,Venezia,D,L,D,L,D,3
+2022,Genoa,2022-02-13,Salernitana,D,D,L,L,D,3
+2022,Genoa,2022-05-06,Juventus,L,W,L,L,L,6
+2022,Genoa,2021-10-22,Torino,D,L,D,D,L,3
+2022,Genoa,2021-10-17,Sassuolo,L,D,D,L,W,3
+2022,Genoa,2021-10-02,Salernitana,D,D,L,W,L,5
+2022,Hellas Verona,2022-02-27,Venezia,D,W,L,W,W,10
+2022,Hellas Verona,2021-11-22,Empoli,D,W,D,W,L,11
+2022,Hellas Verona,2022-03-13,Napoli,D,W,D,W,L,8
+2022,Hellas Verona,2022-03-20,Empoli,L,D,W,D,W,6
+2022,Hellas Verona,2022-01-21,Bologna,W,L,W,D,L,10
+2022,Hellas Verona,2022-01-16,Sassuolo,L,W,D,L,L,7
+2022,Hellas Verona,2022-01-09,Salernitana,W,D,L,L,W,4
+2022,Hellas Verona,2022-01-06,Spezia,D,L,L,W,D,7
+2022,Hellas Verona,2021-12-22,Fiorentina,L,L,W,D,L,5
+2022,Hellas Verona,2022-03-06,Fiorentina,W,D,W,L,W,8
+2022,Hellas Verona,2021-10-24,Lazio,L,W,D,D,W,8
+2022,Hellas Verona,2022-05-14,Torino,L,W,D,W,L,7
+2022,Hellas Verona,2022-02-06,Juventus,W,W,L,W,D,9
+2022,Hellas Verona,2021-11-27,Sampdoria,W,D,W,D,W,8
+2022,Hellas Verona,2021-11-30,Cagliari,L,W,D,W,D,8
+2022,Hellas Verona,2021-12-05,Venezia,D,L,W,D,W,8
+2022,Hellas Verona,2021-12-12,Atalanta,W,D,L,W,D,7
+2022,Hellas Verona,2022-04-04,Genoa,D,L,D,W,D,8
+2022,Hellas Verona,2021-12-19,Torino,L,W,D,L,W,4
+2022,Hellas Verona,2022-02-13,Udinese,L,W,W,L,W,9
+2022,Hellas Verona,2022-04-09,Inter,W,D,L,D,W,5
+2022,Hellas Verona,2022-04-18,Atalanta,L,W,D,L,D,7
+2022,Hellas Verona,2022-04-23,Sampdoria,W,L,W,D,L,8
+2022,Hellas Verona,2022-04-30,Cagliari,D,W,L,W,D,10
+2022,Hellas Verona,2022-05-08,Milan,W,D,W,L,W,7
+2022,Hellas Verona,2022-05-21,Lazio,L,L,W,D,W,5
+2022,Hellas Verona,2022-02-19,Roma,W,L,W,W,L,10
+2022,Hellas Verona,2021-11-07,Napoli,W,D,W,L,W,8
+2022,Hellas Verona,2021-10-30,Juventus,D,W,L,W,D,10
+2022,Hellas Verona,2021-10-27,Udinese,W,L,W,D,D,8
+2022,Hellas Verona,2021-10-16,Milan,W,D,D,W,L,8
+2022,Hellas Verona,2021-10-03,Spezia,D,D,W,L,L,8
+2022,Hellas Verona,2021-09-25,Genoa,D,W,L,L,L,5
+2022,Hellas Verona,2021-09-22,Salernitana,W,L,L,L,,4
+2022,Hellas Verona,2021-09-19,Roma,L,L,L,,,3
+2022,Hellas Verona,2021-09-13,Bologna,L,L,,,,0
+2022,Hellas Verona,2021-08-27,Inter,L,,,,,0
+2022,Hellas Verona,2021-08-21,Sassuolo,,,,,,0
+2022,Internazionale,2021-12-04,Roma,W,W,W,D,W,13
+2022,Internazionale,2021-10-02,Sassuolo,D,W,W,D,W,11
+2022,Internazionale,2021-10-16,Lazio,W,D,W,W,D,10
+2022,Internazionale,2021-10-24,Juventus,L,W,D,W,W,8
+2022,Internazionale,2021-10-27,Empoli,D,L,W,D,W,8
+2022,Internazionale,2021-10-31,Udinese,W,D,L,W,D,10
+2022,Internazionale,2021-11-07,Milan,W,W,D,L,W,8
+2022,Internazionale,2021-11-21,Napoli,D,W,W,D,L,11
+2022,Internazionale,2021-11-27,Venezia,W,D,W,W,D,13
+2022,Internazionale,2021-12-01,Spezia,W,W,D,W,W,13
+2022,Internazionale,2021-09-25,Atalanta,W,W,D,W,W,11
+2022,Internazionale,2022-02-12,Napoli,L,W,D,W,W,8
+2022,Internazionale,2022-01-22,Venezia,D,W,W,W,W,13
+2022,Internazionale,2022-01-16,Atalanta,W,W,W,W,W,13
+2022,Internazionale,2022-01-09,Lazio,W,W,W,W,W,15
+2022,Internazionale,2021-09-21,Fiorentina,W,D,W,W,,13
+2022,Internazionale,2021-12-17,Salernitana,W,W,W,W,W,15
+2022,Internazionale,2021-08-21,Genoa,,,,,,3
+2022,Internazionale,2021-12-12,Cagliari,W,W,W,W,D,15
+2022,Internazionale,2022-03-19,Fiorentina,D,W,D,L,D,6
+2022,Internazionale,2022-05-15,Cagliari,W,W,L,W,W,12
+2022,Internazionale,2022-05-06,Empoli,W,L,W,W,W,12
+2022,Internazionale,2022-05-22,Sampdoria,W,W,W,L,W,12
+2022,Internazionale,2022-05-01,Udinese,L,W,W,W,W,12
+2022,Internazionale,2021-09-18,Bologna,D,W,W,,,10
+2022,Internazionale,2021-09-12,Sampdoria,W,W,,,,7
+2022,Internazionale,2022-02-25,Genoa,L,D,L,W,D,5
+2022,Internazionale,2022-03-04,Salernitana,D,L,D,L,W,5
+2022,Internazionale,2022-03-13,Torino,W,D,L,D,L,6
+2022,Internazionale,2022-02-20,Sassuolo,D,L,W,D,W,5
+2022,Internazionale,2022-04-03,Juventus,D,D,W,D,L,9
+2022,Internazionale,2022-04-09,Hellas Verona,W,D,D,W,D,11
+2022,Internazionale,2022-04-15,Spezia,W,W,D,D,W,11
+2022,Internazionale,2022-04-23,Roma,W,W,W,D,D,13
+2022,Internazionale,2022-04-27,Bologna,W,W,W,W,D,12
+2022,Internazionale,2021-08-27,Hellas Verona,W,,,,,6
+2022,Internazionale,2022-02-05,Milan,W,D,W,W,W,10
+2022,Internazionale,2021-12-22,Torino,W,W,W,W,W,15
+2022,Juventus,2022-05-06,Genoa,W,W,D,W,L,10
+2022,Juventus,2022-05-01,Venezia,W,D,W,L,W,10
+2022,Juventus,2022-04-25,Sassuolo,D,W,L,W,W,10
+2022,Juventus,2022-04-16,Bologna,W,L,W,W,W,10
+2022,Juventus,2022-04-09,Cagliari,L,W,W,W,W,12
+2022,Juventus,2022-04-03,Inter,W,W,W,W,D,12
+2022,Juventus,2022-03-20,Salernitana,W,W,W,D,D,13
+2022,Juventus,2022-03-12,Sampdoria,W,W,D,D,W,11
+2022,Juventus,2022-03-06,Spezia,W,D,D,W,D,11
+2022,Juventus,2022-02-26,Empoli,D,D,W,D,W,9
+2022,Juventus,2021-10-30,Hellas Verona,L,D,W,W,W,7
+2022,Juventus,2022-02-13,Atalanta,W,D,W,W,D,11
+2022,Juventus,2022-02-06,Hellas Verona,D,W,W,D,W,11
+2022,Juventus,2022-01-23,Milan,W,W,D,W,W,11
+2022,Juventus,2022-05-16,Lazio,L,W,W,D,W,8
+2022,Juventus,2022-01-15,Udinese,W,D,W,W,D,13
+2022,Juventus,2022-01-09,Roma,D,W,W,D,W,11
+2022,Juventus,2022-01-06,Napoli,W,W,D,W,W,11
+2022,Juventus,2021-12-21,Cagliari,W,D,W,W,L,13
+2022,Juventus,2021-12-18,Bologna,D,W,W,L,W,10
+2022,Juventus,2021-12-11,Venezia,W,W,L,W,W,10
+2022,Juventus,2021-12-05,Genoa,W,L,W,W,L,12
+2022,Juventus,2021-11-30,Salernitana,L,W,W,L,L,9
+2022,Juventus,2021-11-27,Atalanta,W,W,L,L,D,6
+2022,Juventus,2021-11-20,Lazio,W,L,L,D,W,7
+2022,Juventus,2021-11-06,Fiorentina,L,L,D,W,W,7
+2022,Juventus,2022-02-18,Torino,D,W,D,W,W,9
+2022,Juventus,2022-05-21,Fiorentina,D,L,W,W,D,7
+2022,Juventus,2021-09-22,Spezia,D,L,L,D,,5
+2022,Juventus,2021-09-19,Milan,L,L,D,,,2
+2022,Juventus,2021-08-22,Udinese,,,,,,1
+2022,Juventus,2021-09-26,Sampdoria,W,D,L,L,D,7
+2022,Juventus,2021-10-02,Torino,W,W,D,L,L,10
+2022,Juventus,2021-10-17,Roma,W,W,W,D,L,13
+2022,Juventus,2021-10-24,Inter,W,W,W,W,D,13
+2022,Juventus,2021-10-27,Sassuolo,D,W,W,W,W,10
+2022,Juventus,2021-08-28,Empoli,D,,,,,1
+2022,Juventus,2021-09-11,Napoli,L,D,,,,1
+2022,Lazio,2021-09-26,Roma,D,D,L,W,W,8
+2022,Lazio,2021-12-12,Sassuolo,W,D,L,L,W,4
+2022,Lazio,2022-05-21,Hellas Verona,D,W,W,L,D,8
+2022,Lazio,2021-09-23,Torino,D,L,W,W,,8
+2022,Lazio,2021-09-19,Cagliari,L,W,W,,,7
+2022,Lazio,2021-09-12,Milan,W,W,,,,6
+2022,Lazio,2021-10-03,Bologna,W,D,D,L,W,5
+2022,Lazio,2021-10-16,Inter,L,W,D,D,L,8
+2022,Lazio,2021-10-24,Hellas Verona,W,L,W,D,D,7
+2022,Lazio,2021-10-27,Fiorentina,L,W,L,W,D,9
+2022,Lazio,2021-12-17,Genoa,L,W,D,L,L,7
+2022,Lazio,2022-02-20,Udinese,W,W,D,W,L,11
+2022,Lazio,2021-11-07,Salernitana,D,W,L,W,L,10
+2022,Lazio,2021-08-28,Spezia,W,,,,,6
+2022,Lazio,2021-08-21,Empoli,,,,,,3
+2022,Lazio,2021-11-20,Juventus,W,D,W,L,W,7
+2022,Lazio,2021-11-28,Napoli,L,W,D,W,L,7
+2022,Lazio,2021-12-02,Udinese,L,L,W,D,W,5
+2022,Lazio,2021-12-05,Sampdoria,D,L,L,W,D,7
+2022,Lazio,2022-02-27,Napoli,D,W,W,D,W,8
+2022,Lazio,2022-05-07,Sampdoria,W,L,D,W,W,10
+2022,Lazio,2022-04-30,Spezia,L,D,W,W,L,10
+2022,Lazio,2022-04-24,Milan,D,W,W,L,W,7
+2022,Lazio,2022-04-16,Torino,W,W,L,W,W,10
+2022,Lazio,2022-04-10,Genoa,W,L,W,W,L,12
+2022,Lazio,2022-04-02,Sassuolo,L,W,W,L,D,9
+2022,Lazio,2022-03-20,Roma,W,W,L,D,W,7
+2022,Lazio,2022-03-14,Venezia,W,L,D,W,W,10
+2022,Lazio,2022-03-05,Cagliari,L,D,W,W,D,10
+2022,Lazio,2022-02-12,Bologna,W,D,W,L,D,10
+2022,Lazio,2022-05-16,Juventus,W,W,L,D,W,8
+2022,Lazio,2022-02-05,Fiorentina,D,W,L,D,W,8
+2022,Lazio,2022-01-22,Atalanta,W,L,D,W,W,8
+2022,Lazio,2022-01-15,Salernitana,L,D,W,W,L,10
+2022,Lazio,2022-01-09,Inter,D,W,W,L,W,7
+2022,Lazio,2022-01-06,Empoli,W,W,L,W,D,10
+2022,Lazio,2021-12-22,Venezia,W,L,W,D,L,10
+2022,Lazio,2021-10-30,Atalanta,W,L,W,L,W,7
+2022,Milan,2021-10-31,Roma,W,W,W,W,W,15
+2022,Milan,2021-08-29,Cagliari,W,,,,,6
+2022,Milan,2021-09-12,Lazio,W,W,,,,9
+2022,Milan,2021-09-25,Spezia,W,D,W,W,W,13
+2022,Milan,2021-10-03,Atalanta,W,W,D,W,W,13
+2022,Milan,2021-10-16,Hellas Verona,W,W,W,D,W,13
+2022,Milan,2021-10-23,Bologna,W,W,W,W,D,15
+2022,Milan,2021-10-26,Torino,W,W,W,W,W,15
+2022,Milan,2021-11-07,Inter,W,W,W,W,W,13
+2022,Milan,2021-11-20,Fiorentina,D,W,W,W,W,10
+2022,Milan,2021-08-23,Sampdoria,,,,,,3
+2022,Milan,2021-12-01,Genoa,L,L,D,W,W,7
+2022,Milan,2021-12-04,Salernitana,W,L,L,D,W,7
+2022,Milan,2021-12-11,Udinese,W,W,L,L,D,7
+2022,Milan,2021-12-19,Napoli,D,W,W,L,L,7
+2022,Milan,2021-12-22,Empoli,L,D,W,W,L,10
+2022,Milan,2022-01-06,Roma,W,L,D,W,W,10
+2022,Milan,2022-01-09,Venezia,W,W,L,D,W,10
+2022,Milan,2022-05-22,Sassuolo,W,W,W,W,W,15
+2022,Milan,2022-03-19,Cagliari,W,W,D,D,W,11
+2022,Milan,2022-01-17,Spezia,W,W,W,L,D,9
+2022,Milan,2022-05-15,Atalanta,W,W,W,W,D,15
+2022,Milan,2022-02-05,Inter,D,L,W,W,W,10
+2022,Milan,2022-01-23,Juventus,L,W,W,W,L,10
+2022,Milan,2022-02-13,Sampdoria,W,D,L,W,W,10
+2022,Milan,2022-02-19,Salernitana,W,W,D,L,W,8
+2022,Milan,2022-02-25,Udinese,D,W,W,D,L,9
+2022,Milan,2022-03-06,Napoli,D,D,W,W,D,11
+2022,Milan,2022-03-12,Empoli,W,D,D,W,W,11
+2022,Milan,2022-04-24,Lazio,W,D,D,W,W,11
+2022,Milan,2022-04-04,Bologna,W,W,W,D,D,11
+2022,Milan,2022-04-10,Torino,D,W,W,W,D,11
+2022,Milan,2022-04-15,Genoa,D,D,W,W,W,11
+2022,Milan,2022-05-08,Hellas Verona,W,W,W,D,D,13
+2022,Milan,2022-05-01,Fiorentina,W,W,D,D,W,11
+2022,Milan,2021-11-28,Sassuolo,L,D,W,W,W,7
+2022,Milan,2021-09-22,Venezia,D,W,W,W,,13
+2022,Milan,2021-09-19,Juventus,W,W,W,,,10
+2022,Napoli,2022-05-22,Spezia,W,W,W,L,D,12
+2022,Napoli,2022-02-21,Cagliari,D,W,W,W,W,11
+2022,Napoli,2022-04-03,Atalanta,W,W,L,W,D,12
+2022,Napoli,2021-10-03,Fiorentina,W,W,W,W,W,15
+2022,Napoli,2021-09-26,Cagliari,W,W,W,W,W,15
+2022,Napoli,2021-09-23,Sampdoria,W,W,W,W,,15
+2022,Napoli,2021-10-24,Roma,W,W,W,W,W,13
+2022,Napoli,2021-10-28,Bologna,D,W,W,W,W,13
+2022,Napoli,2021-10-31,Salernitana,W,D,W,W,W,13
+2022,Napoli,2021-08-29,Genoa,W,,,,,6
+2022,Napoli,2022-02-12,Inter,W,W,W,W,D,13
+2022,Napoli,2022-05-15,Genoa,W,W,L,D,L,10
+2022,Napoli,2022-05-07,Torino,W,L,D,L,W,7
+2022,Napoli,2022-04-30,Sassuolo,L,D,L,W,W,7
+2022,Napoli,2022-04-24,Empoli,D,L,W,W,W,7
+2022,Napoli,2022-04-18,Roma,L,W,W,W,L,10
+2022,Napoli,2022-04-10,Fiorentina,W,W,W,L,W,9
+2022,Napoli,2021-09-11,Juventus,W,W,,,,9
+2022,Napoli,2022-03-19,Udinese,W,L,W,D,D,10
+2022,Napoli,2021-12-12,Empoli,L,D,W,L,D,4
+2022,Napoli,2022-03-06,Milan,W,D,D,W,W,8
+2022,Napoli,2021-10-17,Torino,W,W,W,W,W,15
+2022,Napoli,2021-12-22,Spezia,W,L,L,D,W,4
+2022,Napoli,2022-02-27,Lazio,D,D,W,W,W,11
+2022,Napoli,2021-11-21,Inter,D,W,W,D,W,8
+2022,Napoli,2021-11-28,Lazio,L,D,W,W,D,10
+2022,Napoli,2021-12-01,Sassuolo,W,L,D,W,W,8
+2022,Napoli,2021-09-20,Udinese,W,W,W,,,12
+2022,Napoli,2021-12-04,Atalanta,D,W,L,D,W,5
+2022,Napoli,2022-03-13,Hellas Verona,L,W,D,D,W,8
+2022,Napoli,2021-12-19,Milan,L,L,D,W,L,7
+2022,Napoli,2021-11-07,Hellas Verona,W,W,D,W,W,11
+2022,Napoli,2022-01-06,Juventus,L,W,L,L,D,4
+2022,Napoli,2022-01-09,Sampdoria,D,L,W,L,L,7
+2022,Napoli,2021-08-22,Venezia,,,,,,3
+2022,Napoli,2022-01-17,Bologna,W,D,L,W,L,10
+2022,Napoli,2022-01-23,Salernitana,W,W,D,L,W,10
+2022,Napoli,2022-02-06,Venezia,W,W,W,D,L,13
+2022,Roma,2021-11-07,Venezia,L,W,D,L,W,4
+2022,Roma,2022-04-18,Napoli,W,W,W,D,W,11
+2022,Roma,2022-04-10,Salernitana,W,W,D,W,W,13
+2022,Roma,2022-04-03,Sampdoria,W,D,W,W,D,13
+2022,Roma,2022-03-20,Lazio,D,W,W,D,D,11
+2022,Roma,2022-03-13,Udinese,W,W,D,D,D,9
+2022,Roma,2022-03-05,Atalanta,W,D,D,D,W,9
+2022,Roma,2022-02-27,Spezia,D,D,D,W,W,9
+2022,Roma,2022-02-19,Hellas Verona,D,D,W,W,L,9
+2022,Roma,2021-12-04,Inter,L,W,W,L,L,6
+2022,Roma,2022-04-23,Inter,D,W,W,W,D,10
+2022,Roma,2021-11-21,Genoa,L,L,W,D,L,7
+2022,Roma,2021-11-28,Torino,W,L,L,W,D,9
+2022,Roma,2021-12-01,Bologna,W,W,L,L,W,6
+2022,Roma,2021-10-31,Milan,W,D,L,W,L,7
+2022,Roma,2021-10-24,Napoli,L,W,L,W,L,7
+2022,Roma,2021-10-27,Cagliari,D,L,W,L,W,7
+2022,Roma,2021-10-17,Juventus,W,L,W,L,W,6
+2022,Roma,2021-12-13,Spezia,L,L,W,W,L,9
+2022,Roma,2021-12-22,Sampdoria,W,W,L,L,W,7
+2022,Roma,2022-02-05,Genoa,W,W,L,L,D,7
+2022,Roma,2022-02-13,Sassuolo,D,W,W,L,L,8
+2022,Roma,2021-08-22,Fiorentina,,,,,,3
+2022,Roma,2021-08-29,Salernitana,W,,,,,6
+2022,Roma,2021-09-12,Sassuolo,W,W,,,,9
+2022,Roma,2021-09-19,Hellas Verona,W,W,W,,,9
+2022,Roma,2021-09-23,Udinese,L,W,W,W,,12
+2022,Roma,2022-05-09,Fiorentina,D,L,D,W,W,5
+2022,Roma,2021-12-18,Atalanta,W,L,L,W,W,9
+2022,Roma,2021-09-26,Lazio,W,L,W,W,W,9
+2022,Roma,2022-01-06,Milan,D,W,W,L,L,7
+2022,Roma,2022-05-01,Bologna,L,D,W,W,W,8
+2022,Roma,2022-01-09,Juventus,L,D,W,W,L,7
+2022,Roma,2022-01-16,Cagliari,L,L,D,W,W,7
+2022,Roma,2022-01-23,Empoli,W,L,L,D,W,7
+2022,Roma,2022-05-20,Torino,D,L,D,L,D,5
+2022,Roma,2022-05-14,Venezia,L,D,L,D,W,3
+2022,Roma,2021-10-03,Empoli,L,W,L,W,W,9
+2022,Salernitana,2021-10-23,Empoli,L,W,L,D,L,4
+2022,Salernitana,2022-05-22,Udinese,D,D,W,D,W,6
+2022,Salernitana,2022-05-14,Empoli,D,W,D,W,W,9
+2022,Salernitana,2022-05-08,Cagliari,W,D,W,W,W,11
+2022,Salernitana,2022-05-05,Venezia,D,W,W,W,L,13
+2022,Salernitana,2022-05-02,Atalanta,W,W,W,L,L,10
+2022,Salernitana,2022-04-24,Fiorentina,W,W,L,L,L,9
+2022,Salernitana,2022-04-20,Udinese,W,L,L,L,D,6
+2022,Salernitana,2022-04-16,Sampdoria,L,L,L,D,L,4
+2022,Salernitana,2021-11-26,Cagliari,L,L,L,W,L,4
+2022,Salernitana,2022-04-02,Torino,L,D,L,D,D,2
+2022,Salernitana,2021-10-16,Spezia,W,L,D,L,L,4
+2022,Salernitana,2021-10-02,Genoa,L,D,L,L,L,4
+2022,Salernitana,2021-09-26,Sassuolo,D,L,L,L,L,1
+2022,Salernitana,2021-10-26,Venezia,L,L,W,L,D,6
+2022,Salernitana,2021-10-31,Napoli,W,L,L,W,L,6
+2022,Salernitana,2021-09-22,Hellas Verona,L,L,L,L,,1
+2022,Salernitana,2021-11-07,Lazio,L,W,L,L,W,3
+2022,Salernitana,2021-11-21,Sampdoria,L,L,W,L,L,3
+2022,Salernitana,2021-12-17,Inter,L,L,L,D,L,1
+2022,Salernitana,2021-12-11,Fiorentina,L,L,D,L,L,1
+2022,Salernitana,2021-09-18,Atalanta,L,L,L,,,0
+2022,Salernitana,2022-01-09,Hellas Verona,L,L,L,L,D,3
+2022,Salernitana,2022-01-15,Lazio,W,L,L,L,L,3
+2022,Salernitana,2022-01-23,Napoli,L,W,L,L,L,3
+2022,Salernitana,2022-02-07,Spezia,L,L,W,L,L,4
+2022,Salernitana,2022-02-13,Genoa,D,L,L,W,L,5
+2022,Salernitana,2022-02-19,Milan,D,D,L,L,W,3
+2022,Salernitana,2022-02-26,Bologna,D,D,D,L,L,4
+2022,Salernitana,2021-12-04,Milan,L,D,L,L,L,1
+2022,Salernitana,2021-08-22,Bologna,,,,,,0
+2022,Salernitana,2022-03-04,Inter,D,D,D,D,L,4
+2022,Salernitana,2022-03-12,Sassuolo,L,D,D,D,D,4
+2022,Salernitana,2022-03-20,Juventus,D,L,D,D,D,3
+2022,Salernitana,2021-09-12,Torino,L,L,,,,0
+2022,Salernitana,2021-08-29,Roma,L,,,,,0
+2022,Salernitana,2022-04-10,Roma,L,L,D,L,D,1
+2022,Salernitana,2021-11-30,Juventus,D,L,L,L,W,1
+2022,Sampdoria,2021-10-30,Torino,L,W,L,D,L,4
+2022,Sampdoria,2022-04-11,Bologna,L,W,L,L,L,3
+2022,Sampdoria,2022-04-16,Salernitana,L,L,W,L,L,3
+2022,Sampdoria,2022-04-23,Hellas Verona,L,L,L,W,L,4
+2022,Sampdoria,2022-04-30,Genoa,D,L,L,L,W,4
+2022,Sampdoria,2022-05-07,Lazio,W,D,L,L,L,4
+2022,Sampdoria,2022-05-16,Fiorentina,L,W,D,L,L,7
+2022,Sampdoria,2022-05-22,Inter,W,L,W,D,L,7
+2022,Sampdoria,2021-09-19,Empoli,D,D,L,,,5
+2022,Sampdoria,2021-11-07,Bologna,L,L,W,L,D,3
+2022,Sampdoria,2022-04-03,Roma,W,L,L,L,W,3
+2022,Sampdoria,2021-10-03,Udinese,L,L,W,D,D,5
+2022,Sampdoria,2021-09-26,Juventus,L,W,D,D,L,5
+2022,Sampdoria,2021-09-23,Napoli,W,D,D,L,,5
+2022,Sampdoria,2021-11-21,Salernitana,L,L,L,W,L,6
+2022,Sampdoria,2021-09-12,Inter,D,L,,,,2
+2022,Sampdoria,2021-08-29,Sassuolo,L,,,,,1
+2022,Sampdoria,2021-11-27,Hellas Verona,W,L,L,L,W,6
+2022,Sampdoria,2021-08-23,Milan,,,,,,0
+2022,Sampdoria,2022-01-23,Spezia,L,L,L,D,D,1
+2022,Sampdoria,2021-10-22,Spezia,L,D,L,L,W,4
+2022,Sampdoria,2022-02-28,Atalanta,W,L,W,L,L,6
+2022,Sampdoria,2021-12-05,Lazio,L,W,W,L,L,6
+2022,Sampdoria,2021-12-10,Genoa,L,L,W,W,L,9
+2022,Sampdoria,2021-12-19,Venezia,W,L,L,W,W,7
+2022,Sampdoria,2021-12-22,Roma,D,W,L,L,W,5
+2022,Sampdoria,2022-01-06,Cagliari,D,D,W,L,L,5
+2022,Sampdoria,2022-01-09,Napoli,L,D,D,W,L,5
+2022,Sampdoria,2022-01-15,Torino,L,L,D,D,W,2
+2022,Sampdoria,2022-03-05,Udinese,L,W,L,W,L,6
+2022,Sampdoria,2022-02-06,Sassuolo,L,L,L,L,D,3
+2022,Sampdoria,2022-02-13,Milan,W,L,L,L,L,3
+2022,Sampdoria,2022-02-19,Empoli,L,W,L,L,L,6
+2022,Sampdoria,2021-11-30,Fiorentina,W,W,L,L,L,6
+2022,Sampdoria,2021-10-17,Cagliari,D,L,L,W,D,4
+2022,Sampdoria,2021-10-27,Atalanta,W,L,D,L,L,4
+2022,Sampdoria,2022-03-12,Juventus,L,L,W,L,W,3
+2022,Sampdoria,2022-03-20,Venezia,L,L,L,W,L,6
+2022,Sassuolo,2022-01-16,Hellas Verona,W,D,L,D,W,5
+2022,Sassuolo,2021-10-23,Venezia,D,L,W,L,L,7
+2022,Sassuolo,2022-03-12,Salernitana,W,W,W,D,L,11
+2022,Sassuolo,2021-12-12,Lazio,D,D,W,D,L,9
+2022,Sassuolo,2022-03-06,Venezia,W,W,D,L,D,10
+2022,Sassuolo,2021-12-19,Fiorentina,W,D,D,W,D,9
+2022,Sassuolo,2022-02-26,Fiorentina,W,D,L,D,L,8
+2022,Sassuolo,2022-02-20,Inter,D,L,D,L,W,5
+2022,Sassuolo,2022-02-13,Roma,L,D,L,W,D,5
+2022,Sassuolo,2022-01-23,Torino,L,W,D,L,D,5
+2022,Sassuolo,2022-03-18,Spezia,D,W,W,W,D,13
+2022,Sassuolo,2022-01-09,Empoli,D,L,D,W,D,8
+2022,Sassuolo,2022-01-06,Genoa,L,D,W,D,D,6
+2022,Sassuolo,2021-12-22,Bologna,D,W,D,D,W,6
+2022,Sassuolo,2021-12-05,Spezia,D,W,D,L,L,6
+2022,Sassuolo,2021-12-01,Napoli,W,D,L,L,W,5
+2022,Sassuolo,2021-11-28,Milan,D,L,L,W,W,7
+2022,Sassuolo,2021-11-21,Cagliari,L,L,W,W,D,7
+2022,Sassuolo,2021-11-07,Udinese,L,W,W,D,L,7
+2022,Sassuolo,2021-10-31,Empoli,W,W,D,L,W,7
+2022,Sassuolo,2022-05-22,Milan,W,D,L,L,L,4
+2022,Sassuolo,2022-02-06,Sampdoria,D,L,W,D,L,5
+2022,Sassuolo,2022-04-02,Lazio,W,D,W,W,W,10
+2022,Sassuolo,2022-04-10,Atalanta,L,W,D,W,W,10
+2022,Sassuolo,2022-04-16,Cagliari,W,L,W,D,W,7
+2022,Sassuolo,2022-04-25,Juventus,L,W,L,W,D,6
+2022,Sassuolo,2022-04-30,Napoli,L,L,W,L,W,3
+2022,Sassuolo,2022-05-07,Udinese,L,L,L,W,L,4
+2022,Sassuolo,2022-05-15,Bologna,D,L,L,L,W,4
+2022,Sassuolo,2021-10-27,Juventus,W,D,L,W,L,10
+2022,Sassuolo,2021-08-21,Hellas Verona,,,,,,3
+2022,Sassuolo,2021-08-29,Sampdoria,W,,,,,4
+2022,Sassuolo,2021-09-12,Roma,D,W,,,,4
+2022,Sassuolo,2021-09-17,Torino,L,D,W,,,4
+2022,Sassuolo,2021-09-21,Atalanta,L,L,D,W,,4
+2022,Sassuolo,2021-09-26,Salernitana,L,L,L,D,W,4
+2022,Sassuolo,2021-10-02,Inter,W,L,L,L,D,3
+2022,Sassuolo,2021-10-17,Genoa,L,W,L,L,L,4
+2022,Spezia,2021-09-25,Milan,L,W,L,L,D,3
+2022,Spezia,2021-11-06,Torino,L,D,L,W,L,7
+2022,Spezia,2021-10-31,Fiorentina,D,L,W,L,L,4
+2022,Spezia,2021-10-26,Genoa,L,W,L,L,L,4
+2022,Spezia,2021-10-22,Sampdoria,W,L,L,L,W,3
+2022,Spezia,2021-10-03,Hellas Verona,L,L,W,L,L,3
+2022,Spezia,2021-09-22,Juventus,W,L,L,D,,4
+2022,Spezia,2022-04-15,Inter,D,W,L,W,L,7
+2022,Spezia,2022-01-23,Sampdoria,W,W,L,W,D,12
+2022,Spezia,2022-02-07,Salernitana,W,W,W,L,W,10
+2022,Spezia,2021-11-20,Atalanta,W,L,D,L,W,4
+2022,Spezia,2022-02-14,Fiorentina,D,W,W,W,L,10
+2022,Spezia,2022-02-21,Bologna,L,D,W,W,W,7
+2022,Spezia,2022-02-27,Roma,L,L,D,W,W,4
+2022,Spezia,2022-03-06,Juventus,L,L,L,D,W,1
+2022,Spezia,2022-03-12,Cagliari,L,L,L,L,D,3
+2022,Spezia,2022-03-18,Sassuolo,W,L,L,L,L,3
+2022,Spezia,2022-04-02,Venezia,L,W,L,L,L,6
+2022,Spezia,2022-04-09,Empoli,W,L,W,L,L,7
+2022,Spezia,2022-05-08,Atalanta,L,L,L,D,W,1
+2022,Spezia,2021-08-23,Cagliari,,,,,,1
+2022,Spezia,2021-08-28,Lazio,D,,,,,1
+2022,Spezia,2021-09-12,Udinese,L,D,,,,1
+2022,Spezia,2021-09-19,Venezia,L,L,D,,,4
+2022,Spezia,2021-12-22,Napoli,D,L,D,L,L,5
+2022,Spezia,2021-10-16,Salernitana,L,L,L,W,L,6
+2022,Spezia,2022-04-23,Torino,L,D,W,L,W,4
+2022,Spezia,2022-05-22,Napoli,W,L,L,L,L,3
+2022,Spezia,2022-05-14,Udinese,L,L,L,L,D,3
+2022,Spezia,2022-01-09,Genoa,L,W,D,L,D,7
+2022,Spezia,2022-04-30,Lazio,L,L,D,W,L,4
+2022,Spezia,2022-01-17,Milan,W,L,W,D,L,10
+2022,Spezia,2022-01-06,Hellas Verona,W,D,L,D,L,5
+2022,Spezia,2021-12-19,Empoli,L,D,L,L,L,2
+2022,Spezia,2021-12-13,Roma,D,L,L,L,W,1
+2022,Spezia,2021-12-05,Sassuolo,L,L,L,W,L,4
+2022,Spezia,2021-12-01,Inter,L,L,W,L,D,3
+2022,Spezia,2021-11-28,Bologna,L,W,L,D,L,4
+2022,Torino,2022-02-27,Cagliari,D,L,L,D,W,2
+2022,Torino,2021-09-23,Lazio,W,W,L,L,,7
+2022,Torino,2021-09-17,Sassuolo,W,L,L,,,6
+2022,Torino,2021-09-12,Salernitana,L,L,,,,3
+2022,Torino,2021-08-28,Fiorentina,L,,,,,0
+2022,Torino,2022-04-10,Milan,W,L,D,D,L,6
+2022,Torino,2022-03-13,Inter,D,L,D,L,L,3
+2022,Torino,2022-04-02,Salernitana,L,D,D,L,D,5
+2022,Torino,2022-03-18,Genoa,D,D,L,D,L,3
+2022,Torino,2022-03-06,Bologna,L,D,L,L,D,2
+2022,Torino,2021-12-22,Inter,W,W,D,D,L,8
+2022,Torino,2021-10-17,Napoli,L,D,D,W,W,5
+2022,Torino,2022-02-18,Juventus,L,L,D,W,W,5
+2022,Torino,2022-02-12,Venezia,L,D,W,W,L,7
+2022,Torino,2022-02-06,Udinese,D,W,W,L,W,7
+2022,Torino,2022-01-23,Sassuolo,W,W,L,W,W,10
+2022,Torino,2021-09-27,Venezia,D,W,W,L,L,8
+2022,Torino,2021-10-22,Genoa,L,L,D,D,W,5
+2022,Torino,2022-01-15,Sampdoria,W,L,W,W,D,12
+2022,Torino,2022-01-10,Fiorentina,L,W,W,D,D,10
+2022,Torino,2021-10-02,Juventus,D,D,W,W,L,8
+2022,Torino,2022-04-16,Lazio,D,W,L,D,D,6
+2022,Torino,2022-05-01,Empoli,D,W,D,D,W,9
+2022,Torino,2022-05-07,Napoli,W,D,W,D,D,8
+2022,Torino,2022-04-27,Atalanta,W,D,D,W,L,9
+2022,Torino,2022-05-14,Hellas Verona,L,W,D,W,D,10
+2022,Torino,2022-05-20,Roma,W,L,W,D,W,7
+2022,Torino,2021-12-12,Bologna,D,D,L,W,L,8
+2022,Torino,2021-08-21,Atalanta,,,,,,0
+2022,Torino,2022-04-23,Spezia,D,D,W,L,D,8
+2022,Torino,2021-10-26,Milan,W,L,L,D,D,4
+2022,Torino,2021-10-30,Sampdoria,L,W,L,L,D,6
+2022,Torino,2021-11-06,Spezia,W,L,W,L,L,6
+2022,Torino,2021-11-22,Udinese,L,W,L,W,L,9
+2022,Torino,2021-12-02,Empoli,L,W,L,W,L,7
+2022,Torino,2021-12-06,Cagliari,D,L,W,L,W,5
+2022,Torino,2021-11-28,Roma,W,L,W,L,W,6
+2022,Torino,2021-12-19,Hellas Verona,W,D,D,L,W,8
+2022,Udinese,2022-04-10,Venezia,W,L,D,W,D,10
+2022,Udinese,2022-05-22,Salernitana,L,D,L,W,D,7
+2022,Udinese,2022-04-24,Bologna,L,W,W,W,L,10
+2022,Udinese,2022-04-20,Salernitana,W,W,W,L,D,9
+2022,Udinese,2022-01-22,Genoa,L,L,W,D,L,5
+2022,Udinese,2021-09-20,Napoli,W,W,D,,,7
+2022,Udinese,2022-04-16,Empoli,W,W,L,D,W,10
+2022,Udinese,2021-09-12,Spezia,W,D,,,,7
+2022,Udinese,2021-08-27,Venezia,D,,,,,4
+2022,Udinese,2021-08-22,Juventus,,,,,,1
+2022,Udinese,2022-05-14,Spezia,D,L,W,D,L,5
+2022,Udinese,2022-04-03,Cagliari,L,D,W,D,D,8
+2022,Udinese,2022-03-19,Napoli,D,W,D,D,L,6
+2022,Udinese,2022-03-13,Roma,W,D,D,L,W,6
+2022,Udinese,2022-03-05,Sampdoria,D,D,L,W,D,8
+2022,Udinese,2022-02-25,Milan,D,L,W,D,L,6
+2022,Udinese,2022-02-20,Lazio,L,W,D,L,L,5
+2022,Udinese,2022-02-13,Hellas Verona,W,D,L,L,W,4
+2022,Udinese,2022-02-06,Torino,D,L,L,W,D,7
+2022,Udinese,2021-10-27,Hellas Verona,D,D,D,L,L,4
+2022,Udinese,2022-01-15,Juventus,L,W,D,L,D,4
+2022,Udinese,2022-01-09,Atalanta,W,D,L,D,D,5
+2022,Udinese,2021-12-11,Milan,L,D,D,L,W,3
+2022,Udinese,2021-12-06,Empoli,D,D,L,W,L,5
+2022,Udinese,2021-12-02,Lazio,D,L,W,L,D,5
+2022,Udinese,2021-11-28,Genoa,L,W,L,D,D,5
+2022,Udinese,2021-11-22,Torino,W,L,D,D,D,5
+2022,Udinese,2021-11-07,Sassuolo,L,D,D,D,D,6
+2022,Udinese,2021-10-31,Inter,D,D,D,D,L,4
+2022,Udinese,2022-05-07,Sassuolo,L,W,D,L,W,5
+2022,Udinese,2021-10-24,Atalanta,D,D,L,L,L,3
+2022,Udinese,2021-10-17,Bologna,D,L,L,L,W,2
+2022,Udinese,2021-10-03,Sampdoria,L,L,L,W,W,4
+2022,Udinese,2021-09-26,Fiorentina,L,L,W,W,D,6
+2022,Udinese,2021-09-23,Roma,L,W,W,D,,7
+2022,Udinese,2021-12-18,Cagliari,D,L,D,D,L,6
+2022,Udinese,2022-04-27,Fiorentina,D,L,W,W,W,10
+2022,Udinese,2022-05-01,Inter,W,D,L,W,W,7
+2022,Venezia,2022-02-06,Napoli,L,D,L,L,D,1
+2022,Venezia,2021-11-27,Inter,W,W,D,L,L,7
+2022,Venezia,2021-11-30,Atalanta,L,W,W,D,L,7
+2022,Venezia,2021-12-05,Hellas Verona,L,L,W,W,D,6
+2022,Venezia,2021-12-11,Juventus,L,L,L,W,W,4
+2022,Venezia,2021-12-19,Sampdoria,D,L,L,L,W,2
+2022,Venezia,2021-12-22,Lazio,D,D,L,L,L,2
+2022,Venezia,2022-01-09,Milan,L,D,D,L,L,2
+2022,Venezia,2022-01-16,Empoli,L,L,D,D,L,3
+2022,Venezia,2021-10-18,Fiorentina,D,D,L,L,W,5
+2022,Venezia,2022-02-20,Genoa,W,L,L,D,L,5
+2022,Venezia,2021-09-11,Empoli,L,L,,,,3
+2022,Venezia,2021-10-26,Salernitana,L,W,D,D,L,5
+2022,Venezia,2022-02-12,Torino,L,L,D,L,L,4
+2022,Venezia,2022-05-14,Roma,W,L,L,L,L,4
+2022,Venezia,2022-02-27,Hellas Verona,D,W,L,L,D,4
+2022,Venezia,2021-09-27,Torino,L,L,W,L,L,4
+2022,Venezia,2021-10-01,Cagliari,D,L,L,W,L,5
+2022,Venezia,2022-03-06,Sassuolo,L,D,W,L,L,4
+2022,Venezia,2021-09-22,Milan,L,W,L,L,,3
+2022,Venezia,2022-04-23,Atalanta,L,L,L,L,L,0
+2022,Venezia,2021-11-21,Bologna,W,D,L,L,W,7
+2022,Venezia,2022-04-16,Fiorentina,L,L,L,L,L,0
+2022,Venezia,2022-04-10,Udinese,L,L,L,L,L,0
+2022,Venezia,2022-04-02,Spezia,L,L,L,L,D,0
+2022,Venezia,2022-03-20,Sampdoria,L,L,L,D,W,1
+2022,Venezia,2021-10-31,Genoa,L,L,W,D,D,5
+2022,Venezia,2022-05-01,Juventus,L,L,L,L,L,0
+2022,Venezia,2022-05-05,Salernitana,L,L,L,L,L,0
+2022,Venezia,2022-03-14,Lazio,L,L,D,W,L,4
+2022,Venezia,2021-08-22,Napoli,,,,,,0
+2022,Venezia,2021-10-23,Sassuolo,W,D,D,L,L,5
+2022,Venezia,2021-08-27,Udinese,L,,,,,0
+2022,Venezia,2021-09-19,Spezia,W,L,L,,,3
+2022,Venezia,2022-05-22,Cagliari,D,W,L,L,L,5
+2022,Venezia,2021-11-07,Roma,D,L,L,W,D,7
+2022,Venezia,2022-01-22,Inter,D,L,L,D,D,2
+2022,Venezia,2022-05-08,Bologna,L,L,L,L,L,3
+2023,Atalanta,2023-04-17,Fiorentina,L,W,W,L,D,7
+2023,Atalanta,2023-02-11,Lazio,L,W,D,W,W,10
+2023,Atalanta,2023-02-04,Sassuolo,W,D,W,W,D,10
+2023,Atalanta,2023-05-20,Hellas Verona,L,L,W,W,W,9
+2023,Atalanta,2023-05-27,Inter,W,L,L,W,W,6
+2023,Atalanta,2023-06-04,Monza,L,W,L,L,W,6
+2023,Atalanta,2023-05-07,Juventus,W,W,W,D,L,10
+2023,Atalanta,2023-05-03,Spezia,W,W,D,L,W,10
+2023,Atalanta,2023-04-29,Torino,W,D,L,W,W,10
+2023,Atalanta,2023-04-24,Roma,D,L,W,W,L,10
+2023,Atalanta,2022-08-13,Sampdoria,,,,,,3
+2023,Atalanta,2023-04-01,Cremonese,W,L,D,L,L,7
+2023,Atalanta,2023-04-08,Bologna,W,W,L,D,L,7
+2023,Atalanta,2023-02-19,Lecce,W,L,W,D,W,7
+2023,Atalanta,2023-02-26,Milan,L,W,L,W,D,6
+2023,Atalanta,2023-03-04,Udinese,L,L,W,L,W,4
+2023,Atalanta,2022-10-30,Empoli,L,W,D,W,W,10
+2023,Atalanta,2023-03-11,Napoli,D,L,L,W,L,4
+2023,Atalanta,2023-03-17,Empoli,L,D,L,L,W,4
+2023,Atalanta,2023-05-13,Salernitana,L,W,W,W,D,9
+2023,Atalanta,2023-01-28,Sampdoria,D,W,W,D,L,11
+2023,Atalanta,2023-01-22,Juventus,W,W,D,L,L,8
+2023,Atalanta,2023-01-15,Salernitana,W,D,L,L,L,7
+2023,Atalanta,2023-01-09,Bologna,D,L,L,L,W,4
+2023,Atalanta,2023-01-04,Spezia,L,L,L,W,L,4
+2023,Atalanta,2022-11-13,Inter,L,L,W,L,W,3
+2023,Atalanta,2022-11-09,Lecce,L,W,L,W,D,6
+2023,Atalanta,2022-11-05,Napoli,W,L,W,D,W,7
+2023,Atalanta,2022-10-23,Lazio,W,D,W,W,D,10
+2023,Atalanta,2022-10-15,Sassuolo,D,W,W,D,W,11
+2023,Atalanta,2022-10-09,Udinese,W,W,D,W,W,11
+2023,Atalanta,2022-10-02,Fiorentina,W,D,W,W,W,13
+2023,Atalanta,2022-09-18,Roma,D,W,W,W,D,13
+2023,Atalanta,2022-09-11,Cremonese,W,W,W,D,W,11
+2023,Atalanta,2022-09-05,Monza,W,W,D,W,,13
+2023,Atalanta,2022-09-01,Torino,W,D,W,,,10
+2023,Atalanta,2022-08-28,Hellas Verona,D,W,,,,7
+2023,Atalanta,2022-08-21,Milan,W,,,,,4
+2023,Bologna,2022-10-23,Lecce,L,D,L,L,W,4
+2023,Bologna,2022-08-14,Lazio,,,,,,0
+2023,Bologna,2022-08-21,Hellas Verona,L,,,,,1
+2023,Bologna,2022-08-27,Milan,D,L,,,,1
+2023,Bologna,2022-09-01,Salernitana,L,D,L,,,2
+2023,Bologna,2022-09-04,Spezia,D,L,D,L,,3
+2023,Bologna,2022-09-17,Empoli,W,D,D,L,D,5
+2023,Bologna,2022-10-02,Juventus,L,W,D,D,L,5
+2023,Bologna,2022-10-08,Sampdoria,L,L,W,D,D,5
+2023,Bologna,2023-01-27,Spezia,D,W,L,L,W,7
+2023,Bologna,2023-01-23,Cremonese,W,L,L,W,L,7
+2023,Bologna,2022-10-31,Monza,W,L,D,L,L,7
+2023,Bologna,2022-11-06,Torino,W,W,L,D,L,10
+2023,Bologna,2022-11-09,Inter,W,W,W,L,D,9
+2023,Bologna,2022-11-12,Sassuolo,L,W,W,W,L,12
+2023,Bologna,2023-01-04,Roma,W,L,W,W,W,9
+2023,Bologna,2023-01-09,Atalanta,L,W,L,W,W,6
+2023,Bologna,2023-01-15,Udinese,L,L,W,L,W,6
+2023,Bologna,2023-05-20,Cremonese,D,D,L,D,L,6
+2023,Bologna,2023-04-15,Milan,W,W,D,D,L,9
+2023,Bologna,2023-02-05,Fiorentina,W,D,W,L,L,10
+2023,Bologna,2023-02-12,Monza,W,W,D,W,L,10
+2023,Bologna,2023-02-18,Sampdoria,L,W,W,D,W,10
+2023,Bologna,2023-02-26,Inter,W,L,W,W,D,12
+2023,Bologna,2023-03-06,Torino,W,W,L,W,W,9
+2023,Bologna,2023-03-11,Lazio,L,W,W,L,W,7
+2023,Bologna,2023-03-18,Salernitana,D,L,W,W,L,8
+2023,Bologna,2023-04-02,Udinese,D,D,L,W,W,8
+2023,Bologna,2023-04-08,Atalanta,W,D,D,L,W,8
+2023,Bologna,2022-09-11,Fiorentina,D,D,L,D,L,6
+2023,Bologna,2023-04-21,Hellas Verona,D,W,W,D,D,8
+2023,Bologna,2023-04-30,Juventus,L,D,W,W,D,8
+2023,Bologna,2023-05-04,Empoli,D,L,D,W,W,5
+2023,Bologna,2023-05-08,Sassuolo,L,D,L,D,W,3
+2023,Bologna,2023-05-14,Roma,D,L,D,L,D,3
+2023,Bologna,2023-05-28,Napoli,W,D,D,L,D,6
+2023,Bologna,2023-06-04,Lecce,D,W,D,D,L,9
+2023,Bologna,2022-10-16,Napoli,D,L,L,W,D,4
+2023,Cremonese,2022-10-24,Sampdoria,D,L,D,L,D,2
+2023,Cremonese,2022-09-18,Lazio,D,D,L,L,L,2
+2023,Cremonese,2022-10-02,Lecce,L,D,D,L,L,3
+2023,Cremonese,2022-09-11,Atalanta,D,L,L,L,L,2
+2023,Cremonese,2022-09-04,Sassuolo,L,L,L,L,,1
+2023,Cremonese,2022-08-30,Inter,L,L,L,,,0
+2023,Cremonese,2022-08-27,Torino,L,L,,,,0
+2023,Cremonese,2022-08-22,Roma,L,,,,,0
+2023,Cremonese,2022-08-14,Fiorentina,,,,,,0
+2023,Cremonese,2023-01-09,Hellas Verona,L,L,D,D,D,2
+2023,Cremonese,2022-10-09,Napoli,D,L,D,D,L,3
+2023,Cremonese,2022-10-16,Spezia,L,D,L,D,D,3
+2023,Cremonese,2022-10-30,Udinese,L,D,L,D,L,3
+2023,Cremonese,2023-06-03,Salernitana,L,L,L,W,D,6
+2023,Cremonese,2023-05-28,Lazio,L,L,W,D,D,4
+2023,Cremonese,2023-05-20,Bologna,L,W,D,D,L,5
+2023,Cremonese,2023-05-14,Juventus,W,D,D,L,W,5
+2023,Cremonese,2023-05-06,Spezia,D,D,L,W,W,8
+2023,Cremonese,2023-02-28,Roma,D,L,L,L,D,4
+2023,Cremonese,2022-11-11,Empoli,D,D,D,L,D,3
+2023,Cremonese,2023-04-30,Hellas Verona,L,W,W,L,D,7
+2023,Cremonese,2023-04-23,Udinese,W,W,L,D,L,7
+2023,Cremonese,2023-04-14,Empoli,W,L,D,L,L,7
+2023,Cremonese,2023-04-08,Sampdoria,L,D,L,L,W,4
+2023,Cremonese,2023-04-01,Atalanta,D,L,L,W,D,4
+2023,Cremonese,2023-03-18,Monza,L,L,W,D,L,5
+2023,Cremonese,2023-03-12,Fiorentina,L,W,D,L,L,4
+2023,Cremonese,2022-11-05,Salernitana,D,L,D,L,D,3
+2023,Cremonese,2023-05-03,Milan,D,L,W,W,L,8
+2023,Cremonese,2022-11-08,Milan,D,D,L,D,L,4
+2023,Cremonese,2023-01-04,Juventus,L,D,D,D,L,3
+2023,Cremonese,2023-01-14,Monza,L,L,L,D,D,1
+2023,Cremonese,2023-01-23,Bologna,L,L,L,L,D,1
+2023,Cremonese,2023-01-28,Inter,D,L,L,L,L,1
+2023,Cremonese,2023-03-06,Sassuolo,W,D,L,L,L,4
+2023,Cremonese,2023-02-04,Lecce,L,D,L,L,L,1
+2023,Cremonese,2023-02-12,Napoli,L,L,D,L,L,1
+2023,Cremonese,2023-02-20,Torino,L,L,L,D,L,2
+2023,Empoli,2022-10-21,Juventus,W,D,L,W,L,7
+2023,Empoli,2023-04-14,Cremonese,D,W,L,L,L,4
+2023,Empoli,2023-04-23,Inter,L,D,W,L,L,4
+2023,Empoli,2023-04-30,Sassuolo,L,L,D,W,L,4
+2023,Empoli,2023-05-04,Bologna,L,L,L,D,W,4
+2023,Empoli,2023-05-08,Salernitana,W,L,L,L,D,6
+2023,Empoli,2023-05-15,Sampdoria,W,W,L,L,L,7
+2023,Empoli,2022-09-17,Bologna,L,D,D,D,D,6
+2023,Empoli,2023-02-19,Fiorentina,D,L,D,W,W,6
+2023,Empoli,2022-10-15,Monza,D,L,W,L,D,7
+2023,Empoli,2023-04-07,Milan,W,L,L,L,L,4
+2023,Empoli,2022-10-30,Atalanta,L,W,D,L,W,4
+2023,Empoli,2022-08-14,Spezia,,,,,,0
+2023,Empoli,2022-08-21,Fiorentina,L,,,,,1
+2023,Empoli,2022-08-28,Lecce,D,L,,,,2
+2023,Empoli,2022-08-31,Hellas Verona,D,D,L,,,3
+2023,Empoli,2022-09-05,Salernitana,D,D,D,L,,4
+2023,Empoli,2022-09-12,Roma,D,D,D,D,L,4
+2023,Empoli,2022-11-05,Sassuolo,L,L,W,D,L,7
+2023,Empoli,2023-02-25,Napoli,D,D,L,D,W,3
+2023,Empoli,2022-11-08,Napoli,W,L,L,W,D,6
+2023,Empoli,2022-11-11,Cremonese,L,W,L,L,W,6
+2023,Empoli,2023-01-04,Udinese,W,L,W,L,L,7
+2023,Empoli,2023-01-08,Lazio,D,W,L,W,L,8
+2023,Empoli,2023-01-16,Sampdoria,D,D,W,L,W,8
+2023,Empoli,2023-01-23,Inter,W,D,D,W,L,11
+2023,Empoli,2023-01-28,Torino,W,W,D,D,W,9
+2023,Empoli,2023-02-04,Roma,D,W,W,D,D,8
+2023,Empoli,2023-02-11,Spezia,L,D,W,W,D,8
+2023,Empoli,2023-03-11,Udinese,L,L,D,D,L,2
+2023,Empoli,2023-03-04,Monza,L,D,D,L,D,2
+2023,Empoli,2023-05-22,Juventus,D,W,W,L,L,10
+2023,Empoli,2022-10-01,Milan,W,L,D,D,D,5
+2023,Empoli,2023-03-17,Atalanta,L,L,L,D,D,1
+2023,Empoli,2023-05-28,Hellas Verona,W,D,W,W,L,11
+2023,Empoli,2023-06-03,Lazio,D,W,D,W,W,8
+2023,Empoli,2022-10-09,Torino,L,W,L,D,D,5
+2023,Empoli,2023-04-03,Lecce,L,L,L,L,D,3
+2023,Fiorentina,2022-09-18,Hellas Verona,L,D,L,D,D,5
+2023,Fiorentina,2023-01-07,Sassuolo,D,L,W,W,W,10
+2023,Fiorentina,2022-10-22,Inter,D,L,L,W,L,4
+2023,Fiorentina,2022-10-17,Lecce,L,L,W,L,D,4
+2023,Fiorentina,2022-10-10,Lazio,L,W,L,D,L,4
+2023,Fiorentina,2022-10-02,Atalanta,W,L,D,L,D,4
+2023,Fiorentina,2023-01-04,Monza,L,W,W,W,L,10
+2023,Fiorentina,2023-01-15,Roma,W,D,L,W,W,7
+2023,Fiorentina,2023-01-21,Torino,L,W,D,L,W,4
+2023,Fiorentina,2023-02-05,Bologna,D,L,L,W,D,4
+2023,Fiorentina,2022-10-30,Spezia,L,D,L,L,W,4
+2023,Fiorentina,2023-04-01,Inter,W,W,W,W,D,15
+2023,Fiorentina,2023-03-19,Lecce,W,W,W,D,L,13
+2023,Fiorentina,2023-03-12,Cremonese,W,W,D,L,L,10
+2023,Fiorentina,2023-03-04,Milan,W,D,L,L,D,7
+2023,Fiorentina,2023-02-27,Hellas Verona,D,L,L,D,L,5
+2023,Fiorentina,2023-02-19,Empoli,L,L,D,L,L,2
+2023,Fiorentina,2023-02-12,Juventus,L,D,L,L,W,1
+2023,Fiorentina,2023-01-29,Lazio,L,L,W,D,L,5
+2023,Fiorentina,2023-05-03,Salernitana,W,L,D,D,W,6
+2023,Fiorentina,2022-08-14,Cremonese,,,,,,3
+2023,Fiorentina,2022-08-21,Empoli,W,,,,,4
+2023,Fiorentina,2022-08-28,Napoli,D,W,,,,5
+2023,Fiorentina,2022-08-31,Udinese,D,D,W,,,5
+2023,Fiorentina,2022-09-03,Juventus,L,D,D,W,,6
+2023,Fiorentina,2023-05-21,Torino,W,L,D,W,L,8
+2023,Fiorentina,2023-05-14,Udinese,L,D,W,L,D,7
+2023,Fiorentina,2023-05-07,Napoli,D,W,L,D,D,5
+2023,Fiorentina,2023-05-27,Roma,D,W,L,D,W,8
+2023,Fiorentina,2023-06-02,Sassuolo,W,D,W,L,D,10
+2023,Fiorentina,2023-04-30,Sampdoria,L,D,D,W,W,8
+2023,Fiorentina,2023-04-23,Monza,D,D,W,W,W,8
+2023,Fiorentina,2023-04-17,Atalanta,D,W,W,W,W,11
+2023,Fiorentina,2023-04-08,Spezia,W,W,W,W,W,13
+2023,Fiorentina,2022-11-13,Milan,W,W,W,L,D,9
+2023,Fiorentina,2022-09-11,Bologna,D,L,D,D,W,3
+2023,Fiorentina,2022-11-09,Salernitana,W,W,L,D,L,10
+2023,Fiorentina,2022-11-06,Sampdoria,W,L,D,L,L,7
+2023,Hellas Verona,2023-05-07,Lecce,L,D,W,D,W,8
+2023,Hellas Verona,2022-11-13,Spezia,L,L,L,L,L,0
+2023,Hellas Verona,2022-11-10,Juventus,L,L,L,L,L,0
+2023,Hellas Verona,2022-11-06,Monza,L,L,L,L,L,0
+2023,Hellas Verona,2022-10-31,Roma,L,L,L,L,L,0
+2023,Hellas Verona,2023-03-05,Spezia,L,L,W,D,D,5
+2023,Hellas Verona,2023-04-08,Sassuolo,L,L,D,D,L,5
+2023,Hellas Verona,2023-04-15,Napoli,W,L,L,D,D,5
+2023,Hellas Verona,2023-04-21,Bologna,D,W,L,L,D,7
+2023,Hellas Verona,2023-05-03,Inter,D,W,D,W,L,8
+2023,Hellas Verona,2023-01-04,Torino,L,L,L,L,L,1
+2023,Hellas Verona,2023-05-14,Torino,W,L,D,W,D,7
+2023,Hellas Verona,2023-05-20,Atalanta,L,W,L,D,W,4
+2023,Hellas Verona,2023-05-28,Empoli,L,L,W,L,D,4
+2023,Hellas Verona,2023-06-04,Milan,D,L,L,W,L,4
+2023,Hellas Verona,2023-06-11,Spezia,L,D,L,L,W,4
+2023,Hellas Verona,2023-04-01,Juventus,L,D,D,L,L,2
+2023,Hellas Verona,2023-03-19,Sampdoria,D,D,L,L,W,2
+2023,Hellas Verona,2023-02-27,Fiorentina,L,W,D,D,W,5
+2023,Hellas Verona,2023-03-12,Monza,D,L,L,W,D,5
+2023,Hellas Verona,2022-08-28,Atalanta,D,L,,,,1
+2023,Hellas Verona,2023-02-06,Lazio,D,W,L,W,D,8
+2023,Hellas Verona,2023-02-13,Salernitana,D,D,W,L,W,8
+2023,Hellas Verona,2022-10-24,Sassuolo,L,L,L,L,L,0
+2023,Hellas Verona,2023-01-21,Lecce,L,W,D,L,L,7
+2023,Hellas Verona,2023-04-30,Cremonese,W,D,W,L,L,8
+2023,Hellas Verona,2023-02-19,Roma,W,D,D,W,L,8
+2023,Hellas Verona,2022-08-31,Empoli,L,D,L,,,2
+2023,Hellas Verona,2022-08-15,Napoli,,,,,,0
+2023,Hellas Verona,2022-08-21,Bologna,L,,,,,1
+2023,Hellas Verona,2023-01-30,Udinese,W,L,W,D,L,8
+2023,Hellas Verona,2022-09-04,Sampdoria,D,L,D,L,,5
+2023,Hellas Verona,2022-09-11,Lazio,W,D,L,D,L,5
+2023,Hellas Verona,2022-09-18,Fiorentina,L,W,D,L,D,4
+2023,Hellas Verona,2022-10-03,Udinese,L,L,W,D,L,4
+2023,Hellas Verona,2022-10-09,Salernitana,L,L,L,W,D,3
+2023,Hellas Verona,2022-10-16,Milan,L,L,L,L,W,0
+2023,Hellas Verona,2023-01-14,Inter,W,D,L,L,L,4
+2023,Hellas Verona,2023-01-09,Cremonese,D,L,L,L,L,4
+2023,Internazionale,2023-05-21,Napoli,W,W,W,W,W,12
+2023,Internazionale,2022-10-29,Sampdoria,W,W,W,L,L,12
+2023,Internazionale,2022-10-08,Sassuolo,L,L,W,L,W,6
+2023,Internazionale,2022-10-22,Fiorentina,W,W,L,L,W,9
+2023,Internazionale,2023-02-18,Udinese,D,W,W,L,W,10
+2023,Internazionale,2022-08-20,Spezia,W,,,,,6
+2023,Internazionale,2022-08-26,Lazio,W,W,,,,6
+2023,Internazionale,2022-08-30,Cremonese,L,W,W,,,9
+2023,Internazionale,2022-09-03,Milan,W,L,W,W,,9
+2023,Internazionale,2022-09-10,Torino,L,W,L,W,W,9
+2023,Internazionale,2022-11-06,Juventus,W,W,W,W,L,12
+2023,Internazionale,2022-10-01,Roma,L,W,L,W,L,6
+2023,Internazionale,2022-08-13,Lecce,,,,,,3
+2023,Internazionale,2023-06-03,Torino,W,L,W,W,W,12
+2023,Internazionale,2023-05-13,Sassuolo,W,W,W,W,L,15
+2023,Internazionale,2023-05-06,Roma,W,W,W,L,D,12
+2023,Internazionale,2023-05-27,Atalanta,L,W,W,W,W,12
+2023,Internazionale,2022-09-18,Udinese,W,L,W,L,W,6
+2023,Internazionale,2023-01-04,Napoli,W,W,L,W,W,12
+2023,Internazionale,2022-11-13,Atalanta,W,L,W,W,W,12
+2023,Internazionale,2023-02-13,Sampdoria,W,W,L,W,D,10
+2023,Internazionale,2023-02-26,Bologna,W,D,W,W,L,10
+2023,Internazionale,2023-03-05,Lecce,L,W,D,W,W,10
+2023,Internazionale,2023-05-03,Hellas Verona,W,W,L,D,L,10
+2023,Internazionale,2023-01-28,Cremonese,L,W,D,W,W,10
+2023,Internazionale,2023-01-23,Empoli,W,D,W,W,W,10
+2023,Internazionale,2022-11-09,Bologna,L,W,W,W,W,12
+2023,Internazionale,2023-01-14,Hellas Verona,D,W,W,W,L,13
+2023,Internazionale,2023-01-07,Monza,W,W,W,L,W,10
+2023,Internazionale,2023-02-05,Milan,W,L,W,D,W,10
+2023,Internazionale,2022-10-16,Salernitana,W,L,L,W,L,9
+2023,Internazionale,2023-03-10,Spezia,W,L,W,D,W,7
+2023,Internazionale,2023-03-19,Juventus,L,W,L,W,D,6
+2023,Internazionale,2023-04-01,Fiorentina,L,L,W,L,W,3
+2023,Internazionale,2023-04-07,Salernitana,L,L,L,W,L,4
+2023,Internazionale,2023-04-15,Monza,D,L,L,L,W,1
+2023,Internazionale,2023-04-23,Empoli,L,D,L,L,L,4
+2023,Internazionale,2023-04-30,Lazio,W,L,D,L,L,7
+2023,Juventus,2023-03-12,Sampdoria,L,W,W,W,W,12
+2023,Juventus,2023-05-14,Cremonese,W,W,D,L,L,10
+2023,Juventus,2023-01-22,Atalanta,L,W,W,W,W,10
+2023,Juventus,2023-01-29,Monza,D,L,W,W,W,7
+2023,Juventus,2023-04-30,Bologna,L,L,L,W,W,4
+2023,Juventus,2023-04-23,Napoli,L,L,W,W,W,6
+2023,Juventus,2023-04-16,Sassuolo,L,W,W,W,L,9
+2023,Juventus,2023-04-08,Lazio,W,W,W,L,W,9
+2023,Juventus,2023-04-01,Hellas Verona,W,W,L,W,W,12
+2023,Juventus,2023-03-19,Inter,W,L,W,W,W,12
+2023,Juventus,2023-05-22,Empoli,W,W,W,D,L,10
+2023,Juventus,2023-01-13,Napoli,W,W,W,W,W,12
+2023,Juventus,2023-05-07,Atalanta,W,D,L,L,L,7
+2023,Juventus,2023-02-07,Salernitana,L,D,L,W,W,7
+2023,Juventus,2023-02-12,Fiorentina,W,L,D,L,W,7
+2023,Juventus,2022-09-11,Salernitana,D,W,D,D,W,7
+2023,Juventus,2023-02-19,Spezia,W,W,L,D,L,10
+2023,Juventus,2023-02-28,Torino,W,W,W,L,D,12
+2023,Juventus,2023-03-05,Roma,W,W,W,W,L,12
+2023,Juventus,2023-05-03,Lecce,D,L,L,L,W,4
+2023,Juventus,2023-01-07,Udinese,W,W,W,W,W,15
+2023,Juventus,2022-10-08,Milan,W,L,D,D,W,5
+2023,Juventus,2022-10-15,Torino,L,W,L,D,D,7
+2023,Juventus,2022-10-21,Empoli,W,L,W,L,D,9
+2023,Juventus,2022-10-29,Lecce,W,W,L,W,L,12
+2023,Juventus,2022-11-06,Inter,W,W,W,L,W,12
+2023,Juventus,2022-11-10,Hellas Verona,W,W,W,W,L,15
+2023,Juventus,2022-11-13,Lazio,W,W,W,W,W,15
+2023,Juventus,2023-01-04,Cremonese,W,W,W,W,W,15
+2023,Juventus,2022-10-02,Bologna,L,D,D,W,D,8
+2023,Juventus,2022-08-15,Sassuolo,,,,,,3
+2023,Juventus,2022-08-22,Sampdoria,W,,,,,4
+2023,Juventus,2022-08-27,Roma,D,W,,,,5
+2023,Juventus,2022-08-31,Spezia,D,D,W,,,8
+2023,Juventus,2022-09-03,Fiorentina,W,D,D,W,,9
+2023,Juventus,2022-09-18,Monza,D,D,W,D,D,6
+2023,Juventus,2023-06-04,Udinese,L,L,W,W,W,9
+2023,Juventus,2023-05-28,Milan,L,W,W,W,D,9
+2023,Lazio,2023-05-21,Udinese,D,L,W,L,L,7
+2023,Lazio,2022-11-06,Roma,L,W,D,W,W,10
+2023,Lazio,2022-11-10,Monza,W,L,W,D,W,10
+2023,Lazio,2022-11-13,Juventus,W,W,L,W,D,9
+2023,Lazio,2023-01-04,Lecce,L,W,W,L,W,6
+2023,Lazio,2023-01-08,Empoli,L,L,W,W,L,7
+2023,Lazio,2023-01-15,Sassuolo,D,L,L,W,W,7
+2023,Lazio,2023-01-24,Milan,W,D,L,L,W,7
+2023,Lazio,2022-10-02,Spezia,W,W,L,D,W,10
+2023,Lazio,2023-02-06,Hellas Verona,D,W,W,D,L,9
+2023,Lazio,2022-10-30,Salernitana,W,D,W,W,W,10
+2023,Lazio,2023-02-19,Salernitana,L,D,D,W,W,8
+2023,Lazio,2023-02-27,Sampdoria,W,L,D,D,W,8
+2023,Lazio,2023-03-03,Napoli,W,W,L,D,D,10
+2023,Lazio,2023-03-11,Bologna,W,W,W,L,D,10
+2023,Lazio,2023-03-19,Roma,D,W,W,W,L,13
+2023,Lazio,2023-04-02,Monza,W,D,W,W,W,13
+2023,Lazio,2023-04-08,Juventus,W,W,D,W,W,13
+2023,Lazio,2023-04-14,Spezia,W,W,W,D,W,13
+2023,Lazio,2022-08-14,Bologna,,,,,,3
+2023,Lazio,2023-04-22,Torino,W,W,W,W,D,12
+2023,Lazio,2023-05-06,Milan,W,L,L,W,W,6
+2023,Lazio,2023-05-12,Lecce,L,W,L,L,W,4
+2023,Lazio,2023-02-11,Atalanta,D,D,W,W,D,8
+2023,Lazio,2022-09-11,Hellas Verona,L,D,W,D,W,8
+2023,Lazio,2022-09-03,Napoli,D,W,D,W,,8
+2023,Lazio,2022-08-31,Sampdoria,W,D,W,,,8
+2023,Lazio,2022-08-26,Inter,D,W,,,,7
+2023,Lazio,2022-08-20,Torino,W,,,,,4
+2023,Lazio,2023-04-30,Inter,L,W,W,W,W,9
+2023,Lazio,2023-06-03,Empoli,W,W,D,L,W,10
+2023,Lazio,2023-05-28,Cremonese,W,D,L,W,L,10
+2023,Lazio,2023-05-03,Sassuolo,L,L,W,W,W,9
+2023,Lazio,2022-09-18,Cremonese,W,L,D,W,D,10
+2023,Lazio,2023-01-29,Fiorentina,W,W,D,L,L,8
+2023,Lazio,2022-10-10,Fiorentina,W,W,W,L,D,12
+2023,Lazio,2022-10-16,Udinese,W,W,W,W,L,13
+2023,Lazio,2022-10-23,Atalanta,D,W,W,W,W,13
+2023,Lecce,2022-11-09,Atalanta,D,L,L,D,L,5
+2023,Lecce,2022-09-05,Torino,D,D,L,L,,2
+2023,Lecce,2022-09-11,Monza,L,D,D,L,L,3
+2023,Lecce,2022-09-16,Salernitana,D,L,D,D,L,6
+2023,Lecce,2022-10-02,Cremonese,W,D,L,D,D,6
+2023,Lecce,2022-10-09,Roma,D,W,D,L,D,5
+2023,Lecce,2022-08-31,Napoli,D,L,L,,,2
+2023,Lecce,2022-10-17,Fiorentina,L,D,W,D,L,6
+2023,Lecce,2022-10-29,Juventus,L,D,L,D,W,2
+2023,Lecce,2022-11-04,Udinese,L,L,D,L,D,2
+2023,Lecce,2022-11-12,Sampdoria,W,D,L,L,D,7
+2023,Lecce,2023-02-19,Atalanta,D,W,L,L,D,7
+2023,Lecce,2023-01-04,Lazio,W,W,D,L,L,10
+2023,Lecce,2023-01-08,Spezia,W,W,W,D,L,11
+2023,Lecce,2023-01-14,Milan,D,W,W,W,D,11
+2023,Lecce,2023-01-21,Hellas Verona,D,D,W,W,W,8
+2023,Lecce,2023-01-27,Salernitana,L,D,D,W,W,5
+2023,Lecce,2023-02-04,Cremonese,L,L,D,D,W,5
+2023,Lecce,2023-02-11,Roma,W,L,L,D,D,5
+2023,Lecce,2022-08-28,Empoli,L,L,,,,1
+2023,Lecce,2022-08-20,Sassuolo,L,,,,,0
+2023,Lecce,2022-08-13,Inter,,,,,,0
+2023,Lecce,2022-10-23,Bologna,D,L,D,W,D,5
+2023,Lecce,2023-06-04,Bologna,W,D,D,L,L,5
+2023,Lecce,2023-05-28,Monza,D,D,L,L,W,5
+2023,Lecce,2023-02-25,Sassuolo,W,D,W,L,L,7
+2023,Lecce,2023-05-21,Spezia,D,L,L,W,L,5
+2023,Lecce,2023-05-12,Lazio,L,L,W,L,D,4
+2023,Lecce,2023-05-07,Hellas Verona,L,W,L,D,L,4
+2023,Lecce,2023-05-03,Juventus,W,L,D,L,L,4
+2023,Lecce,2023-04-28,Udinese,L,D,L,L,L,4
+2023,Lecce,2023-04-23,Milan,D,L,L,L,L,1
+2023,Lecce,2023-04-16,Sampdoria,L,L,L,L,L,1
+2023,Lecce,2023-04-07,Napoli,L,L,L,L,L,0
+2023,Lecce,2023-04-03,Empoli,L,L,L,L,W,0
+2023,Lecce,2023-03-19,Fiorentina,L,L,L,W,D,3
+2023,Lecce,2023-03-12,Torino,L,L,W,D,W,4
+2023,Lecce,2023-03-05,Inter,L,W,D,W,L,7
+2023,Milan,2023-04-07,Empoli,W,L,D,L,W,5
+2023,Milan,2022-11-08,Cremonese,W,L,W,W,W,10
+2023,Milan,2022-09-10,Sampdoria,W,D,W,D,W,11
+2023,Milan,2023-05-13,Spezia,W,D,D,W,D,8
+2023,Milan,2023-05-06,Lazio,D,D,W,D,D,9
+2023,Milan,2023-05-03,Cremonese,D,W,D,D,W,7
+2023,Milan,2023-04-29,Roma,W,D,D,W,L,9
+2023,Milan,2023-04-23,Lecce,D,D,W,L,D,8
+2023,Milan,2022-10-16,Hellas Verona,W,W,L,W,W,12
+2023,Milan,2023-04-15,Bologna,D,W,L,D,L,6
+2023,Milan,2023-01-04,Salernitana,W,D,W,L,W,10
+2023,Milan,2023-03-18,Udinese,D,L,W,W,W,7
+2023,Milan,2022-09-18,Napoli,W,W,D,W,D,10
+2023,Milan,2022-09-03,Inter,D,W,D,W,,11
+2023,Milan,2022-08-30,Sassuolo,W,D,W,,,8
+2023,Milan,2022-08-27,Bologna,D,W,,,,7
+2023,Milan,2023-04-02,Napoli,L,D,L,W,W,7
+2023,Milan,2023-03-13,Salernitana,L,W,W,W,L,10
+2023,Milan,2022-08-21,Atalanta,W,,,,,4
+2023,Milan,2023-02-10,Torino,L,L,L,D,D,4
+2023,Milan,2023-02-18,Monza,W,L,L,L,D,6
+2023,Milan,2023-01-29,Sassuolo,L,D,D,W,W,5
+2023,Milan,2022-10-01,Empoli,L,W,W,D,W,10
+2023,Milan,2022-10-08,Juventus,W,L,W,W,D,12
+2023,Milan,2023-03-04,Fiorentina,W,W,W,L,L,9
+2023,Milan,2022-10-22,Monza,W,W,W,L,W,12
+2023,Milan,2023-06-04,Hellas Verona,W,W,L,W,D,12
+2023,Milan,2023-05-28,Juventus,W,L,W,D,D,10
+2023,Milan,2023-02-26,Atalanta,W,W,L,L,L,9
+2023,Milan,2022-08-13,Udinese,,,,,,3
+2023,Milan,2023-02-05,Inter,L,L,D,D,W,2
+2023,Milan,2023-05-20,Sampdoria,L,W,D,D,W,8
+2023,Milan,2023-01-24,Lazio,D,D,W,W,D,8
+2023,Milan,2023-01-14,Lecce,D,W,W,D,W,9
+2023,Milan,2023-01-08,Roma,W,W,D,W,L,11
+2023,Milan,2022-11-13,Fiorentina,D,W,L,W,W,10
+2023,Milan,2022-10-30,Torino,W,W,W,W,L,12
+2023,Milan,2022-11-05,Spezia,L,W,W,W,W,12
+2023,Monza,2023-04-15,Inter,D,L,D,D,W,6
+2023,Monza,2023-05-14,Napoli,D,D,W,W,W,11
+2023,Monza,2022-08-30,Roma,L,L,L,,,0
+2023,Monza,2022-08-26,Udinese,L,L,,,,0
+2023,Monza,2022-09-05,Atalanta,L,L,L,L,,0
+2023,Monza,2023-04-23,Fiorentina,W,D,L,D,D,8
+2023,Monza,2023-04-28,Spezia,W,W,D,L,D,10
+2023,Monza,2023-06-04,Atalanta,L,W,W,D,D,7
+2023,Monza,2023-05-28,Lecce,W,W,D,D,W,8
+2023,Monza,2023-05-03,Roma,W,W,W,D,L,11
+2023,Monza,2022-09-11,Lecce,L,L,L,L,L,1
+2023,Monza,2023-01-14,Cremonese,D,D,W,L,W,8
+2023,Monza,2023-01-22,Sassuolo,W,D,D,W,L,9
+2023,Monza,2023-01-29,Juventus,D,W,D,D,W,9
+2023,Monza,2023-02-06,Sampdoria,W,D,W,D,D,9
+2023,Monza,2023-02-12,Bologna,D,W,D,W,D,11
+2023,Monza,2023-02-18,Milan,W,D,W,D,W,8
+2023,Monza,2023-02-26,Salernitana,L,W,D,W,D,7
+2023,Monza,2023-03-04,Empoli,L,L,W,D,W,7
+2023,Monza,2023-05-07,Torino,D,W,W,W,D,11
+2023,Monza,2022-10-22,Milan,L,W,W,W,D,9
+2023,Monza,2022-10-31,Bologna,L,L,W,W,W,6
+2023,Monza,2022-11-06,Hellas Verona,L,L,L,W,W,6
+2023,Monza,2022-11-10,Lazio,W,L,L,L,W,3
+2023,Monza,2022-11-13,Salernitana,L,W,L,L,L,6
+2023,Monza,2022-10-09,Spezia,W,W,D,L,L,10
+2023,Monza,2022-08-13,Torino,,,,,,0
+2023,Monza,2022-08-21,Napoli,L,,,,,0
+2023,Monza,2023-01-07,Inter,D,W,L,W,L,8
+2023,Monza,2023-01-04,Fiorentina,W,L,W,L,L,7
+2023,Monza,2023-04-08,Udinese,L,D,D,W,L,6
+2023,Monza,2023-04-02,Lazio,D,D,W,L,L,5
+2023,Monza,2023-03-18,Cremonese,D,W,L,L,W,5
+2023,Monza,2023-03-12,Hellas Verona,W,L,L,W,D,7
+2023,Monza,2022-10-15,Empoli,W,W,W,D,L,10
+2023,Monza,2023-05-19,Sassuolo,W,D,D,W,W,11
+2023,Monza,2022-10-02,Sampdoria,W,D,L,L,L,7
+2023,Monza,2022-09-18,Juventus,D,L,L,L,L,4
+2023,Napoli,2022-10-09,Cremonese,W,W,W,W,D,15
+2023,Napoli,2023-05-21,Inter,L,W,D,D,W,8
+2023,Napoli,2022-10-01,Torino,W,W,W,D,D,13
+2023,Napoli,2022-08-31,Lecce,D,W,W,,,8
+2023,Napoli,2023-01-08,Sampdoria,L,W,W,W,W,12
+2023,Napoli,2022-08-28,Fiorentina,W,W,,,,7
+2023,Napoli,2022-09-03,Lazio,D,D,W,W,,11
+2023,Napoli,2023-04-15,Hellas Verona,W,L,W,W,L,10
+2023,Napoli,2022-09-10,Spezia,W,D,D,W,W,11
+2023,Napoli,2022-09-18,Milan,W,W,D,D,W,11
+2023,Napoli,2023-05-14,Monza,W,D,D,W,D,8
+2023,Napoli,2022-10-16,Bologna,W,W,W,W,W,15
+2023,Napoli,2022-10-23,Roma,W,W,W,W,W,15
+2023,Napoli,2022-10-29,Sassuolo,W,W,W,W,W,15
+2023,Napoli,2022-11-05,Atalanta,W,W,W,W,W,15
+2023,Napoli,2022-11-08,Empoli,W,W,W,W,W,15
+2023,Napoli,2022-11-12,Udinese,W,W,W,W,W,15
+2023,Napoli,2023-01-04,Inter,W,W,W,W,W,12
+2023,Napoli,2023-01-13,Juventus,W,L,W,W,W,12
+2023,Napoli,2023-01-21,Salernitana,W,W,L,W,W,12
+2023,Napoli,2023-01-29,Roma,W,W,W,L,W,12
+2023,Napoli,2023-04-02,Milan,W,W,L,W,W,9
+2023,Napoli,2023-03-19,Torino,W,L,W,W,W,12
+2023,Napoli,2023-03-11,Atalanta,L,W,W,W,W,12
+2023,Napoli,2023-03-03,Lazio,W,W,W,W,W,12
+2023,Napoli,2023-02-25,Empoli,W,W,W,W,W,15
+2023,Napoli,2023-02-17,Sassuolo,W,W,W,W,W,15
+2023,Napoli,2023-02-12,Cremonese,W,W,W,W,W,15
+2023,Napoli,2023-02-05,Spezia,W,W,W,W,L,15
+2023,Napoli,2023-04-07,Lecce,L,W,W,L,W,9
+2023,Napoli,2022-08-15,Hellas Verona,,,,,,3
+2023,Napoli,2022-08-21,Monza,W,,,,,6
+2023,Napoli,2023-06-04,Sampdoria,D,W,L,W,D,10
+2023,Napoli,2023-05-28,Bologna,W,L,W,D,D,8
+2023,Napoli,2023-04-23,Juventus,D,W,L,W,W,10
+2023,Napoli,2023-04-30,Salernitana,W,D,W,L,W,8
+2023,Napoli,2023-05-04,Udinese,D,W,D,W,L,9
+2023,Napoli,2023-05-07,Fiorentina,D,D,W,D,W,9
+2023,Roma,2023-01-29,Napoli,W,W,D,W,D,10
+2023,Roma,2023-01-04,Bologna,D,D,L,W,L,8
+2023,Roma,2022-11-06,Lazio,W,L,W,W,W,9
+2023,Roma,2022-11-09,Sassuolo,L,W,L,W,W,7
+2023,Roma,2022-11-13,Torino,D,L,W,L,W,5
+2023,Roma,2023-06-04,Spezia,L,D,D,L,D,5
+2023,Roma,2023-05-27,Fiorentina,D,D,L,D,D,3
+2023,Roma,2023-05-22,Salernitana,D,L,D,D,L,4
+2023,Roma,2023-05-14,Bologna,L,D,D,L,W,3
+2023,Roma,2023-05-06,Inter,D,D,L,W,W,5
+2023,Roma,2022-08-22,Cremonese,W,,,,,6
+2023,Roma,2023-04-29,Milan,L,W,W,W,L,10
+2023,Roma,2023-04-24,Atalanta,W,W,W,L,L,9
+2023,Roma,2023-04-16,Udinese,W,W,L,L,W,9
+2023,Roma,2023-04-08,Torino,W,L,L,W,L,9
+2023,Roma,2023-04-02,Sampdoria,L,L,W,L,W,6
+2023,Roma,2023-03-19,Lazio,L,W,L,W,D,6
+2023,Roma,2023-03-12,Sassuolo,W,L,W,D,W,7
+2023,Roma,2023-02-28,Cremonese,W,D,W,L,W,7
+2023,Roma,2022-08-27,Juventus,W,W,,,,7
+2023,Roma,2023-02-11,Lecce,W,L,W,W,D,10
+2023,Roma,2023-02-04,Empoli,L,W,W,D,W,10
+2023,Roma,2023-05-03,Monza,D,L,W,W,W,8
+2023,Roma,2022-10-23,Napoli,W,W,W,L,W,9
+2023,Roma,2022-08-14,Salernitana,,,,,,3
+2023,Roma,2022-08-30,Monza,D,W,W,,,10
+2023,Roma,2023-01-08,Milan,W,D,D,L,W,6
+2023,Roma,2023-01-15,Fiorentina,D,W,D,D,L,9
+2023,Roma,2023-01-22,Spezia,W,D,W,D,D,11
+2023,Roma,2023-02-19,Hellas Verona,D,W,L,W,W,10
+2023,Roma,2023-03-05,Juventus,L,W,D,W,L,10
+2023,Roma,2022-10-31,Hellas Verona,L,W,W,W,L,12
+2023,Roma,2022-10-17,Sampdoria,W,W,L,W,L,12
+2023,Roma,2022-10-09,Lecce,W,L,W,L,W,9
+2023,Roma,2022-09-04,Udinese,W,D,W,W,,10
+2023,Roma,2022-09-12,Empoli,L,W,D,W,W,10
+2023,Roma,2022-09-18,Atalanta,W,L,W,D,W,7
+2023,Roma,2022-10-01,Inter,L,W,L,W,D,9
+2023,Salernitana,2023-03-05,Sampdoria,W,L,L,L,W,4
+2023,Salernitana,2022-10-02,Sassuolo,L,D,D,D,W,3
+2023,Salernitana,2023-03-18,Bologna,D,D,W,L,L,6
+2023,Salernitana,2022-08-28,Sampdoria,D,L,,,,4
+2023,Salernitana,2022-08-20,Udinese,L,,,,,1
+2023,Salernitana,2023-01-21,Napoli,L,D,L,L,L,1
+2023,Salernitana,2023-02-07,Juventus,W,L,L,D,L,4
+2023,Salernitana,2023-02-13,Hellas Verona,L,W,L,L,D,3
+2023,Salernitana,2023-02-19,Lazio,L,L,W,L,L,3
+2023,Salernitana,2023-02-26,Monza,L,L,L,W,L,6
+2023,Salernitana,2022-10-09,Hellas Verona,L,L,D,D,D,5
+2023,Salernitana,2023-03-13,Milan,D,W,L,L,L,5
+2023,Salernitana,2023-04-07,Inter,D,D,D,D,W,5
+2023,Salernitana,2023-04-16,Torino,D,D,D,D,D,5
+2023,Salernitana,2023-04-22,Sassuolo,D,D,D,D,D,7
+2023,Salernitana,2023-04-30,Napoli,W,D,D,D,D,7
+2023,Salernitana,2023-05-03,Fiorentina,D,W,D,D,D,7
+2023,Salernitana,2023-05-08,Empoli,D,D,W,D,D,6
+2023,Salernitana,2023-05-13,Atalanta,L,D,D,W,D,8
+2023,Salernitana,2022-11-13,Monza,L,D,W,W,L,7
+2023,Salernitana,2022-11-09,Fiorentina,D,W,W,L,W,7
+2023,Salernitana,2023-05-27,Udinese,D,W,L,D,D,8
+2023,Salernitana,2023-06-03,Cremonese,W,D,W,L,D,7
+2023,Salernitana,2023-04-02,Spezia,D,D,D,W,L,7
+2023,Salernitana,2023-01-15,Atalanta,D,L,L,L,D,1
+2023,Salernitana,2023-01-08,Torino,L,L,L,D,W,2
+2023,Salernitana,2023-01-04,Milan,L,L,D,W,W,4
+2023,Salernitana,2022-09-01,Bologna,W,D,L,,,5
+2023,Salernitana,2022-08-14,Roma,,,,,,0
+2023,Salernitana,2023-01-27,Lecce,L,L,D,L,L,4
+2023,Salernitana,2023-05-22,Roma,W,L,D,D,W,6
+2023,Salernitana,2022-11-05,Cremonese,W,W,L,W,L,10
+2023,Salernitana,2022-10-30,Lazio,W,L,W,L,L,9
+2023,Salernitana,2022-10-22,Spezia,L,W,L,L,D,6
+2023,Salernitana,2022-09-05,Empoli,D,W,D,L,,6
+2023,Salernitana,2022-09-11,Juventus,D,D,W,D,L,7
+2023,Salernitana,2022-09-16,Lecce,D,D,D,W,D,6
+2023,Salernitana,2022-10-16,Inter,W,L,L,D,D,4
+2023,Sampdoria,2022-11-06,Fiorentina,L,W,L,D,L,4
+2023,Sampdoria,2023-02-06,Monza,L,L,L,L,W,1
+2023,Sampdoria,2023-01-28,Atalanta,L,L,L,W,L,3
+2023,Sampdoria,2023-01-22,Udinese,L,L,W,L,L,3
+2023,Sampdoria,2023-01-16,Empoli,L,W,L,L,L,3
+2023,Sampdoria,2023-01-08,Napoli,W,L,L,L,L,3
+2023,Sampdoria,2022-10-08,Bologna,L,L,L,L,D,1
+2023,Sampdoria,2022-10-17,Roma,D,L,L,L,L,1
+2023,Sampdoria,2022-10-24,Cremonese,L,D,L,L,L,4
+2023,Sampdoria,2022-10-29,Inter,W,L,D,L,L,4
+2023,Sampdoria,2023-05-20,Milan,D,L,L,L,D,1
+2023,Sampdoria,2022-11-09,Torino,L,L,W,L,D,3
+2023,Sampdoria,2023-05-26,Sassuolo,L,D,L,L,L,2
+2023,Sampdoria,2023-06-04,Napoli,D,L,D,L,L,2
+2023,Sampdoria,2022-09-04,Hellas Verona,D,L,D,L,,2
+2023,Sampdoria,2022-08-22,Juventus,L,,,,,1
+2023,Sampdoria,2022-08-31,Lazio,L,D,L,,,2
+2023,Sampdoria,2022-08-28,Salernitana,D,L,,,,1
+2023,Sampdoria,2022-08-13,Atalanta,,,,,,0
+2023,Sampdoria,2022-10-02,Monza,L,L,L,D,L,1
+2023,Sampdoria,2023-05-15,Empoli,L,L,L,D,D,2
+2023,Sampdoria,2022-11-12,Lecce,L,L,L,W,L,3
+2023,Sampdoria,2023-04-22,Spezia,D,L,L,W,L,5
+2023,Sampdoria,2023-02-13,Inter,D,L,L,L,L,2
+2023,Sampdoria,2023-04-30,Fiorentina,D,D,L,L,W,2
+2023,Sampdoria,2023-05-03,Torino,L,D,D,L,L,2
+2023,Sampdoria,2023-05-08,Udinese,L,L,D,D,L,2
+2023,Sampdoria,2023-03-12,Juventus,D,L,L,D,D,2
+2023,Sampdoria,2022-09-17,Spezia,L,L,D,L,D,1
+2023,Sampdoria,2022-09-10,Milan,L,D,L,D,L,2
+2023,Sampdoria,2023-04-16,Lecce,L,L,W,L,D,4
+2023,Sampdoria,2023-04-08,Cremonese,L,W,L,D,L,4
+2023,Sampdoria,2023-04-02,Roma,W,L,D,L,L,4
+2023,Sampdoria,2023-03-19,Hellas Verona,L,D,L,L,D,4
+2023,Sampdoria,2023-01-04,Sassuolo,L,L,L,L,W,3
+2023,Sampdoria,2023-03-05,Salernitana,L,L,D,D,L,3
+2023,Sampdoria,2023-02-27,Lazio,L,D,D,L,L,2
+2023,Sampdoria,2023-02-18,Bologna,D,D,L,L,L,2
+2023,Sassuolo,2023-01-04,Sampdoria,L,D,L,L,W,1
+2023,Sassuolo,2023-03-06,Cremonese,W,L,D,W,W,10
+2023,Sassuolo,2023-02-25,Lecce,L,D,W,W,D,10
+2023,Sassuolo,2023-02-17,Napoli,D,W,W,D,L,8
+2023,Sassuolo,2023-02-12,Udinese,W,W,D,L,L,8
+2023,Sassuolo,2023-02-04,Atalanta,W,D,L,L,L,7
+2023,Sassuolo,2023-01-29,Milan,D,L,L,L,L,4
+2023,Sassuolo,2023-01-22,Monza,L,L,L,L,D,1
+2023,Sassuolo,2023-01-15,Lazio,L,L,L,D,L,1
+2023,Sassuolo,2023-01-07,Fiorentina,L,L,D,L,L,1
+2023,Sassuolo,2023-03-12,Roma,W,W,L,D,W,10
+2023,Sassuolo,2023-05-19,Monza,L,D,L,W,L,4
+2023,Sassuolo,2023-05-13,Inter,D,L,W,L,W,4
+2023,Sassuolo,2023-05-08,Bologna,L,W,L,W,L,7
+2023,Sassuolo,2023-05-03,Lazio,W,L,W,L,D,6
+2023,Sassuolo,2023-04-30,Empoli,L,W,L,D,W,7
+2023,Sassuolo,2023-04-22,Salernitana,W,L,D,W,W,7
+2023,Sassuolo,2023-04-16,Juventus,L,D,W,W,W,10
+2023,Sassuolo,2023-05-26,Sampdoria,L,L,D,L,W,2
+2023,Sassuolo,2022-08-20,Lecce,L,,,,,3
+2023,Sassuolo,2023-06-02,Fiorentina,D,L,L,D,L,2
+2023,Sassuolo,2022-10-15,Atalanta,L,W,W,L,D,6
+2023,Sassuolo,2022-10-08,Inter,W,W,L,D,D,7
+2023,Sassuolo,2022-10-02,Salernitana,W,L,D,D,D,8
+2023,Sassuolo,2022-09-17,Torino,L,D,D,D,W,6
+2023,Sassuolo,2022-09-11,Udinese,D,D,D,W,L,6
+2023,Sassuolo,2022-09-04,Cremonese,D,D,W,L,,6
+2023,Sassuolo,2022-08-30,Milan,D,W,L,,,5
+2023,Sassuolo,2022-08-27,Spezia,W,L,,,,4
+2023,Sassuolo,2022-10-24,Hellas Verona,L,L,W,W,L,9
+2023,Sassuolo,2022-08-15,Juventus,,,,,,0
+2023,Sassuolo,2022-11-09,Roma,L,L,W,L,L,4
+2023,Sassuolo,2023-04-08,Hellas Verona,D,W,W,W,W,10
+2023,Sassuolo,2022-11-12,Bologna,D,L,L,W,L,4
+2023,Sassuolo,2022-10-29,Napoli,W,L,L,W,W,6
+2023,Sassuolo,2022-11-05,Empoli,L,W,L,L,W,3
+2023,Sassuolo,2023-04-03,Torino,W,W,W,W,L,13
+2023,Sassuolo,2023-03-17,Spezia,W,W,W,L,D,12
+2023,Spezia,2023-04-08,Fiorentina,D,L,W,D,D,6
+2023,Spezia,2022-09-17,Sampdoria,L,D,L,D,L,5
+2023,Spezia,2022-09-10,Napoli,D,L,D,L,W,2
+2023,Spezia,2023-06-04,Roma,L,D,W,L,L,4
+2023,Spezia,2022-08-14,Empoli,,,,,,3
+2023,Spezia,2022-08-31,Juventus,D,L,W,,,4
+2023,Spezia,2023-06-11,Hellas Verona,L,L,D,W,L,4
+2023,Spezia,2022-09-04,Bologna,L,D,L,W,,5
+2023,Spezia,2023-03-17,Sassuolo,W,D,D,L,D,5
+2023,Spezia,2023-04-02,Salernitana,L,W,D,D,L,6
+2023,Spezia,2022-10-02,Lazio,W,L,D,L,D,4
+2023,Spezia,2023-04-14,Lazio,D,D,L,W,D,5
+2023,Spezia,2022-08-27,Sassuolo,L,W,,,,4
+2023,Spezia,2023-04-22,Sampdoria,L,D,D,L,W,3
+2023,Spezia,2023-05-27,Torino,D,W,L,L,L,4
+2023,Spezia,2023-05-21,Lecce,W,L,L,L,D,4
+2023,Spezia,2023-05-13,Milan,L,L,L,D,L,4
+2023,Spezia,2023-05-06,Cremonese,L,L,D,L,D,1
+2023,Spezia,2023-05-03,Atalanta,L,D,L,D,D,2
+2023,Spezia,2023-04-28,Monza,D,L,D,D,L,3
+2023,Spezia,2022-10-30,Fiorentina,L,D,L,L,W,1
+2023,Spezia,2022-08-20,Inter,W,,,,,3
+2023,Spezia,2023-01-15,Torino,D,D,W,D,L,9
+2023,Spezia,2023-01-22,Roma,W,D,D,W,D,8
+2023,Spezia,2023-01-27,Bologna,L,W,D,D,W,5
+2023,Spezia,2023-02-05,Napoli,L,L,W,D,D,4
+2023,Spezia,2023-02-11,Empoli,L,L,L,W,D,4
+2023,Spezia,2023-02-19,Juventus,D,L,L,L,W,1
+2023,Spezia,2023-02-26,Udinese,L,D,L,L,L,2
+2023,Spezia,2023-03-05,Hellas Verona,D,L,D,L,L,3
+2023,Spezia,2023-01-08,Lecce,D,W,D,L,L,6
+2023,Spezia,2023-01-04,Atalanta,W,D,L,L,L,5
+2023,Spezia,2022-11-13,Hellas Verona,D,L,L,L,D,4
+2023,Spezia,2022-11-08,Udinese,L,L,L,D,L,2
+2023,Spezia,2022-11-05,Milan,L,L,D,L,L,1
+2023,Spezia,2023-03-10,Inter,D,D,L,D,L,6
+2023,Spezia,2022-10-22,Salernitana,D,L,L,W,L,4
+2023,Spezia,2022-10-16,Cremonese,L,L,W,L,D,4
+2023,Spezia,2022-10-09,Monza,L,W,L,D,L,4
+2023,Torino,2023-01-04,Hellas Verona,D,W,L,W,W,8
+2023,Torino,2022-09-05,Lecce,L,W,D,W,,10
+2023,Torino,2022-09-01,Atalanta,W,D,W,,,7
+2023,Torino,2022-08-27,Cremonese,D,W,,,,7
+2023,Torino,2022-08-20,Lazio,W,,,,,4
+2023,Torino,2023-02-05,Udinese,D,W,L,D,D,8
+2023,Torino,2023-01-28,Empoli,W,L,D,D,D,6
+2023,Torino,2023-01-21,Fiorentina,L,D,D,D,W,6
+2023,Torino,2023-01-15,Spezia,D,D,D,W,L,6
+2023,Torino,2023-01-08,Salernitana,D,D,W,L,W,6
+2023,Torino,2022-11-13,Roma,W,L,W,W,L,10
+2023,Torino,2023-02-10,Milan,W,D,W,L,D,7
+2023,Torino,2022-11-09,Sampdoria,L,W,W,L,D,9
+2023,Torino,2022-11-06,Bologna,W,W,L,D,L,7
+2023,Torino,2022-08-13,Monza,,,,,,3
+2023,Torino,2022-10-30,Milan,W,L,D,L,L,7
+2023,Torino,2022-10-23,Udinese,L,D,L,L,L,4
+2023,Torino,2022-10-15,Juventus,D,L,L,L,W,1
+2023,Torino,2022-10-09,Empoli,L,L,L,W,L,4
+2023,Torino,2022-09-10,Inter,W,L,W,D,W,7
+2023,Torino,2023-02-20,Cremonese,L,W,D,W,L,8
+2023,Torino,2023-05-07,Monza,W,L,W,D,L,8
+2023,Torino,2023-05-03,Sampdoria,L,W,D,L,D,7
+2023,Torino,2023-04-29,Atalanta,W,D,L,D,L,5
+2023,Torino,2023-04-22,Lazio,D,L,D,L,W,5
+2023,Torino,2023-04-16,Salernitana,L,D,L,W,W,5
+2023,Torino,2022-10-01,Napoli,L,L,W,L,W,3
+2023,Torino,2022-09-17,Sassuolo,L,W,L,W,D,6
+2023,Torino,2023-04-08,Roma,D,L,W,W,L,7
+2023,Torino,2023-04-03,Sassuolo,L,W,W,L,D,7
+2023,Torino,2023-03-19,Napoli,W,W,L,D,L,7
+2023,Torino,2023-03-12,Lecce,W,L,D,L,W,7
+2023,Torino,2023-02-28,Juventus,D,L,W,D,W,5
+2023,Torino,2023-06-03,Inter,W,D,W,D,W,8
+2023,Torino,2023-05-27,Spezia,D,W,D,W,L,11
+2023,Torino,2023-05-21,Fiorentina,W,D,W,L,W,8
+2023,Torino,2023-05-14,Hellas Verona,D,W,L,W,D,10
+2023,Torino,2023-03-06,Bologna,L,D,L,W,D,7
+2023,Udinese,2023-02-26,Spezia,L,D,L,D,W,3
+2023,Udinese,2023-05-14,Fiorentina,W,D,L,W,L,7
+2023,Udinese,2023-05-08,Sampdoria,D,L,W,L,D,7
+2023,Udinese,2023-05-04,Napoli,L,W,L,D,L,5
+2023,Udinese,2023-04-28,Lecce,W,L,D,L,W,4
+2023,Udinese,2023-04-23,Cremonese,L,D,L,W,W,7
+2023,Udinese,2023-04-02,Bologna,W,W,D,D,L,8
+2023,Udinese,2023-04-16,Roma,D,L,W,W,D,7
+2023,Udinese,2023-03-11,Empoli,D,D,L,D,L,6
+2023,Udinese,2023-03-04,Atalanta,D,L,D,L,D,3
+2023,Udinese,2023-05-21,Lazio,L,W,D,L,W,4
+2023,Udinese,2023-02-18,Inter,D,L,D,W,L,5
+2023,Udinese,2023-02-12,Sassuolo,L,D,W,L,L,5
+2023,Udinese,2023-02-05,Torino,D,W,L,L,D,4
+2023,Udinese,2023-01-30,Hellas Verona,W,L,L,D,L,5
+2023,Udinese,2023-01-22,Sampdoria,L,L,D,L,D,4
+2023,Udinese,2023-01-15,Bologna,L,D,L,D,D,2
+2023,Udinese,2023-01-07,Juventus,D,L,D,D,D,3
+2023,Udinese,2023-01-04,Empoli,L,D,D,D,L,4
+2023,Udinese,2022-09-11,Sassuolo,W,W,W,D,L,13
+2023,Udinese,2023-04-08,Monza,L,W,W,D,D,8
+2023,Udinese,2022-11-04,Lecce,D,L,D,D,W,4
+2023,Udinese,2022-10-30,Cremonese,L,D,D,W,W,6
+2023,Udinese,2022-11-12,Napoli,D,D,D,L,D,3
+2023,Udinese,2022-10-23,Torino,D,D,W,W,W,8
+2023,Udinese,2022-10-16,Lazio,D,W,W,W,W,11
+2023,Udinese,2022-10-09,Atalanta,W,W,W,W,W,13
+2023,Udinese,2022-10-03,Hellas Verona,W,W,W,W,W,15
+2023,Udinese,2022-09-18,Inter,W,W,W,W,D,15
+2023,Udinese,2022-11-08,Spezia,D,D,L,D,D,4
+2023,Udinese,2022-09-04,Roma,W,W,D,L,,10
+2023,Udinese,2022-08-31,Fiorentina,W,D,L,,,7
+2023,Udinese,2023-03-18,Milan,W,D,D,L,D,8
+2023,Udinese,2022-08-13,Milan,,,,,,0
+2023,Udinese,2022-08-20,Salernitana,L,,,,,1
+2023,Udinese,2022-08-26,Monza,D,L,,,,4
+2023,Udinese,2023-06-04,Juventus,L,L,L,W,D,3
+2023,Udinese,2023-05-27,Salernitana,L,L,W,D,L,4
+2024,Atalanta,2024-04-07,Cagliari,W,D,L,L,D,4
+2024,Atalanta,2024-02-17,Sassuolo,W,W,W,W,D,15
+2024,Atalanta,2023-08-26,Frosinone,W,,,,,3
+2024,Atalanta,2024-06-02,Fiorentina,W,W,W,W,W,12
+2024,Atalanta,2024-05-26,Torino,W,W,W,W,W,15
+2024,Atalanta,2024-05-18,Lecce,W,W,W,W,D,15
+2024,Atalanta,2024-05-12,Roma,W,W,W,D,L,13
+2024,Atalanta,2024-05-06,Salernitana,W,W,D,L,W,10
+2024,Atalanta,2024-04-28,Empoli,W,D,L,W,D,10
+2024,Atalanta,2024-04-21,Monza,D,L,W,D,L,8
+2024,Atalanta,2023-09-02,Monza,L,W,,,,6
+2024,Atalanta,2024-03-30,Napoli,D,L,L,D,W,5
+2024,Atalanta,2024-03-10,Juventus,L,L,D,W,W,5
+2024,Atalanta,2023-12-09,Milan,L,L,D,L,W,4
+2024,Atalanta,2024-03-03,Bologna,L,D,W,W,W,7
+2024,Atalanta,2024-02-28,Inter,D,W,W,W,W,10
+2024,Atalanta,2024-02-25,Milan,W,W,W,W,W,13
+2024,Atalanta,2024-02-11,Genoa,W,W,W,D,W,13
+2024,Atalanta,2024-04-15,Hellas Verona,L,W,D,L,L,5
+2024,Atalanta,2023-08-20,Sassuolo,,,,,,3
+2024,Atalanta,2024-02-04,Lazio,W,W,D,W,L,13
+2024,Atalanta,2024-01-27,Udinese,W,D,W,L,W,10
+2024,Atalanta,2024-01-15,Frosinone,D,W,L,W,W,10
+2024,Atalanta,2024-01-07,Roma,W,L,W,W,L,10
+2024,Atalanta,2023-12-30,Lecce,L,W,W,L,L,9
+2024,Atalanta,2023-12-23,Bologna,W,W,L,L,D,6
+2024,Atalanta,2023-12-18,Salernitana,W,L,L,D,L,7
+2024,Atalanta,2023-12-04,Torino,L,D,L,W,W,4
+2024,Atalanta,2023-11-25,Napoli,D,L,W,W,L,7
+2024,Atalanta,2023-11-12,Udinese,L,W,W,L,D,7
+2024,Atalanta,2023-11-04,Inter,W,W,L,D,W,7
+2024,Atalanta,2023-10-30,Empoli,W,L,D,W,W,10
+2024,Atalanta,2023-10-22,Genoa,L,D,W,W,L,10
+2024,Atalanta,2023-10-08,Lazio,D,W,W,L,W,7
+2024,Atalanta,2023-10-01,Juventus,W,W,L,W,L,10
+2024,Atalanta,2023-09-27,Hellas Verona,W,L,W,L,W,9
+2024,Atalanta,2023-09-24,Cagliari,L,W,L,W,,9
+2024,Atalanta,2023-09-17,Fiorentina,W,L,W,,,6
+2024,Bologna,2024-04-07,Frosinone,W,W,L,W,W,10
+2024,Bologna,2023-10-07,Inter,W,D,D,D,W,7
+2024,Bologna,2023-10-01,Empoli,D,D,D,W,D,9
+2024,Bologna,2023-09-28,Monza,D,D,W,D,L,7
+2024,Bologna,2024-05-24,Genoa,D,W,D,D,W,6
+2024,Bologna,2023-09-18,Hellas Verona,W,D,L,,,5
+2024,Bologna,2023-09-24,Napoli,D,W,D,L,,6
+2024,Bologna,2024-03-09,Inter,W,W,W,W,W,12
+2024,Bologna,2024-03-15,Empoli,L,W,W,W,W,12
+2024,Bologna,2024-04-01,Salernitana,W,L,W,W,W,12
+2024,Bologna,2023-10-22,Frosinone,D,W,D,D,D,9
+2024,Bologna,2024-04-13,Monza,D,W,W,L,W,8
+2024,Bologna,2024-04-22,Roma,D,D,W,W,L,11
+2024,Bologna,2024-04-28,Udinese,W,D,D,W,W,9
+2024,Bologna,2024-02-23,Hellas Verona,W,W,W,W,D,15
+2024,Bologna,2024-05-03,Torino,D,W,D,D,W,7
+2024,Bologna,2024-05-11,Napoli,D,D,W,D,D,9
+2024,Bologna,2024-05-20,Juventus,W,D,D,W,D,9
+2024,Bologna,2023-09-02,Cagliari,D,L,,,,4
+2024,Bologna,2023-12-17,Roma,W,D,W,L,W,10
+2024,Bologna,2024-02-14,Fiorentina,W,W,D,L,D,10
+2024,Bologna,2024-02-11,Lecce,W,D,L,D,L,8
+2024,Bologna,2024-02-03,Sassuolo,D,L,D,L,W,5
+2024,Bologna,2024-01-27,Milan,L,D,L,W,W,5
+2024,Bologna,2024-01-14,Cagliari,D,L,W,W,W,7
+2024,Bologna,2024-01-05,Genoa,L,W,W,W,D,10
+2024,Bologna,2023-12-30,Udinese,W,W,W,D,W,10
+2024,Bologna,2024-03-03,Atalanta,W,W,W,W,W,15
+2024,Bologna,2023-12-23,Atalanta,W,W,D,W,L,13
+2024,Bologna,2024-02-18,Lazio,W,W,W,D,L,13
+2024,Bologna,2023-08-27,Juventus,L,,,,,1
+2024,Bologna,2023-08-21,Milan,,,,,,0
+2024,Bologna,2023-12-10,Salernitana,D,W,L,W,D,10
+2024,Bologna,2023-12-03,Lecce,W,L,W,D,W,8
+2024,Bologna,2023-11-27,Torino,L,W,D,W,D,10
+2024,Bologna,2023-11-12,Fiorentina,W,D,W,D,W,8
+2024,Bologna,2023-11-03,Lazio,D,W,D,W,D,11
+2024,Bologna,2023-10-28,Sassuolo,W,D,W,D,D,9
+2024,Cagliari,2023-10-22,Salernitana,L,L,L,L,D,1
+2024,Cagliari,2024-04-14,Inter,W,D,L,W,W,8
+2024,Cagliari,2024-01-14,Bologna,D,D,L,L,W,5
+2024,Cagliari,2023-08-21,Torino,,,,,,1
+2024,Cagliari,2023-08-28,Inter,D,,,,,1
+2024,Cagliari,2023-09-02,Bologna,L,D,,,,1
+2024,Cagliari,2023-09-17,Udinese,L,L,D,,,2
+2024,Cagliari,2023-09-24,Atalanta,D,L,L,D,,2
+2024,Cagliari,2023-09-27,Milan,L,D,L,L,D,1
+2024,Cagliari,2023-10-02,Fiorentina,L,L,D,L,L,1
+2024,Cagliari,2023-12-23,Hellas Verona,L,W,L,D,L,4
+2024,Cagliari,2023-10-29,Frosinone,D,L,L,L,L,4
+2024,Cagliari,2023-11-05,Genoa,W,D,L,L,L,7
+2024,Cagliari,2023-11-11,Juventus,W,W,D,L,L,7
+2024,Cagliari,2023-11-26,Monza,L,W,W,D,L,8
+2024,Cagliari,2023-12-02,Lazio,D,L,W,W,D,7
+2024,Cagliari,2023-12-11,Sassuolo,L,D,L,W,W,7
+2024,Cagliari,2023-12-16,Napoli,W,L,D,L,W,4
+2024,Cagliari,2023-12-30,Empoli,L,L,W,L,D,4
+2024,Cagliari,2024-03-09,Salernitana,W,D,D,L,L,8
+2024,Cagliari,2024-05-23,Fiorentina,W,L,D,L,D,4
+2024,Cagliari,2024-05-19,Sassuolo,L,D,L,D,D,5
+2024,Cagliari,2024-05-11,Milan,D,L,D,D,W,3
+2024,Cagliari,2024-05-05,Lecce,L,D,D,W,D,6
+2024,Cagliari,2024-04-29,Genoa,D,D,W,D,L,6
+2024,Cagliari,2024-04-19,Juventus,D,W,D,L,W,6
+2024,Cagliari,2024-04-07,Atalanta,D,L,W,W,D,10
+2024,Cagliari,2024-04-01,Hellas Verona,L,W,W,D,D,8
+2024,Cagliari,2024-03-16,Monza,W,W,D,D,L,8
+2024,Cagliari,2023-10-08,Roma,L,L,L,D,L,1
+2024,Cagliari,2024-03-03,Empoli,D,D,L,L,L,5
+2024,Cagliari,2024-02-25,Napoli,D,L,L,L,L,2
+2024,Cagliari,2024-02-18,Udinese,L,L,L,L,W,1
+2024,Cagliari,2024-02-10,Lazio,L,L,L,W,D,3
+2024,Cagliari,2024-02-05,Roma,L,L,W,D,D,4
+2024,Cagliari,2024-01-26,Torino,L,W,D,D,L,5
+2024,Cagliari,2024-01-21,Frosinone,W,D,D,L,L,5
+2024,Cagliari,2024-01-06,Lecce,D,L,L,W,L,5
+2024,Empoli,2024-03-10,Milan,L,W,D,W,D,7
+2024,Empoli,2023-09-24,Inter,L,L,L,L,,0
+2024,Empoli,2024-04-13,Lecce,W,L,L,L,L,3
+2024,Empoli,2024-01-21,Monza,L,L,D,L,L,4
+2024,Empoli,2024-01-27,Juventus,W,L,L,D,L,5
+2024,Empoli,2024-02-03,Genoa,D,W,L,L,D,5
+2024,Empoli,2024-02-09,Salernitana,D,D,W,L,L,8
+2024,Empoli,2024-02-18,Fiorentina,W,D,D,W,L,9
+2024,Empoli,2024-02-24,Sassuolo,D,W,D,D,W,9
+2024,Empoli,2024-03-03,Cagliari,W,D,W,D,D,8
+2024,Empoli,2023-09-17,Roma,L,L,L,,,0
+2024,Empoli,2024-04-01,Inter,L,L,L,W,D,3
+2024,Empoli,2024-04-06,Torino,L,L,L,L,W,3
+2024,Empoli,2024-04-20,Napoli,L,W,L,L,L,6
+2024,Empoli,2024-04-28,Atalanta,W,L,W,L,L,6
+2024,Empoli,2024-05-05,Frosinone,L,W,L,W,L,7
+2024,Empoli,2024-05-12,Lazio,D,L,W,L,W,4
+2024,Empoli,2024-05-19,Udinese,L,D,L,W,L,5
+2024,Empoli,2024-03-15,Bologna,L,L,W,D,W,4
+2024,Empoli,2023-11-12,Napoli,L,L,W,D,L,7
+2024,Empoli,2023-11-06,Frosinone,L,W,D,L,W,4
+2024,Empoli,2023-08-19,Hellas Verona,,,,,,0
+2024,Empoli,2023-12-30,Cagliari,L,L,D,D,L,3
+2024,Empoli,2023-10-30,Atalanta,W,D,L,W,L,7
+2024,Empoli,2023-12-22,Lazio,L,D,D,L,W,2
+2024,Empoli,2023-12-16,Torino,D,D,L,W,L,5
+2024,Empoli,2023-12-11,Lecce,D,L,W,L,L,5
+2024,Empoli,2023-12-02,Genoa,L,W,L,L,W,4
+2024,Empoli,2023-11-26,Sassuolo,W,L,L,W,D,6
+2024,Empoli,2024-01-13,Hellas Verona,L,D,L,L,D,1
+2024,Empoli,2024-05-26,Roma,D,L,D,L,W,5
+2024,Empoli,2023-10-23,Fiorentina,D,L,W,L,L,7
+2024,Empoli,2023-10-06,Udinese,L,W,L,L,L,4
+2024,Empoli,2023-10-01,Bologna,W,L,L,L,L,3
+2024,Empoli,2023-09-27,Salernitana,L,L,L,L,L,3
+2024,Empoli,2024-01-07,Milan,D,L,L,D,D,2
+2024,Empoli,2023-08-26,Monza,L,,,,,0
+2024,Empoli,2023-09-03,Juventus,L,L,,,,0
+2024,Fiorentina,2024-05-13,Monza,L,W,W,D,L,10
+2024,Fiorentina,2024-02-18,Empoli,L,W,L,L,D,4
+2024,Fiorentina,2024-02-26,Lazio,D,L,W,L,L,7
+2024,Fiorentina,2024-03-10,Roma,D,W,D,L,W,6
+2024,Fiorentina,2024-03-30,Milan,D,D,W,D,L,6
+2024,Fiorentina,2024-04-07,Juventus,L,D,D,W,D,5
+2024,Fiorentina,2024-04-15,Genoa,L,L,D,D,W,3
+2024,Fiorentina,2023-09-24,Udinese,W,L,D,W,,10
+2024,Fiorentina,2024-04-28,Sassuolo,W,D,L,L,D,7
+2024,Fiorentina,2024-05-05,Hellas Verona,W,W,D,L,L,7
+2024,Fiorentina,2024-02-14,Bologna,W,L,L,D,L,4
+2024,Fiorentina,2024-05-17,Napoli,W,L,W,W,D,10
+2024,Fiorentina,2024-05-23,Cagliari,D,W,L,W,W,10
+2024,Fiorentina,2024-06-02,Atalanta,W,D,W,L,W,10
+2024,Fiorentina,2024-03-02,Torino,W,D,L,W,L,8
+2024,Fiorentina,2023-08-19,Genoa,,,,,,3
+2024,Fiorentina,2023-08-27,Lecce,W,,,,,4
+2024,Fiorentina,2023-12-10,Roma,W,L,W,L,L,7
+2024,Fiorentina,2023-09-17,Atalanta,L,D,W,,,7
+2024,Fiorentina,2023-10-02,Cagliari,D,W,W,L,D,10
+2024,Fiorentina,2023-12-17,Hellas Verona,D,W,L,W,L,10
+2024,Fiorentina,2023-10-08,Napoli,W,D,W,W,L,13
+2024,Fiorentina,2023-10-23,Empoli,W,W,D,W,W,10
+2024,Fiorentina,2023-10-30,Lazio,L,W,W,D,W,7
+2024,Fiorentina,2023-11-05,Juventus,L,L,W,W,D,6
+2024,Fiorentina,2023-11-12,Bologna,L,L,L,W,W,6
+2024,Fiorentina,2023-11-25,Milan,W,L,L,L,W,3
+2024,Fiorentina,2023-12-03,Salernitana,L,W,L,L,L,6
+2024,Fiorentina,2023-09-03,Inter,D,W,,,,4
+2024,Fiorentina,2023-09-28,Frosinone,W,W,L,D,W,8
+2024,Fiorentina,2024-04-21,Salernitana,D,L,L,D,D,5
+2024,Fiorentina,2023-12-22,Monza,W,D,W,L,W,10
+2024,Fiorentina,2023-12-29,Torino,W,W,D,W,L,13
+2024,Fiorentina,2024-01-06,Sassuolo,W,W,W,D,W,10
+2024,Fiorentina,2024-01-14,Udinese,L,W,W,W,D,10
+2024,Fiorentina,2024-01-28,Inter,D,L,W,W,W,7
+2024,Fiorentina,2024-02-02,Lecce,L,D,L,W,W,4
+2024,Fiorentina,2024-02-11,Frosinone,L,L,D,L,W,4
+2024,Frosinone,2023-11-06,Empoli,L,L,W,L,D,6
+2024,Frosinone,2024-05-26,Udinese,W,L,D,W,D,7
+2024,Frosinone,2023-09-28,Fiorentina,D,W,D,W,L,9
+2024,Frosinone,2023-11-12,Inter,W,L,L,W,L,6
+2024,Frosinone,2024-01-15,Atalanta,L,L,L,L,D,0
+2024,Frosinone,2023-09-17,Sassuolo,D,W,L,,,7
+2024,Frosinone,2023-10-01,Roma,D,D,W,D,W,6
+2024,Frosinone,2023-10-08,Hellas Verona,L,D,D,W,D,8
+2024,Frosinone,2023-10-22,Bologna,W,L,D,D,W,5
+2024,Frosinone,2023-10-29,Cagliari,L,W,L,D,D,4
+2024,Frosinone,2024-05-19,Monza,L,D,W,D,D,8
+2024,Frosinone,2023-09-02,Udinese,W,L,,,,4
+2024,Frosinone,2023-11-26,Genoa,L,W,L,L,W,6
+2024,Frosinone,2023-12-02,Milan,W,L,W,L,L,6
+2024,Frosinone,2023-12-10,Torino,L,W,L,W,L,7
+2024,Frosinone,2023-12-16,Lecce,D,L,W,L,W,4
+2024,Frosinone,2023-12-23,Juventus,L,D,L,W,L,4
+2024,Frosinone,2023-12-29,Lazio,L,L,D,L,W,1
+2024,Frosinone,2024-01-06,Monza,L,L,L,D,L,1
+2024,Frosinone,2024-03-16,Lazio,L,D,L,L,L,1
+2024,Frosinone,2023-08-26,Atalanta,L,,,,,3
+2024,Frosinone,2023-08-19,Napoli,,,,,,0
+2024,Frosinone,2023-09-22,Salernitana,W,D,W,L,,8
+2024,Frosinone,2024-02-03,Milan,D,W,L,L,L,4
+2024,Frosinone,2024-02-11,Fiorentina,L,D,W,L,L,4
+2024,Frosinone,2024-02-18,Roma,L,L,D,W,L,4
+2024,Frosinone,2024-02-25,Juventus,L,L,L,D,W,1
+2024,Frosinone,2024-03-03,Lecce,L,L,L,L,D,1
+2024,Frosinone,2024-03-09,Sassuolo,D,L,L,L,L,1
+2024,Frosinone,2024-03-30,Genoa,L,L,D,L,L,2
+2024,Frosinone,2024-01-21,Cagliari,L,L,L,L,L,3
+2024,Frosinone,2024-04-07,Bologna,D,L,L,D,L,3
+2024,Frosinone,2024-01-28,Hellas Verona,W,L,L,L,L,4
+2024,Frosinone,2024-04-14,Napoli,D,D,L,L,D,3
+2024,Frosinone,2024-04-21,Torino,D,D,D,L,L,4
+2024,Frosinone,2024-04-26,Salernitana,D,D,D,D,L,7
+2024,Frosinone,2024-05-05,Empoli,W,D,D,D,D,7
+2024,Frosinone,2024-05-10,Inter,D,W,D,D,D,6
+2024,Genoa,2023-12-22,Sassuolo,D,L,D,L,W,5
+2024,Genoa,2024-01-28,Lecce,W,D,D,D,W,9
+2024,Genoa,2024-02-03,Empoli,W,W,D,D,D,9
+2024,Genoa,2024-03-04,Inter,W,D,L,D,W,5
+2024,Genoa,2024-02-24,Udinese,D,L,D,W,W,8
+2024,Genoa,2024-02-17,Napoli,L,D,W,W,D,8
+2024,Genoa,2023-10-07,Milan,D,W,L,D,L,5
+2024,Genoa,2024-01-13,Torino,D,D,W,D,L,7
+2024,Genoa,2024-01-05,Bologna,D,W,D,L,D,6
+2024,Genoa,2023-12-29,Inter,W,D,L,D,L,6
+2024,Genoa,2024-04-15,Fiorentina,W,D,D,L,L,6
+2024,Genoa,2023-10-01,Udinese,W,L,D,L,W,5
+2024,Genoa,2023-12-15,Juventus,L,D,L,W,L,5
+2024,Genoa,2023-12-10,Monza,D,L,W,L,W,4
+2024,Genoa,2023-12-02,Empoli,L,W,L,W,L,7
+2024,Genoa,2023-11-26,Frosinone,W,L,W,L,L,6
+2024,Genoa,2023-11-10,Hellas Verona,L,W,L,L,D,6
+2024,Genoa,2023-10-27,Salernitana,L,L,D,W,L,7
+2024,Genoa,2023-10-22,Atalanta,L,D,W,L,D,4
+2024,Genoa,2023-08-19,Fiorentina,,,,,,0
+2024,Genoa,2024-05-12,Sassuolo,D,W,L,D,W,8
+2024,Genoa,2024-05-24,Bologna,L,W,D,W,L,10
+2024,Genoa,2024-02-11,Atalanta,D,W,W,D,D,8
+2024,Genoa,2023-09-22,Lecce,D,L,W,L,,4
+2024,Genoa,2023-09-16,Napoli,L,W,L,,,4
+2024,Genoa,2023-09-03,Torino,W,L,,,,3
+2024,Genoa,2023-08-27,Lazio,L,,,,,3
+2024,Genoa,2023-09-28,Roma,L,D,L,W,L,7
+2024,Genoa,2023-11-05,Cagliari,W,L,L,D,W,4
+2024,Genoa,2024-05-19,Roma,W,D,W,L,D,7
+2024,Genoa,2024-05-05,Milan,W,L,D,W,D,8
+2024,Genoa,2024-04-29,Cagliari,L,D,W,D,D,8
+2024,Genoa,2024-04-19,Lazio,D,W,D,D,L,6
+2024,Genoa,2024-01-21,Salernitana,D,D,D,W,D,9
+2024,Genoa,2024-04-07,Hellas Verona,D,D,L,L,W,5
+2024,Genoa,2024-03-30,Frosinone,D,L,L,W,D,5
+2024,Genoa,2024-03-17,Juventus,L,L,W,D,L,5
+2024,Genoa,2024-03-09,Monza,L,W,D,L,D,4
+2024,Hellas Verona,2024-03-03,Sassuolo,L,D,D,L,D,5
+2024,Hellas Verona,2023-12-23,Cagliari,L,D,D,D,L,6
+2024,Hellas Verona,2023-12-17,Fiorentina,D,D,D,L,L,3
+2024,Hellas Verona,2023-12-30,Salernitana,W,L,D,D,D,5
+2024,Hellas Verona,2024-01-06,Inter,L,W,L,D,D,4
+2024,Hellas Verona,2024-01-20,Roma,W,L,L,W,L,6
+2024,Hellas Verona,2024-01-28,Frosinone,L,W,L,L,W,4
+2024,Hellas Verona,2024-02-04,Napoli,D,L,W,L,L,4
+2024,Hellas Verona,2024-02-11,Monza,L,D,L,W,L,5
+2024,Hellas Verona,2024-02-17,Juventus,D,L,D,L,W,3
+2024,Hellas Verona,2023-12-09,Lazio,D,D,L,L,L,3
+2024,Hellas Verona,2023-12-03,Udinese,D,L,L,L,L,2
+2024,Hellas Verona,2023-11-27,Lecce,L,L,L,L,L,1
+2024,Hellas Verona,2023-11-10,Genoa,L,L,L,L,D,0
+2024,Hellas Verona,2023-11-05,Monza,L,L,L,D,L,1
+2024,Hellas Verona,2023-10-28,Juventus,L,L,D,L,L,1
+2024,Hellas Verona,2023-10-21,Napoli,L,D,L,L,D,1
+2024,Hellas Verona,2023-10-08,Frosinone,D,L,L,D,L,2
+2024,Hellas Verona,2024-02-23,Bologna,D,D,L,D,L,3
+2024,Hellas Verona,2023-09-01,Sassuolo,W,W,,,,6
+2024,Hellas Verona,2024-03-10,Lecce,W,L,D,D,L,8
+2024,Hellas Verona,2024-03-17,Milan,W,W,L,D,D,7
+2024,Hellas Verona,2024-04-01,Cagliari,L,W,W,L,D,7
+2024,Hellas Verona,2024-04-07,Genoa,D,L,W,W,L,7
+2024,Hellas Verona,2024-04-15,Atalanta,L,D,L,W,W,5
+2024,Hellas Verona,2024-01-13,Empoli,L,L,W,L,D,6
+2024,Hellas Verona,2023-10-02,Torino,L,L,D,L,W,2
+2024,Hellas Verona,2023-08-19,Empoli,,,,,,3
+2024,Hellas Verona,2023-08-26,Roma,W,,,,,6
+2024,Hellas Verona,2024-05-26,Inter,W,L,W,L,W,7
+2024,Hellas Verona,2023-09-18,Bologna,L,W,W,,,7
+2024,Hellas Verona,2023-09-23,Milan,D,L,W,W,,7
+2024,Hellas Verona,2023-09-27,Atalanta,L,D,L,W,W,4
+2024,Hellas Verona,2024-04-20,Udinese,D,L,D,L,W,5
+2024,Hellas Verona,2024-04-27,Lazio,W,D,L,D,L,5
+2024,Hellas Verona,2024-05-05,Fiorentina,L,W,D,L,D,7
+2024,Hellas Verona,2024-05-12,Torino,W,L,W,D,L,7
+2024,Hellas Verona,2024-05-20,Salernitana,L,W,L,W,D,9
+2024,Internazionale,2023-09-30,Salernitana,L,W,W,W,W,12
+2024,Internazionale,2024-03-04,Genoa,W,W,W,W,W,15
+2024,Internazionale,2024-02-28,Atalanta,W,W,W,W,W,15
+2024,Internazionale,2024-02-25,Lecce,W,W,W,W,W,15
+2024,Internazionale,2024-02-16,Salernitana,W,W,W,W,W,15
+2024,Internazionale,2023-10-29,Roma,W,D,W,L,W,10
+2024,Internazionale,2023-09-03,Fiorentina,W,W,,,,9
+2024,Internazionale,2023-09-16,Milan,W,W,W,,,12
+2024,Internazionale,2023-09-24,Empoli,W,W,W,W,,15
+2024,Internazionale,2023-09-27,Sassuolo,W,W,W,W,W,12
+2024,Internazionale,2024-03-09,Bologna,W,W,W,W,W,15
+2024,Internazionale,2023-10-07,Bologna,W,L,W,W,W,10
+2024,Internazionale,2023-10-21,Torino,D,W,L,W,W,10
+2024,Internazionale,2023-08-28,Cagliari,W,,,,,6
+2024,Internazionale,2023-08-19,Monza,,,,,,3
+2024,Internazionale,2024-05-04,Sassuolo,W,W,D,W,W,10
+2024,Internazionale,2024-05-10,Frosinone,L,W,W,D,W,10
+2024,Internazionale,2024-05-19,Lazio,W,L,W,W,D,10
+2024,Internazionale,2024-05-26,Hellas Verona,D,W,L,W,W,8
+2024,Internazionale,2024-01-28,Fiorentina,W,W,D,W,W,13
+2024,Internazionale,2023-11-12,Frosinone,W,W,W,D,W,13
+2024,Internazionale,2023-11-26,Juventus,W,W,W,W,D,13
+2024,Internazionale,2023-12-03,Napoli,D,W,W,W,W,13
+2024,Internazionale,2023-12-09,Udinese,W,D,W,W,W,13
+2024,Internazionale,2023-12-17,Lazio,W,W,D,W,W,13
+2024,Internazionale,2023-12-23,Lecce,W,W,W,D,W,13
+2024,Internazionale,2023-12-29,Genoa,W,W,W,W,D,13
+2024,Internazionale,2024-01-06,Hellas Verona,D,W,W,W,W,13
+2024,Internazionale,2024-01-13,Monza,W,D,W,W,W,13
+2024,Internazionale,2024-02-10,Roma,W,W,W,W,D,15
+2024,Internazionale,2024-04-28,Torino,W,D,W,W,D,13
+2024,Internazionale,2023-11-04,Atalanta,W,W,D,W,L,13
+2024,Internazionale,2024-02-04,Juventus,W,W,W,D,W,13
+2024,Internazionale,2024-04-22,Milan,D,W,W,D,W,11
+2024,Internazionale,2024-04-14,Cagliari,W,W,D,W,W,11
+2024,Internazionale,2024-04-08,Udinese,W,D,W,W,W,13
+2024,Internazionale,2024-04-01,Empoli,D,W,W,W,W,13
+2024,Internazionale,2024-03-17,Napoli,W,W,W,W,W,13
+2024,Juventus,2023-12-01,Monza,D,W,W,W,W,13
+2024,Juventus,2024-03-10,Atalanta,L,W,D,L,L,5
+2024,Juventus,2024-03-03,Napoli,W,D,L,L,D,4
+2024,Juventus,2024-02-25,Frosinone,D,L,L,D,W,5
+2024,Juventus,2023-10-01,Atalanta,W,L,W,W,D,10
+2024,Juventus,2023-10-07,Torino,D,W,L,W,W,10
+2024,Juventus,2023-10-28,Hellas Verona,W,W,D,W,L,13
+2024,Juventus,2023-11-05,Fiorentina,W,W,W,D,W,13
+2024,Juventus,2023-11-11,Cagliari,W,W,W,W,D,15
+2024,Juventus,2024-02-17,Hellas Verona,L,L,D,W,W,5
+2024,Juventus,2024-03-17,Genoa,D,L,W,D,L,6
+2024,Juventus,2023-12-08,Napoli,W,D,W,W,W,13
+2024,Juventus,2023-12-15,Genoa,W,W,D,W,W,11
+2024,Juventus,2023-09-26,Lecce,L,W,W,D,W,10
+2024,Juventus,2023-09-03,Empoli,D,W,,,,7
+2024,Juventus,2024-05-12,Salernitana,D,D,D,D,W,5
+2024,Juventus,2024-05-05,Roma,D,D,D,W,L,7
+2024,Juventus,2024-04-19,Cagliari,D,W,L,D,D,6
+2024,Juventus,2024-04-27,Milan,D,D,W,L,D,6
+2024,Juventus,2023-10-22,Milan,W,D,W,L,W,10
+2024,Juventus,2024-02-04,Inter,D,W,W,W,W,10
+2024,Juventus,2024-02-12,Udinese,L,D,W,W,W,7
+2024,Juventus,2023-11-26,Inter,W,W,W,W,W,13
+2024,Juventus,2024-01-21,Lecce,W,W,W,W,D,15
+2024,Juventus,2024-01-16,Sassuolo,W,W,W,D,W,13
+2024,Juventus,2024-01-07,Salernitana,W,W,D,W,W,13
+2024,Juventus,2023-12-30,Roma,W,D,W,W,D,13
+2024,Juventus,2023-08-20,Udinese,,,,,,3
+2024,Juventus,2023-08-27,Bologna,W,,,,,4
+2024,Juventus,2024-01-27,Empoli,W,W,W,W,W,13
+2024,Juventus,2023-12-23,Frosinone,D,W,W,D,W,11
+2024,Juventus,2023-09-23,Sassuolo,W,W,D,W,,10
+2024,Juventus,2024-05-25,Monza,D,D,D,D,D,7
+2024,Juventus,2024-05-20,Bologna,D,D,D,D,D,5
+2024,Juventus,2023-09-16,Lazio,W,D,W,,,10
+2024,Juventus,2024-04-13,Torino,W,L,D,D,L,6
+2024,Juventus,2024-04-07,Fiorentina,L,D,D,L,W,5
+2024,Juventus,2024-03-30,Lazio,D,D,L,W,D,5
+2024,Lazio,2024-05-26,Sassuolo,D,W,D,W,W,9
+2024,Lazio,2023-09-27,Torino,D,L,W,L,L,7
+2024,Lazio,2023-09-23,Monza,L,W,L,L,,4
+2024,Lazio,2023-09-16,Juventus,W,L,L,,,3
+2024,Lazio,2023-09-02,Napoli,L,L,,,,3
+2024,Lazio,2023-08-27,Genoa,L,,,,,0
+2024,Lazio,2023-08-20,Lecce,,,,,,0
+2024,Lazio,2024-05-04,Monza,W,W,W,L,W,10
+2024,Lazio,2024-02-04,Atalanta,D,W,W,W,W,10
+2024,Lazio,2024-05-19,Inter,W,D,W,W,W,11
+2024,Lazio,2023-09-30,Milan,W,D,L,W,L,7
+2024,Lazio,2023-11-12,Roma,L,W,W,W,L,10
+2024,Lazio,2024-03-16,Frosinone,L,L,L,W,L,6
+2024,Lazio,2024-03-11,Udinese,L,L,W,L,W,3
+2024,Lazio,2024-03-01,Milan,L,W,L,W,L,6
+2024,Lazio,2024-02-26,Fiorentina,W,L,W,L,D,6
+2024,Lazio,2024-02-22,Torino,L,W,L,D,W,7
+2024,Lazio,2024-02-18,Bologna,W,L,D,W,W,7
+2024,Lazio,2024-02-10,Cagliari,L,D,W,W,W,10
+2024,Lazio,2023-11-25,Salernitana,D,L,W,W,W,7
+2024,Lazio,2024-01-07,Udinese,W,W,L,D,W,10
+2024,Lazio,2024-04-19,Genoa,W,L,W,W,L,12
+2024,Lazio,2024-01-28,Napoli,W,W,W,W,L,13
+2024,Lazio,2023-11-03,Bologna,W,W,W,L,W,9
+2024,Lazio,2023-12-29,Frosinone,W,L,D,W,L,10
+2024,Lazio,2023-12-22,Empoli,L,D,W,L,D,7
+2024,Lazio,2023-12-17,Inter,D,W,L,D,L,5
+2024,Lazio,2023-12-09,Hellas Verona,W,L,D,L,W,5
+2024,Lazio,2023-12-02,Cagliari,L,D,L,W,W,7
+2024,Lazio,2024-01-14,Lecce,W,W,W,L,D,12
+2024,Lazio,2024-04-27,Hellas Verona,W,W,L,W,W,12
+2024,Lazio,2024-04-12,Salernitana,L,W,W,L,L,9
+2024,Lazio,2024-04-06,Roma,W,W,L,L,L,6
+2024,Lazio,2024-03-30,Juventus,W,L,L,L,W,6
+2024,Lazio,2024-05-12,Empoli,D,W,W,W,L,13
+2024,Lazio,2023-10-30,Fiorentina,W,W,L,W,D,12
+2024,Lazio,2023-10-21,Sassuolo,W,L,W,D,L,10
+2024,Lazio,2023-10-08,Atalanta,L,W,D,L,W,7
+2024,Lecce,2023-09-22,Genoa,D,W,D,W,,11
+2024,Lecce,2024-05-05,Cagliari,D,W,W,L,D,8
+2024,Lecce,2024-02-16,Torino,L,W,L,L,L,3
+2024,Lecce,2023-11-11,Milan,L,L,D,D,L,3
+2024,Lecce,2023-11-05,Roma,L,D,D,L,L,2
+2024,Lecce,2023-10-28,Torino,D,D,L,L,W,2
+2024,Lecce,2023-10-23,Udinese,D,L,L,W,D,5
+2024,Lecce,2023-10-06,Sassuolo,L,L,W,D,W,5
+2024,Lecce,2023-09-30,Napoli,L,W,D,W,D,7
+2024,Lecce,2023-09-26,Juventus,W,D,W,D,W,8
+2024,Lecce,2023-12-11,Empoli,D,D,D,L,L,4
+2024,Lecce,2023-09-17,Monza,W,D,W,,,8
+2024,Lecce,2023-09-03,Salernitana,D,W,,,,7
+2024,Lecce,2024-05-26,Napoli,L,L,D,D,W,3
+2024,Lecce,2023-11-27,Hellas Verona,D,L,L,D,D,3
+2024,Lecce,2023-08-27,Fiorentina,W,,,,,4
+2024,Lecce,2024-05-13,Udinese,D,D,W,W,L,8
+2024,Lecce,2024-05-18,Atalanta,L,D,D,W,W,5
+2024,Lecce,2024-04-27,Monza,W,W,L,D,W,8
+2024,Lecce,2023-12-03,Bologna,D,D,L,L,D,3
+2024,Lecce,2024-04-21,Sassuolo,W,L,D,W,L,10
+2024,Lecce,2024-04-13,Empoli,L,D,W,L,D,7
+2024,Lecce,2024-04-06,Milan,D,W,L,D,L,5
+2024,Lecce,2024-04-01,Roma,W,L,D,L,L,5
+2024,Lecce,2024-03-16,Salernitana,L,D,L,L,L,4
+2024,Lecce,2024-03-10,Hellas Verona,D,L,L,L,W,1
+2024,Lecce,2024-03-03,Frosinone,L,L,L,W,L,4
+2024,Lecce,2024-02-25,Inter,L,L,W,L,L,3
+2024,Lecce,2024-02-11,Bologna,W,L,L,L,D,3
+2024,Lecce,2024-02-02,Fiorentina,L,L,L,D,L,4
+2024,Lecce,2024-01-28,Genoa,L,L,D,L,L,1
+2024,Lecce,2024-01-21,Juventus,L,D,L,L,W,1
+2024,Lecce,2024-01-14,Lazio,D,L,L,W,D,4
+2024,Lecce,2024-01-06,Cagliari,L,L,W,D,D,5
+2024,Lecce,2023-12-30,Atalanta,L,W,D,D,D,5
+2024,Lecce,2023-12-23,Inter,W,D,D,D,D,6
+2024,Lecce,2023-08-20,Lazio,,,,,,3
+2024,Lecce,2023-12-16,Frosinone,D,D,D,D,L,7
+2024,Milan,2024-02-25,Atalanta,L,W,W,D,W,8
+2024,Milan,2024-03-01,Lazio,D,L,W,W,D,10
+2024,Milan,2024-03-10,Empoli,W,D,L,W,W,10
+2024,Milan,2024-03-17,Hellas Verona,W,W,D,L,W,10
+2024,Milan,2024-04-06,Lecce,W,W,W,W,D,15
+2024,Milan,2023-09-27,Cagliari,W,L,W,W,W,12
+2024,Milan,2023-09-16,Inter,W,W,W,,,9
+2024,Milan,2023-09-01,Roma,W,W,,,,9
+2024,Milan,2023-08-26,Torino,W,,,,,6
+2024,Milan,2023-11-25,Fiorentina,D,L,D,L,W,5
+2024,Milan,2024-02-18,Monza,W,W,D,W,W,10
+2024,Milan,2024-05-25,Salernitana,L,W,D,D,L,6
+2024,Milan,2024-05-18,Torino,W,D,D,L,D,5
+2024,Milan,2024-05-11,Cagliari,D,D,L,D,W,6
+2024,Milan,2024-05-05,Genoa,D,L,D,W,W,6
+2024,Milan,2024-04-27,Juventus,L,D,W,W,W,8
+2024,Milan,2024-04-22,Inter,D,W,W,W,W,10
+2024,Milan,2024-04-14,Sassuolo,W,W,W,W,W,13
+2024,Milan,2024-03-30,Fiorentina,W,W,W,D,L,13
+2024,Milan,2023-12-17,Monza,L,W,W,D,L,10
+2024,Milan,2023-11-11,Lecce,L,D,L,W,W,5
+2024,Milan,2023-11-04,Udinese,D,L,W,W,W,7
+2024,Milan,2023-10-29,Napoli,L,W,W,W,W,10
+2024,Milan,2023-10-22,Juventus,W,W,W,W,L,12
+2024,Milan,2023-10-07,Genoa,W,W,W,L,W,12
+2024,Milan,2023-09-30,Lazio,W,W,L,W,W,12
+2024,Milan,2023-09-23,Hellas Verona,L,W,W,W,,12
+2024,Milan,2023-12-02,Frosinone,W,D,L,D,L,8
+2024,Milan,2023-12-09,Atalanta,W,W,D,L,D,7
+2024,Milan,2023-08-21,Bologna,,,,,,3
+2024,Milan,2023-12-22,Salernitana,W,L,W,W,D,10
+2024,Milan,2023-12-30,Sassuolo,D,W,L,W,W,10
+2024,Milan,2024-01-07,Empoli,W,D,W,L,W,10
+2024,Milan,2024-01-14,Roma,W,W,D,W,L,13
+2024,Milan,2024-01-20,Udinese,W,W,W,D,W,13
+2024,Milan,2024-01-27,Bologna,W,W,W,W,D,13
+2024,Milan,2024-02-03,Frosinone,D,W,W,W,W,13
+2024,Milan,2024-02-11,Napoli,W,D,W,W,W,13
+2024,Monza,2024-02-03,Udinese,W,L,L,W,D,7
+2024,Monza,2023-09-28,Bologna,D,D,L,W,L,6
+2024,Monza,2024-04-13,Bologna,L,L,W,W,L,7
+2024,Monza,2023-09-23,Lazio,D,L,W,L,,5
+2024,Monza,2023-09-02,Atalanta,W,L,,,,3
+2024,Monza,2023-09-17,Lecce,L,W,L,,,4
+2024,Monza,2023-08-19,Inter,,,,,,0
+2024,Monza,2024-01-13,Inter,W,D,L,L,W,4
+2024,Monza,2024-01-21,Empoli,L,W,D,L,L,4
+2024,Monza,2024-01-28,Sassuolo,L,L,W,D,L,7
+2024,Monza,2023-10-02,Sassuolo,D,D,D,L,W,6
+2024,Monza,2024-02-11,Hellas Verona,D,W,L,L,W,5
+2024,Monza,2024-02-18,Milan,D,D,W,L,L,8
+2024,Monza,2024-02-24,Salernitana,W,D,D,W,L,11
+2024,Monza,2024-03-02,Roma,W,W,D,D,W,8
+2024,Monza,2024-03-09,Genoa,L,W,W,D,D,10
+2024,Monza,2024-03-16,Cagliari,W,L,W,W,D,12
+2024,Monza,2024-03-30,Torino,W,W,L,W,W,9
+2024,Monza,2023-12-22,Fiorentina,L,W,L,D,D,4
+2024,Monza,2023-12-17,Milan,W,L,D,D,W,5
+2024,Monza,2023-12-29,Napoli,L,L,W,L,D,4
+2024,Monza,2023-12-01,Juventus,D,D,W,D,L,6
+2024,Monza,2024-04-27,Lecce,L,D,L,L,W,2
+2024,Monza,2024-05-04,Lazio,D,L,D,L,L,3
+2024,Monza,2024-05-13,Fiorentina,D,D,L,D,L,3
+2024,Monza,2024-05-19,Frosinone,L,D,D,L,D,2
+2024,Monza,2024-05-25,Juventus,L,L,D,D,L,2
+2024,Monza,2024-04-07,Napoli,L,W,W,L,W,6
+2024,Monza,2023-08-26,Empoli,L,,,,,3
+2024,Monza,2024-01-06,Frosinone,D,L,L,W,L,7
+2024,Monza,2023-12-10,Genoa,L,D,D,W,D,8
+2024,Monza,2024-04-21,Atalanta,D,L,L,W,W,4
+2024,Monza,2023-11-26,Cagliari,D,W,D,L,W,6
+2024,Monza,2023-11-11,Torino,W,D,L,W,W,8
+2024,Monza,2023-11-05,Hellas Verona,D,L,W,W,D,10
+2024,Monza,2023-10-29,Udinese,L,W,W,D,D,8
+2024,Monza,2023-10-22,Roma,W,W,D,D,D,8
+2024,Monza,2023-10-08,Salernitana,W,D,D,D,L,9
+2024,Napoli,2024-03-30,Atalanta,D,D,W,W,D,8
+2024,Napoli,2023-10-29,Milan,W,L,W,W,D,10
+2024,Napoli,2023-10-21,Hellas Verona,L,W,W,D,D,10
+2024,Napoli,2024-01-28,Lazio,W,L,D,L,W,5
+2024,Napoli,2023-09-30,Lecce,W,D,D,L,W,8
+2024,Napoli,2024-05-06,Udinese,D,L,D,W,L,6
+2024,Napoli,2024-04-28,Roma,L,D,W,L,D,5
+2024,Napoli,2024-04-20,Empoli,D,W,L,D,D,5
+2024,Napoli,2024-04-14,Frosinone,W,L,D,D,W,6
+2024,Napoli,2024-04-07,Monza,L,D,D,W,W,8
+2024,Napoli,2023-11-04,Salernitana,D,W,L,W,W,10
+2024,Napoli,2024-05-26,Lecce,D,L,D,D,L,4
+2024,Napoli,2024-03-17,Inter,D,W,W,D,D,9
+2024,Napoli,2023-12-08,Juventus,L,W,L,W,D,6
+2024,Napoli,2024-02-04,Hellas Verona,D,W,L,D,L,8
+2024,Napoli,2024-01-13,Salernitana,L,D,L,W,L,7
+2024,Napoli,2024-01-07,Torino,D,L,W,L,L,4
+2024,Napoli,2023-12-29,Monza,L,W,L,L,W,4
+2024,Napoli,2023-12-16,Cagliari,L,L,W,L,W,6
+2024,Napoli,2023-09-27,Udinese,D,D,L,W,W,8
+2024,Napoli,2024-02-11,Milan,W,D,W,L,D,7
+2024,Napoli,2024-02-25,Cagliari,D,L,W,D,W,6
+2024,Napoli,2024-02-17,Genoa,L,W,D,W,L,8
+2024,Napoli,2023-09-02,Lazio,W,W,,,,6
+2024,Napoli,2024-03-03,Juventus,W,D,D,L,W,8
+2024,Napoli,2024-03-08,Torino,W,W,D,D,L,9
+2024,Napoli,2023-12-23,Roma,W,L,L,W,L,6
+2024,Napoli,2023-09-24,Bologna,D,L,W,W,,8
+2024,Napoli,2023-09-16,Genoa,L,W,W,,,7
+2024,Napoli,2024-02-28,Sassuolo,D,D,L,W,D,8
+2024,Napoli,2023-08-19,Frosinone,,,,,,3
+2024,Napoli,2023-08-27,Sassuolo,W,,,,,6
+2024,Napoli,2023-10-08,Fiorentina,W,W,D,D,L,8
+2024,Napoli,2023-12-03,Inter,W,L,W,D,W,7
+2024,Napoli,2023-11-25,Atalanta,L,W,D,W,L,10
+2024,Napoli,2023-11-12,Empoli,W,D,W,L,W,7
+2024,Napoli,2024-05-17,Fiorentina,L,D,D,L,D,3
+2024,Napoli,2024-05-11,Bologna,D,D,L,D,W,3
+2024,Roma,2024-03-17,Sassuolo,D,W,W,W,L,13
+2024,Roma,2024-02-05,Cagliari,W,W,L,D,L,10
+2024,Roma,2024-04-28,Napoli,W,L,W,D,W,8
+2024,Roma,2024-01-20,Hellas Verona,L,D,L,W,L,7
+2024,Roma,2024-01-29,Salernitana,W,L,D,L,W,7
+2024,Roma,2024-01-14,Milan,D,L,W,L,D,4
+2024,Roma,2024-01-07,Atalanta,L,W,L,D,W,5
+2024,Roma,2024-03-10,Fiorentina,W,W,W,L,W,10
+2024,Roma,2024-04-25,Udinese,L,W,D,W,D,10
+2024,Roma,2024-04-22,Bologna,W,D,W,D,W,8
+2024,Roma,2024-02-10,Inter,W,W,W,L,D,9
+2024,Roma,2023-12-23,Napoli,L,D,W,W,D,10
+2024,Roma,2023-11-26,Udinese,D,W,L,W,W,10
+2024,Roma,2023-11-05,Lecce,L,W,W,W,L,12
+2024,Roma,2024-04-06,Lazio,D,W,D,W,W,11
+2024,Roma,2023-12-10,Fiorentina,W,W,D,W,L,11
+2024,Roma,2023-12-03,Sassuolo,W,D,W,L,W,10
+2024,Roma,2023-12-17,Bologna,D,W,W,D,W,8
+2024,Roma,2023-12-30,Juventus,W,L,D,W,W,7
+2024,Roma,2023-09-24,Torino,W,L,L,D,,5
+2024,Roma,2023-10-29,Inter,W,W,W,L,D,9
+2024,Roma,2024-05-26,Empoli,W,L,D,D,W,5
+2024,Roma,2024-05-19,Genoa,L,D,D,W,L,8
+2024,Roma,2024-05-12,Atalanta,D,D,W,L,W,5
+2024,Roma,2024-05-05,Juventus,D,W,L,W,D,8
+2024,Roma,2023-10-22,Monza,W,W,L,D,W,10
+2024,Roma,2023-10-08,Cagliari,W,L,D,W,L,10
+2024,Roma,2023-10-01,Frosinone,L,D,W,L,L,7
+2024,Roma,2023-09-28,Genoa,D,W,L,L,D,4
+2024,Roma,2024-04-01,Lecce,W,D,W,W,W,11
+2024,Roma,2023-09-17,Empoli,L,L,D,,,4
+2024,Roma,2023-09-01,Milan,L,D,,,,1
+2024,Roma,2023-08-26,Hellas Verona,D,,,,,1
+2024,Roma,2023-08-20,Salernitana,,,,,,1
+2024,Roma,2023-11-12,Lazio,W,L,W,W,W,10
+2024,Roma,2024-02-26,Torino,W,L,W,W,W,12
+2024,Roma,2024-02-18,Frosinone,L,W,W,W,L,12
+2024,Roma,2024-03-02,Monza,W,W,L,W,W,12
+2024,Salernitana,2024-02-04,Torino,L,L,L,L,W,1
+2024,Salernitana,2024-01-13,Napoli,L,W,D,L,L,4
+2024,Salernitana,2024-01-21,Genoa,L,L,W,D,L,4
+2024,Salernitana,2023-11-10,Sassuolo,L,L,D,L,L,2
+2024,Salernitana,2023-11-04,Napoli,L,D,L,L,L,1
+2024,Salernitana,2023-10-27,Genoa,D,L,L,L,D,1
+2024,Salernitana,2023-10-22,Cagliari,L,L,L,D,L,2
+2024,Salernitana,2024-04-12,Lazio,D,L,L,L,D,1
+2024,Salernitana,2023-10-08,Monza,L,L,D,L,L,1
+2024,Salernitana,2024-01-29,Roma,L,L,L,W,D,3
+2024,Salernitana,2024-01-07,Juventus,W,D,L,L,L,4
+2024,Salernitana,2024-02-09,Empoli,D,L,L,L,L,1
+2024,Salernitana,2024-02-16,Inter,L,D,L,L,L,1
+2024,Salernitana,2024-02-24,Monza,L,L,D,L,L,1
+2024,Salernitana,2023-12-03,Fiorentina,W,D,L,L,D,4
+2024,Salernitana,2024-03-09,Cagliari,D,L,L,L,D,1
+2024,Salernitana,2024-03-16,Lecce,L,D,L,L,L,1
+2024,Salernitana,2024-04-01,Bologna,L,L,D,L,L,1
+2024,Salernitana,2024-04-05,Sassuolo,L,L,L,D,L,2
+2024,Salernitana,2024-05-12,Juventus,L,L,L,L,D,1
+2024,Salernitana,2023-09-27,Empoli,D,L,L,D,D,2
+2024,Salernitana,2023-09-22,Frosinone,L,L,D,D,,3
+2024,Salernitana,2023-09-18,Torino,L,D,D,,,2
+2024,Salernitana,2023-12-10,Bologna,L,W,D,L,L,4
+2024,Salernitana,2023-08-28,Udinese,D,,,,,2
+2024,Salernitana,2024-04-21,Fiorentina,L,D,L,L,L,1
+2024,Salernitana,2023-08-20,Roma,,,,,,1
+2024,Salernitana,2023-09-03,Lecce,D,D,,,,2
+2024,Salernitana,2024-05-20,Hellas Verona,D,L,L,L,L,1
+2024,Salernitana,2023-09-30,Inter,L,D,L,L,D,1
+2024,Salernitana,2024-05-06,Atalanta,L,L,L,D,L,1
+2024,Salernitana,2024-04-26,Frosinone,L,L,D,L,L,1
+2024,Salernitana,2024-05-25,Milan,L,D,L,L,L,2
+2024,Salernitana,2024-03-02,Udinese,L,L,L,D,L,2
+2024,Salernitana,2023-11-25,Lazio,D,L,L,D,L,5
+2024,Salernitana,2023-12-18,Atalanta,L,L,W,D,L,4
+2024,Salernitana,2023-12-22,Milan,L,L,L,W,D,4
+2024,Salernitana,2023-12-30,Hellas Verona,D,L,L,L,W,4
+2024,Sassuolo,2024-05-04,Inter,L,L,D,D,D,5
+2024,Sassuolo,2024-05-12,Genoa,W,L,L,D,D,4
+2024,Sassuolo,2023-12-11,Cagliari,L,W,D,L,D,4
+2024,Sassuolo,2023-08-27,Napoli,L,,,,,0
+2024,Sassuolo,2023-08-20,Atalanta,,,,,,0
+2024,Sassuolo,2023-09-01,Hellas Verona,L,L,,,,3
+2024,Sassuolo,2024-04-05,Salernitana,D,L,W,L,L,5
+2024,Sassuolo,2024-04-14,Milan,D,D,L,W,L,6
+2024,Sassuolo,2024-04-21,Lecce,D,D,D,L,W,3
+2024,Sassuolo,2024-04-28,Fiorentina,L,D,D,D,L,3
+2024,Sassuolo,2024-01-28,Monza,L,W,L,L,D,3
+2024,Sassuolo,2024-05-19,Cagliari,L,W,L,L,D,3
+2024,Sassuolo,2024-05-26,Lazio,L,L,W,L,L,4
+2024,Sassuolo,2023-12-22,Genoa,D,L,L,W,D,4
+2024,Sassuolo,2023-09-23,Juventus,L,W,L,L,,6
+2024,Sassuolo,2023-09-27,Inter,W,L,W,L,L,9
+2024,Sassuolo,2023-10-02,Monza,W,W,L,W,L,9
+2024,Sassuolo,2023-10-06,Lecce,L,W,W,L,W,7
+2024,Sassuolo,2023-10-21,Lazio,D,L,W,W,L,7
+2024,Sassuolo,2023-11-26,Empoli,D,L,D,L,D,5
+2024,Sassuolo,2024-03-17,Roma,W,L,L,L,L,3
+2024,Sassuolo,2023-11-06,Torino,D,L,D,L,W,2
+2024,Sassuolo,2023-12-17,Udinese,L,L,W,D,L,5
+2024,Sassuolo,2023-09-17,Frosinone,W,L,L,,,3
+2024,Sassuolo,2023-12-03,Roma,W,D,L,D,L,5
+2024,Sassuolo,2024-04-01,Udinese,L,W,L,L,L,4
+2024,Sassuolo,2023-12-30,Milan,L,D,L,L,W,1
+2024,Sassuolo,2024-01-16,Juventus,W,L,L,D,L,4
+2024,Sassuolo,2023-11-10,Salernitana,L,D,L,D,L,3
+2024,Sassuolo,2024-01-06,Fiorentina,L,L,D,L,L,4
+2024,Sassuolo,2023-10-28,Bologna,L,D,L,W,W,5
+2024,Sassuolo,2024-03-09,Frosinone,L,L,L,L,D,3
+2024,Sassuolo,2024-03-03,Hellas Verona,L,L,L,D,L,1
+2024,Sassuolo,2024-02-28,Napoli,L,L,D,L,L,1
+2024,Sassuolo,2024-02-24,Empoli,L,D,L,L,L,1
+2024,Sassuolo,2024-02-17,Atalanta,D,L,L,L,W,1
+2024,Sassuolo,2024-02-10,Torino,L,L,L,W,L,4
+2024,Sassuolo,2024-02-03,Bologna,L,L,W,L,L,3
+2024,Torino,2023-09-24,Roma,W,W,L,D,,8
+2024,Torino,2024-01-13,Genoa,W,L,D,W,D,8
+2024,Torino,2024-01-26,Cagliari,D,W,L,D,W,8
+2024,Torino,2024-02-04,Salernitana,W,D,W,L,D,8
+2024,Torino,2024-02-10,Sassuolo,D,W,D,W,L,9
+2024,Torino,2024-02-16,Lecce,D,D,W,D,W,9
+2024,Torino,2024-02-22,Lazio,W,D,D,W,D,8
+2024,Torino,2024-02-26,Roma,L,W,D,D,W,5
+2024,Torino,2024-03-02,Fiorentina,L,L,W,D,D,5
+2024,Torino,2024-04-28,Inter,D,D,L,W,W,5
+2024,Torino,2024-01-07,Napoli,L,D,W,D,W,8
+2024,Torino,2024-03-16,Udinese,D,D,L,L,W,5
+2024,Torino,2024-03-30,Monza,W,D,D,L,L,8
+2024,Torino,2024-04-06,Empoli,W,W,D,D,L,8
+2024,Torino,2024-04-13,Juventus,L,W,W,D,D,8
+2024,Torino,2024-04-21,Frosinone,D,L,W,W,D,8
+2024,Torino,2024-05-26,Atalanta,W,W,D,L,D,7
+2024,Torino,2024-05-18,Milan,W,D,L,D,D,8
+2024,Torino,2024-05-12,Hellas Verona,D,L,D,D,L,6
+2024,Torino,2023-10-21,Inter,L,D,L,D,W,2
+2024,Torino,2023-12-23,Udinese,W,D,W,L,D,8
+2024,Torino,2023-09-27,Lazio,D,W,W,L,D,7
+2024,Torino,2023-08-21,Cagliari,,,,,,1
+2024,Torino,2023-09-18,Salernitana,W,L,D,,,7
+2024,Torino,2023-09-03,Genoa,L,D,,,,4
+2024,Torino,2024-05-03,Bologna,L,D,D,L,W,3
+2024,Torino,2023-12-29,Fiorentina,D,W,D,W,L,8
+2024,Torino,2023-10-02,Hellas Verona,L,D,W,W,L,8
+2024,Torino,2023-10-07,Juventus,D,L,D,W,W,5
+2024,Torino,2023-08-26,Milan,D,,,,,1
+2024,Torino,2023-10-28,Lecce,L,L,D,L,D,4
+2024,Torino,2023-11-06,Sassuolo,W,L,L,D,L,7
+2024,Torino,2023-11-11,Monza,W,W,L,L,D,7
+2024,Torino,2023-11-27,Bologna,D,W,W,L,L,7
+2024,Torino,2023-12-04,Atalanta,L,D,W,W,L,10
+2024,Torino,2023-12-10,Frosinone,W,L,D,W,W,8
+2024,Torino,2023-12-16,Empoli,D,W,L,D,W,8
+2024,Torino,2024-03-08,Napoli,D,L,L,W,D,5
+2024,Udinese,2023-09-27,Napoli,L,D,D,D,L,3
+2024,Udinese,2024-05-19,Empoli,W,D,D,L,L,6
+2024,Udinese,2024-01-14,Fiorentina,L,W,D,D,L,6
+2024,Udinese,2024-05-26,Frosinone,D,W,D,D,L,9
+2024,Udinese,2024-04-20,Hellas Verona,L,D,L,W,D,4
+2024,Udinese,2023-08-20,Juventus,,,,,,0
+2024,Udinese,2023-08-28,Salernitana,L,,,,,1
+2024,Udinese,2023-09-02,Frosinone,D,L,,,,2
+2024,Udinese,2023-12-17,Sassuolo,L,D,L,D,W,3
+2024,Udinese,2023-09-24,Fiorentina,D,D,D,L,,3
+2024,Udinese,2024-05-13,Lecce,D,D,L,L,L,5
+2024,Udinese,2023-10-01,Genoa,L,L,D,D,D,3
+2024,Udinese,2023-10-23,Lecce,D,D,L,L,D,3
+2024,Udinese,2023-10-29,Monza,D,D,D,L,L,4
+2024,Udinese,2023-11-04,Milan,D,D,D,D,L,7
+2024,Udinese,2023-11-12,Atalanta,W,D,D,D,D,7
+2024,Udinese,2023-11-26,Roma,D,W,D,D,D,6
+2024,Udinese,2023-12-03,Hellas Verona,L,D,W,D,D,6
+2024,Udinese,2023-12-09,Inter,D,L,D,W,D,5
+2024,Udinese,2024-04-01,Sassuolo,L,W,D,L,D,5
+2024,Udinese,2024-01-20,Milan,D,L,W,D,D,5
+2024,Udinese,2023-12-23,Torino,D,L,D,L,D,3
+2024,Udinese,2024-02-03,Monza,L,L,D,L,W,2
+2024,Udinese,2024-02-12,Juventus,D,L,L,D,L,5
+2024,Udinese,2024-02-18,Cagliari,W,D,L,L,D,5
+2024,Udinese,2024-02-24,Genoa,D,W,D,L,L,5
+2024,Udinese,2024-03-02,Salernitana,L,D,W,D,L,6
+2024,Udinese,2024-03-11,Lazio,D,L,D,W,D,8
+2024,Udinese,2024-03-16,Torino,W,D,L,D,W,5
+2024,Udinese,2024-01-27,Atalanta,L,D,L,W,D,4
+2024,Udinese,2023-10-06,Empoli,D,L,L,D,D,3
+2024,Udinese,2024-01-07,Lazio,W,D,D,L,D,5
+2024,Udinese,2023-12-30,Bologna,D,D,L,D,L,6
+2024,Udinese,2024-04-08,Inter,D,L,W,D,L,5
+2024,Udinese,2023-09-17,Cagliari,D,D,L,,,3
+2024,Udinese,2024-04-25,Roma,L,L,D,L,W,1
+2024,Udinese,2024-04-28,Bologna,L,L,L,D,L,2
+2024,Udinese,2024-05-06,Napoli,D,L,L,L,D,2
+2025,Atalanta,2024-08-25,Torino,W,,,,,3
+2025,Atalanta,2024-10-30,Monza,W,W,W,D,L,13
+2025,Atalanta,2024-10-26,Hellas Verona,W,W,D,L,W,10
+2025,Atalanta,2024-10-20,Venezia,W,D,L,W,L,10
+2025,Atalanta,2024-10-05,Genoa,D,L,W,L,L,7
+2025,Atalanta,2024-09-28,Bologna,L,W,L,L,W,4
+2025,Atalanta,2024-09-24,Como,W,L,L,W,,6
+2025,Atalanta,2024-09-15,Fiorentina,L,L,W,,,6
+2025,Atalanta,2024-12-22,Empoli,W,W,W,W,W,15
+2025,Atalanta,2025-04-06,Lazio,L,L,W,D,W,4
+2025,Atalanta,2024-11-03,Napoli,W,W,W,W,D,15
+2025,Atalanta,2024-11-10,Udinese,W,W,W,W,W,15
+2025,Atalanta,2024-11-23,Parma,W,W,W,W,W,15
+2025,Atalanta,2025-05-25,Parma,W,W,W,D,W,10
+2025,Atalanta,2025-05-17,Genoa,W,W,D,W,W,13
+2025,Atalanta,2025-05-12,Roma,W,D,W,W,L,13
+2025,Atalanta,2025-05-04,Monza,D,W,W,L,L,10
+2025,Atalanta,2025-04-27,Lecce,W,W,L,L,L,7
+2025,Atalanta,2025-04-20,Milan,W,L,L,L,W,6
+2025,Atalanta,2025-04-13,Bologna,L,L,L,W,D,6
+2025,Atalanta,2024-12-02,Roma,W,W,W,W,W,15
+2025,Atalanta,2024-12-06,Milan,W,W,W,W,W,15
+2025,Atalanta,2024-12-14,Cagliari,W,W,W,W,W,15
+2025,Atalanta,2024-12-28,Lazio,W,W,W,W,W,13
+2025,Atalanta,2025-01-11,Udinese,D,W,W,W,W,11
+2025,Atalanta,2025-01-14,Juventus,D,D,W,W,W,9
+2025,Atalanta,2025-01-18,Napoli,D,D,D,W,W,6
+2025,Atalanta,2025-01-25,Como,L,D,D,D,W,6
+2025,Atalanta,2025-02-01,Torino,W,L,D,D,D,6
+2025,Atalanta,2025-02-08,Hellas Verona,D,W,L,D,D,8
+2025,Atalanta,2025-02-15,Cagliari,W,D,W,L,D,8
+2025,Atalanta,2025-02-23,Empoli,D,W,D,W,L,11
+2025,Atalanta,2025-03-01,Venezia,W,D,W,D,W,9
+2025,Atalanta,2025-03-09,Juventus,D,W,D,W,D,11
+2025,Atalanta,2025-03-16,Inter,W,D,W,D,W,8
+2025,Atalanta,2025-03-30,Fiorentina,L,W,D,W,D,7
+2025,Atalanta,2024-08-30,Inter,L,W,,,,3
+2025,Atalanta,2024-08-19,Lecce,,,,,,3
+2025,Bologna,2025-01-25,Empoli,W,D,D,L,W,6
+2025,Bologna,2025-03-29,Venezia,W,W,W,W,L,15
+2025,Bologna,2024-08-25,Napoli,D,,,,,1
+2025,Bologna,2024-08-31,Empoli,L,D,,,,2
+2025,Bologna,2024-09-14,Como,D,L,D,,,3
+2025,Bologna,2024-09-22,Monza,D,D,L,D,,6
+2025,Bologna,2025-04-07,Napoli,W,W,W,W,W,13
+2025,Bologna,2024-10-06,Parma,D,W,D,D,L,7
+2025,Bologna,2024-10-19,Genoa,D,D,W,D,D,7
+2025,Bologna,2024-10-29,Cagliari,D,D,D,W,D,9
+2025,Bologna,2025-01-18,Monza,D,D,L,W,W,8
+2025,Bologna,2025-02-09,Lecce,W,D,W,D,D,9
+2025,Bologna,2025-02-14,Torino,D,W,D,W,D,11
+2025,Bologna,2025-02-22,Parma,W,D,W,D,W,8
+2025,Bologna,2025-02-27,Milan,L,W,D,W,D,10
+2025,Bologna,2025-03-02,Cagliari,W,L,W,D,W,10
+2025,Bologna,2025-03-09,Hellas Verona,W,W,L,W,D,12
+2025,Bologna,2025-03-16,Lazio,W,W,W,L,W,12
+2025,Bologna,2025-02-01,Como,D,W,D,D,L,9
+2025,Bologna,2024-08-18,Udinese,,,,,,1
+2025,Bologna,2025-04-13,Atalanta,D,W,W,W,W,10
+2025,Bologna,2025-04-20,Inter,L,D,W,W,W,10
+2025,Bologna,2025-05-04,Juventus,D,W,L,D,W,6
+2025,Bologna,2025-05-09,Milan,D,D,W,L,D,5
+2025,Bologna,2025-05-18,Fiorentina,L,D,D,W,L,5
+2025,Bologna,2025-05-24,Genoa,L,L,D,D,W,2
+2025,Bologna,2024-11-02,Lecce,W,D,D,D,W,9
+2025,Bologna,2024-11-10,Roma,W,W,D,D,D,11
+2025,Bologna,2024-11-24,Lazio,W,W,W,D,D,10
+2025,Bologna,2024-11-30,Venezia,L,W,W,W,D,12
+2025,Bologna,2024-12-07,Juventus,W,L,W,W,W,10
+2025,Bologna,2024-12-15,Fiorentina,D,W,L,W,W,10
+2025,Bologna,2024-12-21,Torino,W,D,W,L,W,10
+2025,Bologna,2024-12-30,Hellas Verona,W,W,D,W,L,10
+2025,Bologna,2025-01-12,Roma,L,W,W,D,W,8
+2025,Bologna,2025-01-15,Inter,D,L,W,W,D,8
+2025,Bologna,2025-04-28,Udinese,W,L,D,W,W,8
+2025,Bologna,2024-09-28,Atalanta,W,D,D,L,D,6
+2025,Cagliari,2025-01-05,Monza,L,L,L,L,W,3
+2025,Cagliari,2024-10-06,Juventus,W,L,L,L,D,4
+2025,Cagliari,2024-11-09,Milan,L,L,L,W,D,4
+2025,Cagliari,2024-11-24,Genoa,D,L,L,L,W,2
+2025,Cagliari,2024-11-29,Hellas Verona,D,D,L,L,L,5
+2025,Cagliari,2024-12-08,Fiorentina,W,D,D,L,L,5
+2025,Cagliari,2024-12-14,Atalanta,L,W,D,D,L,5
+2025,Cagliari,2024-12-22,Venezia,L,L,W,D,D,4
+2025,Cagliari,2024-12-28,Inter,L,L,L,W,D,3
+2025,Cagliari,2024-11-04,Lazio,L,L,W,D,W,4
+2025,Cagliari,2024-10-25,Udinese,W,D,W,L,L,7
+2025,Cagliari,2024-08-26,Como,D,,,,,2
+2025,Cagliari,2024-10-20,Torino,D,W,L,L,L,7
+2025,Cagliari,2024-09-30,Parma,L,L,L,D,D,4
+2025,Cagliari,2024-08-18,Roma,,,,,,1
+2025,Cagliari,2024-09-20,Empoli,L,L,D,D,,2
+2025,Cagliari,2024-09-15,Napoli,L,D,D,,,2
+2025,Cagliari,2024-08-31,Lecce,D,D,,,,2
+2025,Cagliari,2024-10-29,Bologna,L,W,D,W,L,7
+2025,Cagliari,2025-03-02,Bologna,L,D,W,L,L,4
+2025,Cagliari,2025-03-16,Roma,D,L,L,D,W,2
+2025,Cagliari,2025-03-30,Monza,L,D,L,L,D,4
+2025,Cagliari,2025-04-12,Inter,D,W,L,D,L,5
+2025,Cagliari,2025-04-23,Fiorentina,L,D,W,L,D,4
+2025,Cagliari,2025-04-28,Hellas Verona,L,L,D,W,L,7
+2025,Cagliari,2025-05-03,Udinese,W,L,L,D,W,4
+2025,Cagliari,2025-05-10,Como,L,W,L,L,D,3
+2025,Cagliari,2025-05-18,Venezia,L,L,W,L,L,6
+2025,Cagliari,2025-05-23,Napoli,W,L,L,W,L,6
+2025,Cagliari,2025-03-07,Genoa,L,L,D,W,L,5
+2025,Cagliari,2025-02-23,Juventus,D,W,L,L,W,4
+2025,Cagliari,2025-02-15,Atalanta,W,L,L,W,D,7
+2025,Cagliari,2025-02-09,Parma,L,L,W,D,W,7
+2025,Cagliari,2025-02-03,Lazio,L,W,D,W,L,7
+2025,Cagliari,2025-01-24,Torino,W,D,W,L,L,7
+2025,Cagliari,2025-01-11,Milan,W,L,L,L,L,4
+2025,Cagliari,2025-01-19,Lecce,D,W,L,L,L,7
+2025,Cagliari,2025-04-06,Empoli,W,L,D,L,L,5
+2025,Como,2025-01-14,Milan,D,W,L,W,D,7
+2025,Como,2025-03-15,Milan,D,L,W,W,L,7
+2025,Como,2025-05-18,Hellas Verona,W,W,W,W,W,13
+2025,Como,2025-05-10,Cagliari,W,W,W,W,W,15
+2025,Como,2025-05-03,Parma,W,W,W,W,D,15
+2025,Como,2025-04-27,Genoa,W,W,W,D,L,13
+2025,Como,2025-04-19,Lecce,W,W,D,L,D,10
+2025,Como,2025-04-13,Torino,W,D,L,D,L,8
+2025,Como,2025-04-05,Monza,D,L,D,L,W,5
+2025,Como,2025-03-29,Empoli,L,D,L,W,W,5
+2025,Como,2024-10-19,Parma,L,W,W,D,L,8
+2025,Como,2025-03-02,Roma,W,W,L,L,L,6
+2025,Como,2025-02-23,Napoli,W,L,L,L,W,6
+2025,Como,2025-02-16,Fiorentina,L,L,L,W,L,6
+2025,Como,2025-02-07,Juventus,L,L,W,L,D,3
+2025,Como,2025-02-01,Bologna,L,W,L,D,W,4
+2025,Como,2025-03-08,Venezia,L,W,W,L,L,7
+2025,Como,2025-01-25,Atalanta,W,L,D,W,L,7
+2025,Como,2025-01-20,Udinese,L,D,W,L,W,7
+2025,Como,2024-12-08,Venezia,D,L,D,L,L,3
+2025,Como,2025-05-23,Inter,D,W,W,W,W,10
+2025,Como,2024-09-01,Udinese,D,L,,,,1
+2025,Como,2024-08-19,Juventus,,,,,,0
+2025,Como,2024-08-26,Cagliari,L,,,,,1
+2025,Como,2024-10-04,Napoli,W,W,D,L,D,7
+2025,Como,2025-01-10,Lazio,W,L,W,D,D,8
+2025,Como,2024-10-25,Torino,D,L,W,W,D,7
+2025,Como,2024-12-23,Inter,W,D,D,L,D,5
+2025,Como,2024-12-15,Roma,D,D,L,D,L,6
+2025,Como,2024-12-30,Lecce,L,W,D,D,L,8
+2025,Como,2024-11-30,Monza,L,D,L,L,L,2
+2025,Como,2024-11-24,Fiorentina,D,L,L,L,D,1
+2025,Como,2024-11-07,Genoa,L,L,L,D,L,2
+2025,Como,2024-11-04,Empoli,L,L,D,L,W,1
+2025,Como,2024-09-14,Bologna,L,D,L,,,2
+2025,Como,2024-09-24,Atalanta,D,L,D,L,,5
+2025,Como,2024-09-29,Hellas Verona,W,D,L,D,L,8
+2025,Como,2024-10-31,Lazio,L,D,L,W,W,4
+2025,Empoli,2025-02-16,Udinese,L,L,D,L,L,1
+2025,Empoli,2025-04-14,Napoli,D,D,L,L,D,2
+2025,Empoli,2025-04-06,Cagliari,D,L,L,D,L,3
+2025,Empoli,2024-08-17,Monza,,,,,,1
+2025,Empoli,2025-03-29,Como,L,L,D,L,L,2
+2025,Empoli,2024-12-08,Hellas Verona,L,D,D,W,L,8
+2025,Empoli,2025-03-15,Torino,L,D,L,L,L,1
+2025,Empoli,2025-03-09,Roma,D,L,L,L,L,1
+2025,Empoli,2025-03-02,Genoa,L,L,L,L,D,1
+2025,Empoli,2025-02-23,Atalanta,L,L,L,D,L,1
+2025,Empoli,2025-04-20,Venezia,L,D,D,L,L,3
+2025,Empoli,2025-02-08,Milan,L,D,L,L,D,1
+2025,Empoli,2025-02-02,Juventus,D,L,L,D,L,2
+2025,Empoli,2025-01-25,Bologna,L,L,D,L,L,2
+2025,Empoli,2025-01-19,Inter,L,D,L,L,L,1
+2025,Empoli,2025-01-11,Lecce,D,L,L,L,W,1
+2025,Empoli,2025-01-04,Venezia,L,L,L,W,L,4
+2025,Empoli,2024-12-28,Genoa,L,L,W,L,D,3
+2025,Empoli,2024-12-22,Atalanta,L,W,L,D,D,4
+2025,Empoli,2024-11-30,Milan,D,D,W,L,D,5
+2025,Empoli,2024-09-20,Cagliari,D,D,W,D,,9
+2025,Empoli,2024-09-29,Fiorentina,W,D,D,W,D,9
+2025,Empoli,2024-10-06,Lazio,D,W,D,D,W,6
+2025,Empoli,2024-10-20,Napoli,L,D,W,D,D,5
+2025,Empoli,2024-10-27,Parma,L,L,D,W,D,5
+2025,Empoli,2024-10-30,Inter,D,L,L,D,W,2
+2025,Empoli,2024-11-04,Como,L,D,L,L,D,4
+2025,Empoli,2024-11-08,Lecce,W,L,D,L,L,5
+2025,Empoli,2024-11-25,Udinese,D,W,L,D,L,6
+2025,Empoli,2024-09-14,Juventus,D,W,D,,,6
+2025,Empoli,2024-12-13,Torino,W,L,D,D,W,5
+2025,Empoli,2024-08-31,Bologna,W,D,,,,5
+2025,Empoli,2024-08-25,Roma,D,,,,,4
+2025,Empoli,2025-05-25,Hellas Verona,W,W,L,L,D,6
+2025,Empoli,2025-05-18,Monza,W,L,L,D,L,7
+2025,Empoli,2025-05-10,Parma,L,L,D,L,D,4
+2025,Empoli,2025-05-04,Lazio,L,D,L,D,D,2
+2025,Empoli,2025-04-27,Fiorentina,D,L,D,D,L,3
+2025,Fiorentina,2025-04-05,Milan,W,W,L,W,L,10
+2025,Fiorentina,2025-01-19,Torino,L,L,D,L,L,2
+2025,Fiorentina,2025-01-26,Lazio,D,L,L,D,L,5
+2025,Fiorentina,2025-02-02,Genoa,W,D,L,L,D,7
+2025,Fiorentina,2025-02-10,Inter,W,W,D,L,L,7
+2025,Fiorentina,2025-02-16,Como,L,W,W,D,L,7
+2025,Fiorentina,2025-02-23,Hellas Verona,L,L,W,W,D,6
+2025,Fiorentina,2025-02-28,Lecce,L,L,L,W,W,6
+2025,Fiorentina,2025-03-16,Juventus,L,W,L,L,L,6
+2025,Fiorentina,2024-10-20,Lecce,W,D,W,L,D,10
+2025,Fiorentina,2025-03-30,Atalanta,W,L,W,L,L,9
+2025,Fiorentina,2024-08-17,Parma,,,,,,1
+2025,Fiorentina,2024-08-25,Venezia,D,,,,,2
+2025,Fiorentina,2024-09-01,Monza,D,D,,,,3
+2025,Fiorentina,2024-09-15,Atalanta,D,D,D,,,3
+2025,Fiorentina,2024-09-22,Lazio,L,D,D,D,,6
+2025,Fiorentina,2024-10-06,Milan,D,W,L,D,D,8
+2025,Fiorentina,2025-05-04,Roma,W,W,D,D,W,8
+2025,Fiorentina,2025-05-25,Udinese,W,L,L,W,W,9
+2025,Fiorentina,2024-12-29,Juventus,L,L,W,W,W,7
+2025,Fiorentina,2025-05-18,Bologna,L,L,W,W,D,9
+2025,Fiorentina,2024-10-31,Genoa,W,W,W,D,W,13
+2025,Fiorentina,2024-11-03,Torino,W,W,W,W,D,15
+2025,Fiorentina,2024-11-10,Hellas Verona,W,W,W,W,W,15
+2025,Fiorentina,2024-11-24,Como,W,W,W,W,W,15
+2025,Fiorentina,2024-12-08,Cagliari,W,W,W,W,W,15
+2025,Fiorentina,2024-12-15,Bologna,W,W,W,W,W,12
+2025,Fiorentina,2024-12-23,Udinese,L,W,W,W,W,9
+2025,Fiorentina,2024-10-27,Roma,W,W,D,W,L,13
+2025,Fiorentina,2025-01-04,Napoli,D,L,L,W,W,4
+2025,Fiorentina,2025-01-13,Monza,L,D,L,L,W,1
+2025,Fiorentina,2024-09-29,Empoli,W,L,D,D,D,6
+2025,Fiorentina,2025-04-13,Parma,D,W,W,L,W,8
+2025,Fiorentina,2025-04-23,Cagliari,D,D,W,W,L,11
+2025,Fiorentina,2025-04-27,Empoli,W,D,D,W,W,11
+2025,Fiorentina,2025-05-12,Venezia,L,W,W,D,D,7
+2025,Fiorentina,2025-03-09,Napoli,W,L,L,L,W,3
+2025,Genoa,2024-09-21,Venezia,D,L,W,D,,5
+2025,Genoa,2025-01-27,Monza,L,W,D,W,L,10
+2025,Genoa,2025-01-17,Roma,W,D,W,L,D,7
+2025,Genoa,2025-01-12,Parma,D,W,L,D,D,8
+2025,Genoa,2025-01-05,Lecce,W,L,D,D,W,6
+2025,Genoa,2024-12-28,Empoli,L,D,D,W,D,8
+2025,Genoa,2024-12-21,Napoli,D,D,W,D,D,6
+2025,Genoa,2024-09-01,Hellas Verona,W,D,,,,4
+2025,Genoa,2024-08-24,Monza,D,,,,,4
+2025,Genoa,2024-09-15,Roma,L,W,D,,,5
+2025,Genoa,2025-02-02,Fiorentina,W,L,W,D,W,7
+2025,Genoa,2024-09-28,Juventus,L,D,L,W,D,4
+2025,Genoa,2024-11-07,Como,W,L,L,D,L,5
+2025,Genoa,2024-11-24,Cagliari,D,W,L,L,D,5
+2025,Genoa,2024-12-01,Udinese,D,D,W,L,L,8
+2025,Genoa,2024-10-31,Fiorentina,L,D,L,L,L,1
+2025,Genoa,2024-10-27,Lazio,D,L,L,L,D,1
+2025,Genoa,2024-10-19,Bologna,L,L,L,D,L,2
+2025,Genoa,2024-10-05,Atalanta,L,L,D,L,W,1
+2025,Genoa,2025-04-23,Lazio,D,W,L,W,D,7
+2025,Genoa,2024-12-15,Milan,D,W,D,D,W,7
+2025,Genoa,2024-11-04,Parma,L,L,D,L,L,4
+2025,Genoa,2025-02-17,Venezia,D,L,W,L,W,7
+2025,Genoa,2024-12-07,Torino,W,D,D,W,L,9
+2025,Genoa,2025-05-24,Bologna,L,D,L,L,L,4
+2025,Genoa,2025-05-17,Atalanta,D,L,L,L,D,1
+2025,Genoa,2025-05-11,Napoli,L,L,L,D,W,2
+2025,Genoa,2025-05-05,Milan,L,L,D,W,L,4
+2025,Genoa,2025-04-27,Como,L,D,W,L,W,4
+2025,Genoa,2024-08-17,Inter,,,,,,1
+2025,Genoa,2025-04-13,Hellas Verona,W,L,W,D,D,8
+2025,Genoa,2025-04-04,Udinese,L,W,D,D,L,8
+2025,Genoa,2025-03-29,Juventus,W,D,D,L,W,5
+2025,Genoa,2025-03-14,Lecce,D,D,L,W,D,8
+2025,Genoa,2025-03-07,Cagliari,D,L,W,D,L,6
+2025,Genoa,2025-03-02,Empoli,L,W,D,L,W,5
+2025,Genoa,2025-02-22,Inter,W,D,L,W,L,7
+2025,Genoa,2025-02-08,Torino,L,W,L,W,D,7
+2025,Hellas Verona,2024-09-29,Como,L,L,W,L,W,3
+2025,Hellas Verona,2025-03-31,Parma,W,L,L,W,L,7
+2025,Hellas Verona,2024-11-29,Cagliari,L,L,W,L,L,3
+2025,Hellas Verona,2024-11-23,Inter,L,W,L,L,L,3
+2025,Hellas Verona,2024-11-10,Fiorentina,W,L,L,L,W,3
+2025,Hellas Verona,2025-02-15,Milan,L,W,D,L,L,4
+2025,Hellas Verona,2024-10-29,Lecce,L,L,W,L,L,3
+2025,Hellas Verona,2024-10-26,Atalanta,L,W,L,L,L,3
+2025,Hellas Verona,2024-10-21,Monza,W,L,L,L,W,3
+2025,Hellas Verona,2024-10-04,Venezia,L,L,L,W,L,6
+2025,Hellas Verona,2024-12-15,Parma,L,L,L,L,W,3
+2025,Hellas Verona,2024-09-20,Torino,L,W,L,W,,6
+2025,Hellas Verona,2024-09-16,Lazio,W,L,W,,,6
+2025,Hellas Verona,2025-02-23,Fiorentina,L,L,W,D,L,7
+2025,Hellas Verona,2025-01-12,Napoli,D,W,L,W,L,7
+2025,Hellas Verona,2025-01-19,Lazio,L,D,W,L,W,4
+2025,Hellas Verona,2025-01-27,Venezia,L,L,D,W,L,5
+2025,Hellas Verona,2025-02-01,Monza,D,L,L,D,W,5
+2025,Hellas Verona,2025-02-08,Atalanta,W,D,L,L,D,4
+2025,Hellas Verona,2025-04-28,Cagliari,L,D,D,D,W,3
+2025,Hellas Verona,2025-03-03,Juventus,W,L,L,W,D,6
+2025,Hellas Verona,2024-12-08,Empoli,L,L,L,W,L,3
+2025,Hellas Verona,2025-03-15,Udinese,L,L,W,L,L,6
+2025,Hellas Verona,2025-03-09,Bologna,L,W,L,L,W,3
+2025,Hellas Verona,2024-08-18,Napoli,,,,,,3
+2025,Hellas Verona,2025-04-13,Genoa,D,D,W,L,L,6
+2025,Hellas Verona,2025-04-19,Roma,D,D,D,W,L,6
+2025,Hellas Verona,2024-09-01,Genoa,L,W,,,,6
+2025,Hellas Verona,2024-08-26,Juventus,W,,,,,3
+2025,Hellas Verona,2025-04-06,Torino,D,W,L,L,W,5
+2025,Hellas Verona,2025-05-03,Inter,L,L,D,D,D,2
+2025,Hellas Verona,2025-05-11,Lecce,L,L,L,D,D,2
+2025,Hellas Verona,2025-05-18,Como,D,L,L,L,D,2
+2025,Hellas Verona,2025-05-25,Empoli,D,D,L,L,L,5
+2025,Hellas Verona,2024-11-03,Roma,L,L,L,W,L,6
+2025,Hellas Verona,2025-01-04,Udinese,W,L,W,L,L,7
+2025,Hellas Verona,2024-12-30,Bologna,L,W,L,L,L,6
+2025,Hellas Verona,2024-12-20,Milan,W,L,L,L,L,3
+2025,Internazionale,2024-10-27,Juventus,W,W,W,L,D,10
+2025,Internazionale,2025-01-12,Venezia,W,W,W,W,W,15
+2025,Internazionale,2024-12-28,Cagliari,W,W,W,W,D,15
+2025,Internazionale,2025-04-05,Parma,W,W,W,D,W,11
+2025,Internazionale,2024-12-16,Lazio,W,W,D,W,W,13
+2025,Internazionale,2024-12-06,Parma,W,D,W,W,D,13
+2025,Internazionale,2024-11-23,Hellas Verona,D,W,W,D,W,11
+2025,Internazionale,2024-11-10,Napoli,W,W,D,W,W,11
+2025,Internazionale,2024-11-03,Venezia,W,D,W,W,W,13
+2025,Internazionale,2025-01-26,Lecce,W,D,W,W,W,13
+2025,Internazionale,2025-01-15,Bologna,W,W,W,W,W,13
+2025,Internazionale,2024-10-20,Roma,W,W,L,D,W,10
+2025,Internazionale,2024-10-05,Torino,W,L,D,W,W,10
+2025,Internazionale,2024-09-28,Udinese,L,D,W,W,D,10
+2025,Internazionale,2024-09-22,Milan,D,W,W,D,,8
+2025,Internazionale,2024-09-15,Monza,W,W,D,,,8
+2025,Internazionale,2025-02-02,Milan,W,W,D,W,W,11
+2025,Internazionale,2025-02-10,Fiorentina,D,W,W,D,W,11
+2025,Internazionale,2024-08-17,Genoa,,,,,,1
+2025,Internazionale,2025-02-16,Juventus,W,D,W,W,D,10
+2025,Internazionale,2025-05-18,Lazio,W,W,L,L,W,7
+2025,Internazionale,2025-05-23,Como,D,W,W,L,L,10
+2025,Internazionale,2024-08-30,Atalanta,W,D,,,,7
+2025,Internazionale,2025-05-03,Hellas Verona,L,L,W,D,W,7
+2025,Internazionale,2025-04-27,Roma,L,W,D,W,W,7
+2025,Internazionale,2025-04-20,Bologna,W,D,W,W,W,10
+2025,Internazionale,2024-08-24,Lecce,D,,,,,4
+2025,Internazionale,2025-04-12,Cagliari,D,W,W,W,D,13
+2025,Internazionale,2025-05-11,Torino,W,L,L,W,D,9
+2025,Internazionale,2024-12-23,Como,W,W,W,D,W,13
+2025,Internazionale,2025-03-30,Udinese,W,W,D,W,L,13
+2025,Internazionale,2025-03-16,Atalanta,W,D,W,L,W,10
+2025,Internazionale,2025-03-08,Monza,D,W,L,W,D,10
+2025,Internazionale,2025-03-01,Napoli,W,L,W,D,W,8
+2025,Internazionale,2025-02-22,Genoa,L,W,D,W,W,10
+2025,Internazionale,2024-10-30,Empoli,D,W,W,W,L,13
+2025,Internazionale,2025-01-19,Empoli,D,W,W,W,W,13
+2025,Juventus,2024-12-22,Monza,D,D,D,D,W,7
+2025,Juventus,2024-12-14,Venezia,D,D,D,W,W,7
+2025,Juventus,2025-02-07,Como,W,L,W,D,D,10
+2025,Juventus,2025-02-02,Empoli,L,W,D,D,D,8
+2025,Juventus,2024-08-19,Como,,,,,,3
+2025,Juventus,2025-01-25,Napoli,W,D,D,D,W,6
+2025,Juventus,2025-01-18,Milan,D,D,D,W,D,9
+2025,Juventus,2025-01-14,Atalanta,D,D,W,D,D,7
+2025,Juventus,2025-01-11,Torino,D,W,D,D,D,7
+2025,Juventus,2024-12-29,Fiorentina,W,D,D,D,D,7
+2025,Juventus,2025-03-29,Genoa,L,L,W,W,W,9
+2025,Juventus,2024-08-26,Hellas Verona,W,,,,,6
+2025,Juventus,2024-09-14,Empoli,D,W,W,,,8
+2025,Juventus,2024-09-21,Napoli,D,D,W,W,,9
+2025,Juventus,2024-09-28,Genoa,D,D,D,W,W,9
+2025,Juventus,2024-10-06,Cagliari,W,D,D,D,W,7
+2025,Juventus,2024-10-19,Lazio,D,W,D,D,D,9
+2025,Juventus,2024-10-27,Inter,W,D,W,D,D,9
+2025,Juventus,2024-10-30,Parma,D,W,D,W,D,9
+2025,Juventus,2024-11-02,Udinese,D,D,W,D,W,9
+2025,Juventus,2024-11-09,Torino,W,D,D,W,D,11
+2025,Juventus,2024-11-23,Milan,W,W,D,D,W,9
+2025,Juventus,2024-09-01,Roma,W,W,,,,7
+2025,Juventus,2024-12-07,Bologna,D,D,W,W,D,9
+2025,Juventus,2024-12-01,Lecce,D,W,W,D,D,9
+2025,Juventus,2025-05-25,Venezia,W,D,D,W,L,11
+2025,Juventus,2025-05-18,Udinese,D,D,W,L,W,8
+2025,Juventus,2025-05-10,Lazio,D,W,L,W,D,8
+2025,Juventus,2025-02-23,Cagliari,W,W,W,L,W,12
+2025,Juventus,2025-03-03,Hellas Verona,W,W,W,W,L,15
+2025,Juventus,2025-03-09,Atalanta,W,W,W,W,W,12
+2025,Juventus,2025-03-16,Fiorentina,L,W,W,W,W,9
+2025,Juventus,2025-02-16,Inter,W,W,L,W,D,12
+2025,Juventus,2025-05-04,Bologna,W,L,W,D,W,8
+2025,Juventus,2025-04-27,Monza,L,W,D,W,L,10
+2025,Juventus,2025-04-23,Parma,W,D,W,L,L,7
+2025,Juventus,2025-04-12,Lecce,D,W,L,L,W,7
+2025,Juventus,2025-04-06,Roma,W,L,L,W,W,7
+2025,Lazio,2024-11-10,Monza,W,W,W,L,W,12
+2025,Lazio,2024-08-31,Milan,L,W,,,,4
+2025,Lazio,2024-08-24,Udinese,W,,,,,3
+2025,Lazio,2024-09-16,Hellas Verona,D,L,W,,,7
+2025,Lazio,2024-09-22,Fiorentina,W,D,L,W,,7
+2025,Lazio,2024-10-06,Empoli,W,L,W,D,L,10
+2025,Lazio,2024-10-19,Juventus,W,W,L,W,D,9
+2025,Lazio,2024-08-18,Venezia,,,,,,3
+2025,Lazio,2024-10-27,Genoa,L,W,W,L,W,9
+2025,Lazio,2024-10-31,Como,W,L,W,W,L,12
+2025,Lazio,2024-09-29,Torino,L,W,D,L,W,7
+2025,Lazio,2024-11-04,Cagliari,W,W,L,W,W,12
+2025,Lazio,2025-01-05,Roma,D,W,L,W,L,7
+2025,Lazio,2024-12-28,Atalanta,W,L,W,L,W,7
+2025,Lazio,2024-12-21,Lecce,L,W,L,W,W,9
+2025,Lazio,2024-12-16,Inter,W,L,W,W,W,9
+2025,Lazio,2024-12-08,Napoli,L,W,W,W,W,12
+2025,Lazio,2024-12-01,Parma,W,W,W,W,W,12
+2025,Lazio,2024-11-24,Bologna,W,W,W,W,L,15
+2025,Lazio,2025-04-28,Parma,W,D,W,D,L,9
+2025,Lazio,2025-03-16,Bologna,D,W,D,D,W,6
+2025,Lazio,2025-01-19,Hellas Verona,D,L,D,W,L,8
+2025,Lazio,2025-01-26,Fiorentina,W,D,L,D,W,5
+2025,Lazio,2025-02-03,Cagliari,L,W,D,L,D,7
+2025,Lazio,2025-02-09,Monza,W,L,W,D,L,10
+2025,Lazio,2025-02-15,Napoli,W,W,L,W,D,10
+2025,Lazio,2025-02-22,Venezia,D,W,W,L,W,8
+2025,Lazio,2025-03-02,Milan,D,D,W,W,L,11
+2025,Lazio,2025-03-10,Udinese,W,D,D,W,W,9
+2025,Lazio,2025-05-10,Juventus,W,D,W,D,W,9
+2025,Lazio,2025-03-31,Torino,L,D,W,D,D,6
+2025,Lazio,2025-04-06,Atalanta,D,L,D,W,D,8
+2025,Lazio,2025-04-13,Roma,W,D,L,D,W,6
+2025,Lazio,2025-04-23,Genoa,D,W,D,L,D,8
+2025,Lazio,2025-05-04,Empoli,D,W,D,W,D,11
+2025,Lazio,2025-01-10,Como,L,D,W,L,W,5
+2025,Lazio,2025-05-18,Inter,D,W,D,W,D,9
+2025,Lazio,2025-05-25,Lecce,D,D,W,D,W,6
+2025,Lecce,2025-01-19,Cagliari,W,D,L,L,W,4
+2025,Lecce,2025-04-06,Venezia,L,L,L,L,L,1
+2025,Lecce,2025-03-29,Roma,L,L,L,L,D,0
+2025,Lecce,2025-03-14,Genoa,L,L,L,D,D,1
+2025,Lecce,2025-03-08,Milan,L,L,D,D,W,2
+2025,Lecce,2025-02-28,Fiorentina,L,D,D,W,L,5
+2025,Lecce,2025-02-16,Monza,D,W,L,L,W,5
+2025,Lecce,2025-02-09,Bologna,W,L,L,W,D,7
+2025,Lecce,2025-01-31,Parma,L,L,W,D,L,7
+2025,Lecce,2024-11-25,Venezia,D,L,W,L,L,7
+2025,Lecce,2025-04-12,Juventus,D,L,L,L,L,1
+2025,Lecce,2025-01-11,Empoli,D,L,L,W,L,7
+2025,Lecce,2025-01-05,Genoa,L,L,W,L,D,4
+2025,Lecce,2024-12-30,Como,L,W,L,D,W,4
+2025,Lecce,2024-12-21,Lazio,W,L,D,W,D,7
+2025,Lecce,2024-12-15,Monza,L,D,W,D,L,8
+2025,Lecce,2024-12-07,Roma,D,W,D,L,W,5
+2025,Lecce,2024-12-01,Juventus,W,D,L,W,L,8
+2025,Lecce,2024-11-02,Bologna,W,L,L,L,L,3
+2025,Lecce,2024-08-31,Cagliari,L,L,,,,3
+2025,Lecce,2025-04-27,Atalanta,L,L,D,L,L,2
+2025,Lecce,2025-05-03,Napoli,D,L,L,D,L,2
+2025,Lecce,2025-05-11,Hellas Verona,L,D,L,L,D,2
+2025,Lecce,2025-05-18,Torino,D,L,D,L,L,5
+2025,Lecce,2025-05-25,Lazio,W,D,L,D,L,8
+2025,Lecce,2025-02-21,Udinese,D,D,W,L,L,5
+2025,Lecce,2024-11-08,Empoli,L,W,L,L,L,4
+2025,Lecce,2024-08-19,Atalanta,,,,,,0
+2025,Lecce,2024-08-24,Inter,L,,,,,0
+2025,Lecce,2024-10-29,Hellas Verona,L,L,L,L,D,3
+2025,Lecce,2024-09-15,Torino,W,L,L,,,4
+2025,Lecce,2024-09-21,Parma,D,W,L,L,,5
+2025,Lecce,2024-09-27,Milan,D,D,W,L,L,5
+2025,Lecce,2024-10-05,Udinese,L,D,D,W,L,5
+2025,Lecce,2024-10-20,Fiorentina,L,L,D,D,W,2
+2025,Lecce,2024-10-26,Napoli,L,L,L,D,D,1
+2025,Lecce,2025-04-19,Como,L,D,L,L,L,1
+2025,Lecce,2025-01-26,Inter,L,W,D,L,L,4
+2025,Milan,2025-04-11,Udinese,D,L,W,W,L,10
+2025,Milan,2024-10-19,Udinese,L,W,W,W,D,12
+2025,Milan,2024-10-06,Fiorentina,W,W,W,D,L,10
+2025,Milan,2024-09-27,Lecce,W,W,D,L,D,10
+2025,Milan,2024-09-22,Inter,W,D,L,D,,8
+2025,Milan,2024-09-14,Venezia,D,L,D,,,5
+2025,Milan,2024-08-31,Lazio,L,D,,,,2
+2025,Milan,2024-08-24,Parma,D,,,,,1
+2025,Milan,2025-04-05,Fiorentina,L,W,W,L,L,7
+2025,Milan,2024-08-17,Torino,,,,,,1
+2025,Milan,2024-11-23,Juventus,D,W,L,W,L,8
+2025,Milan,2025-04-20,Atalanta,W,D,L,W,W,7
+2025,Milan,2025-04-27,Venezia,L,W,D,L,W,7
+2025,Milan,2025-05-05,Genoa,W,L,W,D,L,10
+2025,Milan,2025-05-09,Bologna,W,W,L,W,D,12
+2025,Milan,2025-05-18,Roma,W,W,W,L,W,9
+2025,Milan,2025-05-24,Monza,L,W,W,W,L,12
+2025,Milan,2024-11-02,Monza,L,W,L,W,W,9
+2025,Milan,2024-11-09,Cagliari,W,L,W,L,W,7
+2025,Milan,2025-02-08,Empoli,D,W,L,W,D,10
+2025,Milan,2024-11-30,Empoli,D,D,W,L,W,8
+2025,Milan,2024-12-15,Genoa,L,W,D,D,W,6
+2025,Milan,2024-12-20,Hellas Verona,D,L,W,D,D,8
+2025,Milan,2024-12-29,Roma,W,D,L,W,D,8
+2025,Milan,2025-01-11,Cagliari,D,W,D,L,W,6
+2025,Milan,2025-03-30,Napoli,W,W,L,L,L,6
+2025,Milan,2025-01-18,Juventus,W,D,D,W,D,8
+2025,Milan,2025-01-26,Parma,L,W,D,D,W,8
+2025,Milan,2025-02-02,Inter,W,L,W,D,D,8
+2025,Milan,2024-12-06,Atalanta,W,D,D,W,L,8
+2025,Milan,2025-02-15,Hellas Verona,W,D,W,L,W,10
+2025,Milan,2025-02-22,Torino,W,W,D,W,L,10
+2025,Milan,2025-02-27,Bologna,L,W,W,D,W,7
+2025,Milan,2025-03-02,Lazio,L,L,W,W,D,6
+2025,Milan,2025-03-08,Lecce,L,L,L,W,W,6
+2025,Milan,2024-10-29,Napoli,W,L,W,W,W,9
+2025,Milan,2025-03-15,Como,W,L,L,L,W,6
+2025,Milan,2025-01-14,Como,D,D,W,D,L,9
+2025,Monza,2025-05-18,Empoli,W,L,L,L,L,3
+2025,Monza,2024-10-30,Atalanta,D,W,D,L,L,5
+2025,Monza,2024-10-27,Venezia,W,D,L,L,D,5
+2025,Monza,2024-10-21,Hellas Verona,D,L,L,D,D,5
+2025,Monza,2024-09-29,Napoli,L,D,D,L,D,2
+2025,Monza,2025-04-05,Como,L,D,L,L,L,1
+2025,Monza,2025-03-08,Inter,L,L,D,L,L,1
+2025,Monza,2025-03-15,Parma,L,L,L,D,L,2
+2025,Monza,2025-03-30,Cagliari,D,L,L,L,D,1
+2025,Monza,2025-05-11,Udinese,L,L,L,L,L,3
+2025,Monza,2025-01-27,Genoa,L,W,L,L,L,3
+2025,Monza,2025-05-24,Milan,L,W,L,L,L,3
+2025,Monza,2024-08-24,Genoa,D,,,,,1
+2025,Monza,2025-04-19,Napoli,L,L,L,D,L,1
+2025,Monza,2025-04-27,Juventus,L,L,L,L,D,0
+2025,Monza,2025-05-04,Atalanta,L,L,L,L,L,0
+2025,Monza,2025-02-24,Roma,D,L,L,L,L,1
+2025,Monza,2025-04-12,Venezia,L,L,D,L,L,1
+2025,Monza,2024-08-17,Empoli,,,,,,1
+2025,Monza,2025-01-05,Cagliari,L,L,L,L,D,0
+2025,Monza,2025-02-09,Lazio,L,L,L,W,L,3
+2025,Monza,2025-02-01,Hellas Verona,L,L,W,L,L,3
+2025,Monza,2024-10-06,Roma,L,L,D,D,L,3
+2025,Monza,2024-12-09,Udinese,D,D,L,L,L,2
+2025,Monza,2024-09-01,Fiorentina,L,D,,,,2
+2025,Monza,2024-09-15,Inter,D,L,D,,,3
+2025,Monza,2024-11-02,Milan,L,D,W,D,L,5
+2025,Monza,2025-01-18,Bologna,W,L,L,L,L,3
+2025,Monza,2025-01-13,Fiorentina,L,L,L,L,L,3
+2025,Monza,2025-02-16,Lecce,L,L,L,L,W,1
+2025,Monza,2024-12-28,Parma,L,L,L,D,D,1
+2025,Monza,2024-12-22,Juventus,L,L,D,D,L,2
+2025,Monza,2024-12-15,Lecce,L,D,D,L,L,2
+2025,Monza,2025-03-02,Torino,L,D,L,L,L,1
+2025,Monza,2024-11-30,Como,D,L,L,L,D,2
+2025,Monza,2024-11-24,Torino,L,L,L,D,W,2
+2025,Monza,2024-09-22,Bologna,D,D,L,D,,3
+2025,Monza,2024-11-10,Lazio,L,L,D,W,D,4
+2025,Napoli,2025-05-03,Lecce,W,W,W,D,W,13
+2025,Napoli,2024-09-15,Cagliari,W,W,L,,,9
+2025,Napoli,2024-08-31,Parma,W,L,,,,6
+2025,Napoli,2024-08-25,Bologna,L,,,,,3
+2025,Napoli,2024-08-18,Hellas Verona,,,,,,0
+2025,Napoli,2025-04-27,Torino,W,W,D,W,D,13
+2025,Napoli,2024-12-14,Udinese,L,W,W,D,L,10
+2025,Napoli,2025-02-23,Como,D,D,D,W,W,6
+2025,Napoli,2025-02-09,Udinese,D,W,W,W,W,11
+2025,Napoli,2024-09-21,Juventus,W,W,W,L,,10
+2025,Napoli,2025-03-09,Fiorentina,D,L,D,D,D,6
+2025,Napoli,2024-12-21,Genoa,W,L,W,W,D,12
+2025,Napoli,2024-12-29,Venezia,W,W,L,W,W,12
+2025,Napoli,2025-01-04,Fiorentina,W,W,W,L,W,12
+2025,Napoli,2025-01-12,Hellas Verona,W,W,W,W,L,15
+2025,Napoli,2025-01-18,Atalanta,W,W,W,W,W,15
+2025,Napoli,2025-01-25,Juventus,W,W,W,W,W,15
+2025,Napoli,2025-02-02,Roma,W,W,W,W,W,13
+2025,Napoli,2025-02-15,Lazio,D,D,W,W,W,9
+2025,Napoli,2024-12-01,Torino,W,D,L,W,W,10
+2025,Napoli,2025-04-14,Empoli,D,W,D,W,D,11
+2025,Napoli,2025-05-23,Cagliari,D,D,W,W,W,11
+2025,Napoli,2025-04-07,Bologna,W,D,W,D,L,9
+2025,Napoli,2025-03-01,Inter,L,D,D,D,W,4
+2025,Napoli,2025-05-18,Parma,D,W,W,W,W,11
+2025,Napoli,2024-09-29,Monza,D,W,W,W,L,13
+2025,Napoli,2024-10-04,Como,W,D,W,W,W,13
+2025,Napoli,2025-04-19,Monza,W,D,W,D,W,11
+2025,Napoli,2024-10-20,Empoli,W,W,D,W,W,13
+2025,Napoli,2024-12-08,Lazio,W,W,D,L,W,7
+2025,Napoli,2024-11-24,Roma,D,L,W,W,W,10
+2025,Napoli,2024-11-10,Inter,L,W,W,W,W,10
+2025,Napoli,2024-11-03,Atalanta,W,W,W,W,W,12
+2025,Napoli,2024-10-29,Milan,W,W,W,W,D,15
+2025,Napoli,2024-10-26,Lecce,W,W,W,D,W,13
+2025,Napoli,2025-05-11,Genoa,W,W,W,W,D,13
+2025,Napoli,2025-03-30,Milan,D,W,D,L,D,8
+2025,Napoli,2025-03-16,Venezia,W,D,L,D,D,6
+2025,Parma,2025-04-13,Fiorentina,D,D,D,D,L,5
+2025,Parma,2024-08-24,Milan,D,,,,,4
+2025,Parma,2024-08-17,Fiorentina,,,,,,1
+2025,Parma,2024-11-09,Venezia,L,D,D,D,D,6
+2025,Parma,2025-02-22,Bologna,L,L,L,L,D,3
+2025,Parma,2025-05-18,Napoli,L,L,D,W,D,5
+2025,Parma,2025-05-10,Empoli,L,D,W,D,D,5
+2025,Parma,2025-05-03,Como,D,W,D,D,D,6
+2025,Parma,2025-04-28,Lazio,W,D,D,D,D,7
+2025,Parma,2025-04-23,Juventus,D,D,D,D,D,7
+2025,Parma,2024-08-31,Napoli,W,D,,,,4
+2025,Parma,2025-04-05,Inter,D,D,D,L,W,4
+2025,Parma,2025-03-31,Hellas Verona,D,D,L,W,L,6
+2025,Parma,2025-03-15,Monza,D,L,W,L,L,5
+2025,Parma,2025-03-08,Torino,L,W,L,L,L,4
+2025,Parma,2025-03-01,Udinese,W,L,L,L,L,3
+2025,Parma,2025-02-16,Roma,L,L,L,D,L,1
+2025,Parma,2025-02-09,Cagliari,L,L,D,L,D,1
+2025,Parma,2025-01-26,Milan,D,L,D,W,L,5
+2025,Parma,2025-01-31,Lecce,L,D,L,D,W,2
+2025,Parma,2024-12-01,Lazio,L,W,L,D,D,7
+2025,Parma,2024-12-06,Inter,W,L,W,L,D,6
+2025,Parma,2024-12-15,Hellas Verona,L,W,L,W,L,6
+2025,Parma,2024-12-22,Roma,L,L,W,L,W,3
+2025,Parma,2024-12-28,Monza,L,L,L,W,L,6
+2025,Parma,2025-05-25,Atalanta,D,L,L,D,W,5
+2025,Parma,2025-01-05,Torino,W,L,L,L,W,4
+2025,Parma,2025-01-12,Genoa,D,W,L,L,L,4
+2025,Parma,2025-01-19,Venezia,L,D,W,L,L,5
+2025,Parma,2024-11-23,Atalanta,W,L,D,D,D,5
+2025,Parma,2024-11-04,Genoa,D,D,D,D,L,4
+2025,Parma,2024-10-30,Juventus,D,D,D,L,D,4
+2025,Parma,2024-10-27,Empoli,D,D,L,D,L,4
+2025,Parma,2024-10-19,Como,D,L,D,L,L,3
+2025,Parma,2024-10-06,Bologna,L,D,L,L,W,2
+2025,Parma,2024-09-30,Cagliari,D,L,L,W,D,4
+2025,Parma,2024-09-21,Lecce,L,L,W,D,,5
+2025,Parma,2024-09-16,Udinese,L,W,D,,,4
+2025,Roma,2024-09-29,Venezia,W,D,D,L,D,8
+2025,Roma,2025-04-19,Hellas Verona,D,D,W,W,W,11
+2025,Roma,2025-04-13,Lazio,D,W,W,W,W,11
+2025,Roma,2025-02-24,Monza,W,W,D,W,W,13
+2025,Roma,2024-11-10,Bologna,L,W,L,L,D,3
+2025,Roma,2024-11-03,Hellas Verona,W,L,L,D,W,4
+2025,Roma,2024-10-31,Torino,L,L,D,W,W,7
+2025,Roma,2024-10-27,Fiorentina,L,D,W,W,D,7
+2025,Roma,2024-10-20,Inter,D,W,W,D,D,8
+2025,Roma,2024-10-06,Monza,W,W,D,D,L,9
+2025,Roma,2025-04-27,Inter,W,D,D,W,W,11
+2025,Roma,2025-03-29,Lecce,W,W,W,W,W,15
+2025,Roma,2024-09-15,Genoa,D,L,D,,,3
+2025,Roma,2024-09-01,Juventus,L,D,,,,2
+2025,Roma,2025-03-02,Como,W,W,W,D,W,13
+2025,Roma,2025-03-09,Empoli,W,W,W,W,D,15
+2025,Roma,2025-03-16,Cagliari,W,W,W,W,W,15
+2025,Roma,2024-09-22,Udinese,D,D,L,D,,6
+2025,Roma,2025-02-16,Parma,W,D,W,W,D,13
+2025,Roma,2025-04-06,Juventus,W,W,W,W,W,13
+2025,Roma,2024-12-07,Lecce,L,L,L,L,W,3
+2025,Roma,2024-12-15,Como,W,L,L,L,L,3
+2025,Roma,2024-12-22,Parma,L,W,L,L,L,6
+2025,Roma,2025-02-09,Venezia,D,W,W,D,W,11
+2025,Roma,2025-01-05,Lazio,D,W,L,W,L,10
+2025,Roma,2025-01-12,Bologna,W,D,W,L,W,8
+2025,Roma,2025-01-17,Genoa,D,W,D,W,L,11
+2025,Roma,2024-11-24,Napoli,L,L,W,L,L,3
+2025,Roma,2025-02-02,Napoli,W,W,D,W,D,11
+2025,Roma,2024-12-29,Milan,W,L,W,L,L,7
+2025,Roma,2024-12-02,Atalanta,L,L,L,W,L,3
+2025,Roma,2025-01-26,Udinese,W,D,W,D,W,11
+2025,Roma,2024-08-18,Cagliari,,,,,,1
+2025,Roma,2024-08-25,Empoli,D,,,,,1
+2025,Roma,2025-05-25,Torino,W,L,W,W,W,12
+2025,Roma,2025-05-18,Milan,L,W,W,W,D,12
+2025,Roma,2025-05-12,Atalanta,W,W,W,D,D,10
+2025,Roma,2025-05-04,Fiorentina,W,W,D,D,W,11
+2025,Torino,2025-02-08,Genoa,D,W,D,D,D,7
+2025,Torino,2025-01-11,Juventus,D,D,L,W,D,6
+2025,Torino,2025-01-19,Fiorentina,D,D,D,L,W,4
+2025,Torino,2024-08-17,Milan,,,,,,1
+2025,Torino,2024-08-25,Atalanta,D,,,,,4
+2025,Torino,2024-08-30,Venezia,W,D,,,,7
+2025,Torino,2024-12-07,Genoa,L,D,L,L,L,2
+2025,Torino,2025-03-15,Empoli,D,W,W,L,D,10
+2025,Torino,2025-01-24,Cagliari,D,D,D,D,L,7
+2025,Torino,2025-02-01,Atalanta,W,D,D,D,D,7
+2025,Torino,2025-03-08,Parma,W,W,L,D,D,8
+2025,Torino,2025-02-14,Bologna,D,D,W,D,D,6
+2025,Torino,2025-02-22,Milan,L,D,D,W,D,8
+2025,Torino,2025-03-02,Monza,W,L,D,D,W,8
+2025,Torino,2025-04-27,Napoli,W,L,D,D,W,5
+2025,Torino,2025-04-13,Como,D,D,W,D,W,6
+2025,Torino,2025-04-06,Hellas Verona,D,W,D,W,W,9
+2025,Torino,2025-04-23,Udinese,L,D,D,W,D,8
+2025,Torino,2025-05-02,Venezia,L,W,L,D,D,5
+2025,Torino,2024-10-05,Inter,L,W,D,W,W,7
+2025,Torino,2025-01-05,Parma,D,L,W,D,L,6
+2025,Torino,2025-03-31,Lazio,W,D,W,W,L,11
+2025,Torino,2024-12-01,Napoli,D,L,L,L,W,1
+2025,Torino,2024-11-24,Monza,L,L,L,W,L,4
+2025,Torino,2024-11-09,Juventus,L,L,W,L,L,3
+2025,Torino,2024-11-03,Fiorentina,L,W,L,L,L,3
+2025,Torino,2024-10-31,Roma,W,L,L,L,W,3
+2025,Torino,2024-10-25,Como,L,L,L,W,D,6
+2025,Torino,2024-10-20,Cagliari,L,L,W,D,W,4
+2025,Torino,2024-12-13,Empoli,D,L,D,L,L,5
+2025,Torino,2024-09-29,Lazio,W,D,W,W,D,10
+2025,Torino,2024-09-20,Hellas Verona,D,W,W,D,,11
+2025,Torino,2024-09-15,Lecce,W,W,D,,,8
+2025,Torino,2025-05-25,Roma,L,L,D,L,W,1
+2025,Torino,2025-05-18,Lecce,L,D,L,W,L,4
+2025,Torino,2025-05-11,Inter,D,L,W,L,D,4
+2025,Torino,2024-12-21,Bologna,W,D,L,D,L,5
+2025,Torino,2024-12-29,Udinese,L,W,D,L,D,5
+2025,Udinese,2024-10-25,Cagliari,L,W,L,L,W,6
+2025,Udinese,2025-05-25,Fiorentina,L,L,W,D,L,4
+2025,Udinese,2024-11-25,Empoli,L,L,L,W,L,4
+2025,Udinese,2024-12-01,Genoa,D,L,L,L,W,1
+2025,Udinese,2025-05-18,Juventus,L,W,D,L,L,4
+2025,Udinese,2025-05-11,Monza,W,D,L,L,L,4
+2025,Udinese,2025-05-03,Cagliari,D,L,L,L,L,4
+2025,Udinese,2025-04-28,Bologna,L,L,L,L,L,1
+2025,Udinese,2025-04-23,Torino,L,L,L,L,D,0
+2025,Udinese,2024-08-24,Lazio,D,,,,,4
+2025,Udinese,2025-02-01,Venezia,L,L,D,D,D,5
+2025,Udinese,2024-10-30,Venezia,W,L,W,L,L,6
+2025,Udinese,2024-10-19,Milan,W,L,L,W,W,6
+2025,Udinese,2025-04-04,Genoa,L,L,D,W,W,4
+2025,Udinese,2024-09-22,Roma,W,W,W,D,,10
+2025,Udinese,2024-08-18,Bologna,,,,,,1
+2025,Udinese,2024-09-01,Como,W,D,,,,7
+2025,Udinese,2024-09-28,Inter,L,W,W,W,D,9
+2025,Udinese,2024-09-16,Parma,W,W,D,,,10
+2025,Udinese,2025-01-26,Roma,L,D,D,D,W,3
+2025,Udinese,2024-10-05,Lecce,L,L,W,W,W,9
+2025,Udinese,2025-03-30,Inter,L,D,W,W,W,7
+2025,Udinese,2025-03-15,Hellas Verona,D,W,W,W,D,10
+2025,Udinese,2025-03-10,Lazio,W,W,W,D,W,11
+2025,Udinese,2025-03-01,Parma,W,W,D,W,L,13
+2025,Udinese,2025-02-21,Lecce,W,D,W,L,L,10
+2025,Udinese,2025-02-16,Empoli,D,W,L,L,D,7
+2025,Udinese,2025-02-09,Napoli,W,L,L,D,D,5
+2025,Udinese,2024-12-09,Monza,L,D,L,L,L,4
+2025,Udinese,2025-04-11,Milan,L,L,L,D,W,1
+2025,Udinese,2025-01-20,Como,D,D,D,W,L,6
+2025,Udinese,2025-01-11,Atalanta,D,D,W,L,W,6
+2025,Udinese,2024-11-02,Juventus,L,W,L,W,L,6
+2025,Udinese,2025-01-04,Hellas Verona,D,W,L,W,L,8
+2025,Udinese,2024-12-29,Torino,W,L,W,L,D,7
+2025,Udinese,2024-11-10,Atalanta,L,L,W,L,W,3
+2025,Udinese,2024-12-23,Fiorentina,L,W,L,D,L,7
+2025,Udinese,2024-12-14,Napoli,W,L,D,L,L,4
+2025,Venezia,2025-02-17,Genoa,L,L,D,D,L,2
+2025,Venezia,2024-09-14,Milan,L,D,L,,,1
+2025,Venezia,2024-08-18,Lazio,,,,,,0
+2025,Venezia,2024-08-25,Fiorentina,L,,,,,1
+2025,Venezia,2024-08-30,Torino,D,L,,,,1
+2025,Venezia,2024-09-21,Genoa,L,L,D,L,,4
+2025,Venezia,2024-09-29,Roma,W,L,L,D,L,4
+2025,Venezia,2024-10-04,Hellas Verona,L,W,L,L,D,3
+2025,Venezia,2024-10-20,Atalanta,L,L,W,L,L,3
+2025,Venezia,2024-10-27,Monza,L,L,L,W,L,4
+2025,Venezia,2024-10-30,Udinese,D,L,L,L,W,4
+2025,Venezia,2024-12-29,Napoli,W,D,D,L,L,5
+2025,Venezia,2025-04-12,Monza,D,L,D,D,D,6
+2025,Venezia,2025-01-04,Empoli,L,W,D,D,L,6
+2025,Venezia,2025-01-12,Inter,D,L,W,D,D,5
+2025,Venezia,2025-01-19,Parma,L,D,L,W,D,5
+2025,Venezia,2025-01-27,Hellas Verona,D,L,D,L,W,3
+2025,Venezia,2025-02-01,Udinese,D,D,L,D,L,3
+2025,Venezia,2025-02-09,Roma,L,D,D,L,D,2
+2025,Venezia,2024-12-22,Cagliari,D,D,L,L,L,5
+2025,Venezia,2025-02-22,Lazio,L,L,L,D,D,2
+2025,Venezia,2025-03-01,Atalanta,D,L,L,L,D,2
+2025,Venezia,2025-03-08,Como,D,D,L,L,L,3
+2025,Venezia,2025-03-16,Napoli,D,D,D,L,L,4
+2025,Venezia,2025-03-29,Bologna,D,D,D,D,L,4
+2025,Venezia,2025-04-06,Lecce,L,D,D,D,D,4
+2025,Venezia,2024-11-03,Inter,W,D,L,L,L,4
+2025,Venezia,2025-04-20,Empoli,W,D,L,D,D,6
+2025,Venezia,2025-04-27,Milan,D,W,D,L,D,5
+2025,Venezia,2025-05-02,Torino,L,D,W,D,L,6
+2025,Venezia,2025-05-12,Fiorentina,D,L,D,W,D,8
+2025,Venezia,2025-05-18,Cagliari,W,D,L,D,W,5
+2025,Venezia,2025-05-25,Juventus,L,W,D,L,D,4
+2025,Venezia,2024-11-09,Parma,L,W,D,L,L,4
+2025,Venezia,2024-11-25,Lecce,L,L,W,D,L,4
+2025,Venezia,2024-11-30,Bologna,L,L,L,W,D,3
+2025,Venezia,2024-12-08,Como,L,L,L,L,W,1
+2025,Venezia,2024-12-14,Juventus,D,L,L,L,L,2
